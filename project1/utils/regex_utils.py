@@ -79,3 +79,9 @@ def split_chapters(text, roman_numeral=True):
         return re.split(r'CHAPTER [IVXLCDM]+', text, flags=re.IGNORECASE)
     else:
         return re.split(r'CHAPTER \d+', text, flags=re.IGNORECASE)
+
+def remove_character(text):
+
+    regExp = "[^\w\d]"
+    text = re.Replace(text, "[^0-9a-zA-Z]+", " ")
+    return text

@@ -1,4 +1,5 @@
 import os
+import re
 
 
 def get_stop_words(fn):
@@ -12,3 +13,5 @@ def get_stop_words(fn):
 def get_text(fn, basedir):
     with open(os.path.join(basedir, fn), 'r', encoding='utf-8') as f:
         return f.read()
+
+
