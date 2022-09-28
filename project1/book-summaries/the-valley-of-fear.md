@@ -1,34 +1,51 @@
 # The Valley of Fear
 
 ## Links
-- 
--
+- https://en.wikipedia.org/wiki/The_Valley_of_Fear
+- https://www.gradesaver.com/the-valley-of-fear
+
 ## Detective Pair
 - Sherlock Holmes
 - Dr. John Watson
-  should be in chapter 1
+
 
 ## First Crime Mention
 Part1, Chapter 3
-Holmes reads the note, which was sent by Tobias Gregson, a detective at Scotland Yard. Gregson requests Holmes’s help regarding the mysterious death of an American man named Enoch Drebber, who was found in an empty house in Brixton. Holmes explains that Gregson and another colleague, Lestrade, are the best detectives at the Yard but they’re conventional thinkers. At Watson’s instigation, Holmes decides to help, and the men depart.
 
-At the house in Brixton, Gregson and Lestrade show Holmes and Watson the body in the dining room. Despite blood splatters, the cause of death remains unclear. When they move the body to examine it, a wedding ring falls to the floor. Gregson tells Holmes that he’s contacted offices in the United States with inquiries about Drebber and another man, Stangerson, whose name appears on a letter on the body.
+Ames the butler and Mrs. Allen the housekeeper were the only other two people whose presence in the house mattered that night.
+
+The dead man was on his back in the study. A sawed-off shotgun fired at close range had killed him. He wore only a pink dressing gown. There was one dumbbell in the room.
+
+Barker explained that he had just gone to bed when he heard the noise of the shot and came down and saw Douglas lying there. He blew out the candle and lit the lamp. When Mrs. Douglas started to come down, he held her off. He lowered the drawbridge at that point.
+
+Wilson asked if perhaps Douglas shot himself, but Barker said that, while he thought that too at first, he had discovered a smudge of blood on the windowsill. It appeared someone shot Douglas and then left through the window. The man may have waded across the moat to escape. In terms of when he got there, he must have arrived earlier that day and hid.
 
 ## Perpetrator
-Perpetrator
-- Jefferson Hope
+- Boss (Bodymaster) McGinty (one of the major villians)
+- Professor James Moriarty (Perpetrator, arch nemesis of Sherlock Holmes)
 
 ## All Characters
 - Sherlock Holmes (Main Detective Duo)
 - Dr. John Watson (Main Detective Duo)
-- Jefferson Hope (Perpetrator)
-- Tobias Gregson (Detective at Scotland Yard)
-- Arthur Charpentier (suspect)
-- Mr. Lestrade (Detective)
-- John Ferrier
-- Lucy Ferrier (daughter john ferrier, loves jefferson hope)
-- Enoch Drebber (first victim)
-- Joseph Stangerson (second victim, also suspect)
-- Brigham Young (leader and prophet of the Mormons, saves John Ferrier’s life)
-- John Rance (onstable at Scotland Yard, first offer on the scene of Drebber's murder)
-- Stamford (connects holmes and watson)
+- Professor James Moriarty (Perpetrator, arch nemesis of Sherlock Holmes)
+- Porlock (associate of Professor Moriarty)
+- John Douglas/Jack McMurdo/Birdy Edwards (victim then alive then victim again, goes by douglas)
+- Boss (Bodymaster) McGinty (one of the major villians, The cruel and brutal leader of “the Scowrers," a murderous society not unlike the Mafia)
+- Inspector MacDonald (law enforcement)
+- White Mason (law enforcement)
+- Mrs. (Ivy) Douglas (family of victim, fabricates crime scene)
+- Cecil Barker (friend of victim, fabricates crime scene)
+- Ames (butler of manor hours)
+- Mrs. Allen (elderly and dead housekeeper at manor hours)
+- Scanlan (scrower, helful loyal member of EOF)
+- Ettie Shafter (daughter of jacob shafter, foe of EOF)
+- Teddy Baldwin (wants to marry ettie, tries to kill mcMurdo/douglas, is killed by mcMurdo/douglas in self defense)
+- Evans Pott (EOF leader, county delegate)
+- Lawler and Andrews (assassins sent by evans pott  to carry out the murders at the mine)
+- Chester Wilcox (A local mine owner targeted by the Scowrers)
+- James Stanger (The newspaper editor critical of the Scowrers; McGinty orders him to be beaten.)
+- Captain Marvin(The new member of the Iron and Coal Police who initially seems to be an enemy of McMurdo; later, however, he is revealed to be in on McMurdo's true identity as a Pinkerton undercover agent)
+
+
+
+
