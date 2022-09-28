@@ -1,6 +1,6 @@
-(((0;;;0))) warn incline think say
+(((0;;;0))) incline think say
 (((0;;;1))) sherlock holmes remark impatiently
-(((0;;;2))) believe long suffer mortal admit annoy sardonic interruption
+(((0;;;2))) believe long suffer mortal will admit annoy sardonic interruption
 (((0;;;3))) holmes say severely little try time
 (((0;;;4))) absorb thought immediate answer remonstrance
 (((0;;;5))) lean hand untasted breakfast stare slip paper draw envelope
@@ -172,17 +172,17 @@
 (((0;;;171))) early bird mr mac say
 (((0;;;172))) wish luck worm
 (((0;;;173))) fear mean mischief afoot
-(((0;;;174))) say hope instead fear near truth think mr holmes inspector answer know grin
+(((0;;;174))) say hope instead fear near truth be think mr holmes inspector answer know grin
 (((0;;;175))) maybe wee nip raw morning chill
 (((0;;;176))) win t smoke thank
-(((0;;;177))) push way early hour case precious one man know good self
+(((0;;;177))) will push way early hour case precious one man know good self
 (((0;;;178))) inspector stop suddenly stare look absolute amazement paper table
 (((0;;;179))) sheet scrawl enigmatic message
 (((0;;;180))) douglas stammer
 (((0;;;181))) birlstone mr holmes man witchcraft wonderful name cipher dr watson occasion solve
 (((0;;;182))) amiss name inspector look daze astonishment
 (((0;;;183))) say mr douglas birlstone manor house horribly murder night
-(((1;;;0))) sherlock holmes discourse dramatic moment friend exist
+(((1;;;0))) dramatic moment friend exist
 (((1;;;1))) overstatement shock excite amaze announcement
 (((1;;;2))) have tinge cruelty singular composition undoubtedly callous long overstimulation
 (((1;;;3))) emotion dull intellectual perception exceedingly active
@@ -213,163 +213,162 @@
 (((1;;;28))) faith
 (((1;;;29))) promise write try trace
 (((1;;;30))) think know
-(((1;;;31))) professor hear mention exactly inspector macdonald smile eyelid quiver glance
-(((1;;;32))) win t conceal mr holmes think c
-(((1;;;33))) have
-(((1;;;34))) wee bite bee bonnet professor
-(((1;;;35))) inquiry mat
-(((1;;;36))) respectable learn talented sort man
-(((1;;;37))) glad get far recognize talent
-(((1;;;38))) man t recognize hear view business
-(((1;;;39))) chat eclipse
-(((1;;;40))) talk get way canna think reflector lantern globe clear minute
-(((1;;;41))) lend book don t mind say bite head good aberdeen upbringing
-(((1;;;42))) grand meenister thin face gray hair solemn like way talk
-(((1;;;43))) hand shoulder part like father bless cold cruel world
-(((1;;;44))) holmes chuckle rub hand
-(((1;;;45))) great say
-(((1;;;46))) great tell friend macdonald please touch interview suppose professor study
-(((1;;;47))) fine room fine handsome mr holmes
-(((1;;;48))) sit write desk
-(((1;;;49))) sun eye face shadow even mind lamp turn face
-(((1;;;50))) happen observe picture professor head don t miss mr holmes
-(((1;;;51))) maybe learn
-(((1;;;52))) yes see picture young woman head hand peep sideways
-(((1;;;53))) paint jean baptiste greuze
-(((1;;;54))) inspector endeavour look interest
-(((1;;;55))) jean baptiste greuze holmes continue join finger tip lean chair french artist flourish year 1750 1800
-(((1;;;56))) allude course work career
-(((1;;;57))) modern criticism indorsed high opinion form contemporary
-(((1;;;58))) inspector eye grow abstract
-(((1;;;59))) hadn t good say
-(((1;;;60))) holmes interrupt
-(((1;;;61))) say direct vital bear call birlstone mystery
-(((1;;;62))) fact sense call centre
-(((1;;;63))) macdonald smile feebly look appealingly
-(((1;;;64))) thought bite quick mr holmes
-(((1;;;65))) leave link t gap
-(((1;;;66))) wide world connection dead paint man affair birlstone knowledge come useful detective remark holmes
-(((1;;;67))) trivial fact year 1865 picture greuze entitle la jeune fille l agneau fetch million thousand franc thousand pound portalis sale start train reflection mind
-(((1;;;68))) clear
-(((1;;;69))) inspector look honestly interest
-(((1;;;70))) remind holmes continue professor salary ascertain trustworthy book reference
-(((1;;;71))) seven year
-(((1;;;72))) buy ay remarkable say inspector thoughtfully
-(((1;;;73))) talk away mr holmes
-(((1;;;74))) love
-(((1;;;75))) fine holmes smile
-(((1;;;76))) warm genuine admiration characteristic real artist
-(((1;;;77))) birlstone ask
-(((1;;;78))) time say inspector glance watch
-(((1;;;79))) cab door win t minute victoria
-(((1;;;80))) picture think tell mr holmes meet professor moriarty
-(((1;;;81))) know room ah mat
-(((1;;;82))) time room twice wait different pretext leave come
-(((1;;;83))) hardly tell official detective
-(((1;;;84))) occasion take liberty run paper unexpected result
-(((1;;;85))) find compromise absolutely
-(((1;;;86))) amaze
-(((1;;;87))) see point picture
-(((1;;;88))) show wealthy man
-(((1;;;89))) acquire wealth unmarried
-(((1;;;90))) young brother station master west england
-(((1;;;91))) chair worth seven year
-(((1;;;92))) own greuze
-(((1;;;93))) surely inference plain
-(((1;;;94))) mean great income earn illegal fashion exactly
-(((1;;;95))) course reason think dozen exiguous thread lead vague centre web poisonous motionless creature lurk
-(((1;;;96))) mention greuze bring mat range observation
-(((1;;;97))) mr holmes admit interest interest wonderful
-(((1;;;98))) let little clear
-(((1;;;99))) forgery coin burglary money come read jonathan wild familiar sound
-(((1;;;100))) novel don t stock detective novel chap thing let
-(((1;;;101))) inspiration business
-(((1;;;102))) jonathan wild wasn t detective wasn t novel
-(((1;;;103))) master criminal live century 1750 thereabouts
-(((1;;;104))) use
-(((1;;;105))) practical man
-(((1;;;106))) mr mac practical thing life shut month read hour day annals crime
-(((1;;;107))) come circle professor moriarty
-(((1;;;108))) jonathan wild hide force london criminal sell brain organization cent
-(((1;;;109))) commission
-(((1;;;110))) old wheel turn speak come
-(((1;;;111))) tell thing moriarty interest
-(((1;;;112))) interest right
-(((1;;;113))) happen know link chain chain napoleon go wrong end break fight man pickpocket blackmailer card sharpers sort crime
-(((1;;;114))) chief staff colonel sebastian moran aloof guard inaccessible law
-(((1;;;115))) think pay like hear
-(((1;;;116))) thousand year
-(((1;;;117))) pay brain american business principle
-(((1;;;118))) learn detail chance
-(((1;;;119))) prime minister get
-(((1;;;120))) give idea moriarty gain scale work
-(((1;;;121))) point business hunt moriarty check lately common innocent check pay household bill
-(((1;;;122))) draw different bank
-(((1;;;123))) impression mind queer certainly gather want gossip wealth
-(((1;;;124))) single man know
-(((1;;;125))) doubt bank account bulk fortune abroad deutsche bank credit lyonnais likely
-(((1;;;126))) year spare commend study professor moriarty
-(((1;;;127))) inspector macdonald grow steadily impress conversation proceed
-(((1;;;128))) lose interest
-(((1;;;129))) practical scotch intelligence bring snap mat hand
-(((1;;;130))) say
-(((1;;;131))) get track interest anecdote mr holmes
-(((1;;;132))) count remark connection professor crime
-(((1;;;133))) warn receive man porlock
-(((1;;;134))) present practical need form conception motive crime
-(((1;;;135))) gather original remark inexplicable unexplained murder
-(((1;;;136))) presume source crime suspect different motive
-(((1;;;137))) place tell moriarty rule rod iron people
-(((1;;;138))) discipline tremendous
-(((1;;;139))) punishment code
-(((1;;;140))) death
-(((1;;;141))) suppose murder man douglas approach fate know arch criminal subordinate way betray chief
-(((1;;;142))) punishment follow know fear death
-(((1;;;143))) suggestion mr holmes
-(((1;;;144))) engineer moriarty ordinary course business
-(((1;;;145))) robbery hear
-(((1;;;146))) course hypothesis favour 2
-(((1;;;147))) moriarty engage engineer promise spoil pay manage
-(((1;;;148))) possible
-(((1;;;149))) whichever combination birlstone seek solution
-(((1;;;150))) know man suppose leave lead
-(((1;;;151))) birlstone cry macdonald jump chair
-(((1;;;152))) word late think
-(((1;;;153))) gentleman minute preparation
-(((1;;;154))) ample say holmes spring hasten change dress gown coat
-(((1;;;155))) way mr mac ask good tell
-(((1;;;156))) prove disappointingly little assure case worthy expert close attention
-(((1;;;157))) brighten rub thin hand listen meagre remarkable detail
-(((1;;;158))) long series sterile week lie fit object remarkable power like special gift irksome owner use
-(((1;;;159))) razor brain blunt rust inaction
-(((1;;;160))) sherlock holmes eye glisten pale cheek take warm hue eager face shine inward light work reach
-(((1;;;161))) lean forward cab listen intently macdonald short sketch problem await sussex
-(((1;;;162))) inspector dependent explain scribble account forward milk train early hour morning
-(((1;;;163))) white mason local officer personal friend macdonald notify promptly usual scotland yard provincial need assistance
-(((1;;;164))) cold scent metropolitan expert generally ask run
-(((1;;;165))) dear inspector macdonald say letter read official requisition service separate envelope
-(((1;;;166))) private eye
-(((1;;;167))) wire train morning birlstone meet meet occupy
-(((1;;;168))) case snorter
-(((1;;;169))) don t waste moment get start
-(((1;;;170))) bring mr holmes find heart
-(((1;;;171))) think fix theatrical effect wasn t dead man middle
-(((1;;;172))) word snorter
-(((1;;;173))) friend fool remark holmes
-(((1;;;174))) sir white mason live man judge
-(((1;;;175))) detail meet
-(((1;;;176))) mr douglas fact horribly murder inclose official report
-(((1;;;177))) didn t horrible recognize official term
-(((1;;;178))) give john douglas
-(((1;;;179))) mention injury head discharge shotgun
-(((1;;;180))) mention hour alarm close midnight night
-(((1;;;181))) add case undoubtedly murder arrest case present perplex extraordinary feature
-(((1;;;182))) absolutely present mr holmes
-(((1;;;183))) permission leave mr mac
-(((1;;;184))) temptation form premature theory insufficient datum bane profession
-(((1;;;185))) thing certain present great brain london dead man sussex
-(((1;;;186))) chain go trace
-(((2;;;0))) tragedy birlstone moment ask leave remove insignificant personality describe event occur arrive scene light knowledge come
+(((1;;;31))) professor have hear mention exactly inspector macdonald smile eyelid quiver glance
+(((1;;;32))) win t conceal mr holmes think cid
+(((1;;;33))) wee bite bee bonnet professor
+(((1;;;34))) inquiry mat
+(((1;;;35))) respectable learn talented sort man
+(((1;;;36))) be glad have get far recognize talent
+(((1;;;37))) man t recognize hear view business
+(((1;;;38))) chat eclipse
+(((1;;;39))) talk get way canna think reflector lantern globe clear minute
+(((1;;;40))) lend book don t mind say bite head good aberdeen upbringing
+(((1;;;41))) have grand meenister thin face gray hair solemn like way talk
+(((1;;;42))) hand shoulder part like father bless cold cruel world
+(((1;;;43))) holmes chuckle rub hand
+(((1;;;44))) great say
+(((1;;;45))) great tell friend macdonald please touch interview suppose professor study
+(((1;;;46))) fine room fine handsome mr holmes
+(((1;;;47))) sit write desk
+(((1;;;48))) sun eye face shadow even mind lamp turn face
+(((1;;;49))) happen observe picture professor head don t miss mr holmes
+(((1;;;50))) maybe learn
+(((1;;;51))) yes see picture young woman head hand peep sideways
+(((1;;;52))) paint jean baptiste greuze
+(((1;;;53))) inspector endeavour look interest
+(((1;;;54))) jean baptiste greuze holmes continue join finger tip lean chair french artist flourish year 1750 1800
+(((1;;;55))) allude course work career
+(((1;;;56))) modern criticism indorsed high opinion form contemporary
+(((1;;;57))) inspector eye grow abstract
+(((1;;;58))) hadn t good say
+(((1;;;59))) holmes interrupt
+(((1;;;60))) say direct vital bear call birlstone mystery
+(((1;;;61))) fact sense call centre
+(((1;;;62))) macdonald smile feebly look appealingly
+(((1;;;63))) thought bite quick mr holmes
+(((1;;;64))) leave link t gap
+(((1;;;65))) wide world connection dead paint man affair birlstone knowledge come useful detective remark holmes
+(((1;;;66))) trivial fact year 1865 picture greuze entitle la jeune fille l agneau fetch million thousand franc thousand pound portalis sale start train reflection mind
+(((1;;;67))) clear
+(((1;;;68))) inspector look honestly interest
+(((1;;;69))) remind holmes continue professor salary ascertain trustworthy book reference
+(((1;;;70))) seven year
+(((1;;;71))) buy ay remarkable say inspector thoughtfully
+(((1;;;72))) talk away mr holmes
+(((1;;;73))) be love
+(((1;;;74))) fine holmes smile
+(((1;;;75))) warm genuine admiration characteristic real artist
+(((1;;;76))) birlstone ask
+(((1;;;77))) have time say inspector glance watch
+(((1;;;78))) have cab door win t minute victoria
+(((1;;;79))) picture think tell mr holmes meet professor moriarty
+(((1;;;80))) know room ah mat
+(((1;;;81))) time room twice wait different pretext leave come
+(((1;;;82))) hardly tell official detective
+(((1;;;83))) occasion take liberty run paper unexpected result
+(((1;;;84))) find compromise absolutely
+(((1;;;85))) amaze
+(((1;;;86))) see point picture
+(((1;;;87))) show wealthy man
+(((1;;;88))) acquire wealth unmarried
+(((1;;;89))) young brother station master west england
+(((1;;;90))) chair worth seven year
+(((1;;;91))) own greuze
+(((1;;;92))) surely inference plain
+(((1;;;93))) mean great income earn illegal fashion exactly
+(((1;;;94))) course reason think dozen exiguous thread lead vague centre web poisonous motionless creature lurk
+(((1;;;95))) mention greuze bring mat range observation
+(((1;;;96))) mr holmes admit interest interest wonderful
+(((1;;;97))) let little clear
+(((1;;;98))) forgery coin burglary money come read jonathan wild familiar sound
+(((1;;;99))) novel don t stock detective novel chap thing let
+(((1;;;100))) inspiration business
+(((1;;;101))) jonathan wild wasn t detective wasn t novel
+(((1;;;102))) master criminal live century 1750 thereabouts
+(((1;;;103))) use
+(((1;;;104))) be practical man
+(((1;;;105))) mr mac practical thing life shut month read hour day annals crime
+(((1;;;106))) come circle professor moriarty
+(((1;;;107))) jonathan wild hide force london criminal sell brain organization cent
+(((1;;;108))) commission
+(((1;;;109))) old wheel turn speak come
+(((1;;;110))) will tell thing moriarty interest
+(((1;;;111))) will interest right
+(((1;;;112))) happen know link chain chain napoleon go wrong end break fight man pickpocket blackmailer card sharpers sort crime
+(((1;;;113))) chief staff colonel sebastian moran aloof guard inaccessible law
+(((1;;;114))) think pay have like hear
+(((1;;;115))) thousand year
+(((1;;;116))) pay brain american business principle
+(((1;;;117))) learn detail chance
+(((1;;;118))) prime minister get
+(((1;;;119))) give idea moriarty gain scale work
+(((1;;;120))) point business hunt moriarty check lately common innocent check pay household bill
+(((1;;;121))) draw different bank
+(((1;;;122))) impression mind queer certainly gather want gossip wealth
+(((1;;;123))) single man know
+(((1;;;124))) doubt bank account bulk fortune abroad deutsche bank credit lyonnais likely
+(((1;;;125))) year spare commend study professor moriarty
+(((1;;;126))) inspector macdonald grow steadily impress conversation proceed
+(((1;;;127))) lose interest
+(((1;;;128))) practical scotch intelligence bring snap mat hand
+(((1;;;129))) say
+(((1;;;130))) have get track interest anecdote mr holmes
+(((1;;;131))) count remark connection professor crime
+(((1;;;132))) warn receive man porlock
+(((1;;;133))) present practical need form conception motive crime
+(((1;;;134))) gather original remark inexplicable unexplained murder
+(((1;;;135))) presume source crime suspect different motive
+(((1;;;136))) place tell moriarty rule rod iron people
+(((1;;;137))) discipline tremendous
+(((1;;;138))) punishment code
+(((1;;;139))) death
+(((1;;;140))) suppose murder man douglas approach fate know arch criminal subordinate way betray chief
+(((1;;;141))) punishment follow know fear death
+(((1;;;142))) suggestion mr holmes
+(((1;;;143))) engineer moriarty ordinary course business
+(((1;;;144))) robbery hear
+(((1;;;145))) course hypothesis favour 2
+(((1;;;146))) moriarty engage engineer promise spoil pay manage
+(((1;;;147))) possible
+(((1;;;148))) whichever combination birlstone seek solution
+(((1;;;149))) know man suppose leave lead
+(((1;;;150))) birlstone cry macdonald jump chair
+(((1;;;151))) word late think
+(((1;;;152))) gentleman minute preparation
+(((1;;;153))) ample say holmes spring hasten change dress gown coat
+(((1;;;154))) way mr mac ask good tell
+(((1;;;155))) prove disappointingly little assure case worthy expert close attention
+(((1;;;156))) brighten rub thin hand listen meagre remarkable detail
+(((1;;;157))) long series sterile week lie fit object remarkable power like special gift irksome owner use
+(((1;;;158))) razor brain blunt rust inaction
+(((1;;;159))) sherlock holmes eye glisten pale cheek take warm hue eager face shine inward light work reach
+(((1;;;160))) lean forward cab listen intently macdonald short sketch problem await sussex
+(((1;;;161))) inspector dependent explain scribble account forward milk train early hour morning
+(((1;;;162))) white mason local officer personal friend macdonald notify promptly usual scotland yard provincial need assistance
+(((1;;;163))) cold scent metropolitan expert generally ask run
+(((1;;;164))) dear inspector macdonald say letter read official requisition service separate envelope
+(((1;;;165))) private eye
+(((1;;;166))) wire train morning birlstone meet meet occupy
+(((1;;;167))) case snorter
+(((1;;;168))) don t waste moment get start
+(((1;;;169))) bring mr holmes find heart
+(((1;;;170))) think fix theatrical effect wasn t dead man middle
+(((1;;;171))) word snorter
+(((1;;;172))) friend fool remark holmes
+(((1;;;173))) sir white mason live man judge
+(((1;;;174))) detail meet
+(((1;;;175))) mr douglas fact horribly murder inclose official report
+(((1;;;176))) didn t horrible recognize official term
+(((1;;;177))) give john douglas
+(((1;;;178))) mention injury head discharge shotgun
+(((1;;;179))) mention hour alarm close midnight night
+(((1;;;180))) add case undoubtedly murder arrest case present perplex extraordinary feature
+(((1;;;181))) absolutely present mr holmes
+(((1;;;182))) permission leave mr mac
+(((1;;;183))) temptation form premature theory insufficient datum bane profession
+(((1;;;184))) thing certain present great brain london dead man sussex
+(((1;;;185))) chain go trace
+(((2;;;0))) moment ask leave remove insignificant personality describe event occur arrive scene light knowledge come
 (((2;;;1))) way reader appreciate people concern strange set fate cast
 (((2;;;2))) village birlstone small ancient cluster half timber cottage northern border county sussex
 (((2;;;3))) century remain unchanged year picturesque appearance situation attract numb resident villa peep wood
@@ -442,7 +441,7 @@
 (((2;;;70))) country policeman unnerve trouble tremendous responsibility come suddenly
 (((2;;;71))) touch superior arrive say hush voice stare horror dreadful head
 (((2;;;72))) touch say cecil barker
-(((2;;;73))) answer
+(((2;;;73))) will answer
 (((2;;;74))) exactly find
 (((2;;;75))) sergeant draw notebook
 (((2;;;76))) half past
@@ -472,11 +471,11 @@
 (((2;;;100))) douglas let enter room
 (((2;;;101))) horrible
 (((2;;;102))) horrible say doctor look shatter head terrible mark surround
-(((2;;;103))) see injury birlstone railway smash
+(((2;;;103))) have see injury birlstone railway smash
 (((2;;;104))) remark police sergeant slow bucolic common sense ponder open window
 (((2;;;105))) say man escape wade moat ask house bridge ah question say barker
 (((2;;;106))) o clock raise nearly o clock say ames butler
-(((2;;;107))) hear say sergeant usually raise sunset
+(((2;;;107))) have hear say sergeant usually raise sunset
 (((2;;;108))) near half past time year
 (((2;;;109))) mrs
 (((2;;;110))) douglas visitor tea say ames
@@ -509,7 +508,7 @@
 (((2;;;137))) mr douglas alter picture yesterday say
 (((2;;;138))) see stand chair fix big picture
 (((2;;;139))) account hammer
-(((2;;;140))) good rug find say sergeant scratch puzzle head perplexity
+(((2;;;140))) have good rug find say sergeant scratch puzzle head perplexity
 (((2;;;141))) want good brain force thing
 (((2;;;142))) london job finish
 (((2;;;143))) raise hand lamp walk slowly round room
@@ -518,7 +517,7 @@
 (((2;;;146))) shortly
 (((2;;;147))) hide sure
 (((2;;;148))) hold light mark muddy boot visible corner
-(((2;;;149))) bind bear theory mr barker
+(((2;;;149))) be bind bear theory mr barker
 (((2;;;150))) look man get house curtain draw bridge raise
 (((2;;;151))) slip room see
 (((2;;;152))) place hide pop curtain
@@ -540,12 +539,12 @@
 (((2;;;168))) mean don t profess know mean say cecil barker see mark douglas time year
 (((2;;;169))) say butler
 (((2;;;170))) time master roll sleeve notice mark
-(((2;;;171))) wonder
+(((2;;;171))) have wonder
 (((2;;;172))) crime say sergeant
 (((2;;;173))) rum thing
 (((2;;;174))) case rum
 (((2;;;175))) butler give exclamation astonishment point dead man outstretch hand
-(((2;;;176))) take wed ring gasp
+(((2;;;176))) have take wed ring gasp
 (((2;;;177))) yes
 (((2;;;178))) master wear plain gold wed ring little finger leave hand
 (((2;;;179))) ring rough nugget twist snake ring finger
@@ -557,14 +556,14 @@
 (((2;;;185))) white mason smart man
 (((2;;;186))) local job white mason
 (((2;;;187))) win t long help
-(((2;;;188))) expect look london
-(((2;;;189))) ashamed deal thick like
-(((3;;;0))) darkness morning chief sussex detective obey urgent sergeant wilson birlstone arrive headquarter light dog cart breathless trotter
+(((2;;;188))) expect will look london
+(((2;;;189))) be ashamed deal thick like
+(((3;;;0))) morning chief sussex detective obey urgent sergeant wilson birlstone arrive headquarter light dog cart breathless trotter
 (((3;;;1))) train morning send message scotland yard birlstone station o clock welcome
 (((3;;;2))) white mason quiet comfortable look person loose tweed suit clean shave ruddy face stoutish body powerful bandy leg adorn gaiter look like small farmer retire gamekeeper earth favourable specimen provincial criminal officer
 (((3;;;3))) real downright snorter mr macdonald keep repeat
-(((3;;;4))) pressman like fly understand
-(((3;;;5))) hope work poke nose mess trail
+(((3;;;4))) will pressman like fly understand
+(((3;;;5))) be hope work poke nose mess trail
 (((3;;;6))) like remember
 (((3;;;7))) bite come home mr holmes mistake
 (((3;;;8))) dr watson medico word finish
@@ -579,7 +578,7 @@
 (((3;;;17))) remarkable say story unfold remarkable hardly recall case feature peculiar
 (((3;;;18))) think mr holmes say white mason great delight
 (((3;;;19))) time sussex
-(((3;;;20))) tell matter time take sergeant wilson morning
+(((3;;;20))) have tell matter time take sergeant wilson morning
 (((3;;;21))) word old mare need hurry turn immediate
 (((3;;;22))) sergeant wilson fact
 (((3;;;23))) check consider maybe add
@@ -625,8 +624,8 @@
 (((3;;;63))) fit box
 (((3;;;64))) swear gun house see
 (((3;;;65))) macdonald shake obstinate scotch head
-(((3;;;66))) convince house say
-(((3;;;67))) ask conseedar accent aberdonian lose argument ask conseedar involve suppose gun bring house strange thing person outside
+(((3;;;66))) be convince house say
+(((3;;;67))) be ask conseedar accent aberdonian lose argument be ask conseedar involve suppose gun bring house strange thing person outside
 (((3;;;68))) oh man inconceivable clean common sense mr holmes judge hear
 (((3;;;69))) state case mr mac say holmes judicial style
 (((3;;;70))) man burglar suppose exist
@@ -653,7 +652,7 @@
 (((3;;;91))) wish score expense
 (((3;;;92))) time mr white mason claim right work way result time complete stage
 (((3;;;93))) sure honour presence know say white mason cordially
-(((3;;;94))) come dr watson time come hope place book
+(((3;;;94))) come dr watson time come will hope place book
 (((3;;;95))) walk quaint village street row pollard elm
 (((3;;;96))) ancient stone pillar weather stain lichen blotched bear summit shapeless rampant lion capus birlstone
 (((3;;;97))) short walk wind drive sward oak see rural england sudden turn long low jacobean house dingy live colour brick lie old fashion garden cut yew
@@ -669,7 +668,7 @@
 (((3;;;107))) squeeze right
 (((3;;;108))) holmes walk edge moat look
 (((3;;;109))) examine stone ledge grass border
-(((3;;;110))) good look mr holmes say white mason
+(((3;;;110))) have good look mr holmes say white mason
 (((3;;;111))) sign land leave sign exactly
 (((3;;;112))) water turbid generally colour
 (((3;;;113))) stream bring clay
@@ -683,125 +682,126 @@
 (((3;;;121))) fresh sergeant wilson ask white mason
 (((3;;;122))) sir
 (((3;;;123))) home
-(((3;;;124))) send want
-(((3;;;125))) butler good wait outside
-(((3;;;126))) tell warn mr cecil barker mrs
-(((3;;;127))) douglas housekeeper want word presently
-(((3;;;128))) gentleman allow view form able arrive
-(((3;;;129))) impress country specialist
-(((3;;;130))) solid grip fact cool clear common sense brain way profession
-(((3;;;131))) holmes listen intently sign impatience official exponent produce
-(((3;;;132))) suicide murder question gentleman suicide believe man begin take wed ring conceal come dress gown trample mud corner curtain order idea wait open window blood surely dismiss say macdonald
-(((3;;;133))) think
-(((3;;;134))) suicide question
-(((3;;;135))) murder
-(((3;;;136))) determine outside inside house
-(((3;;;137))) let hear argument
-(((3;;;138))) considerable difficulty way
-(((3;;;139))) suppose person person inside house crime
-(((3;;;140))) get man time asleep
-(((3;;;141))) deed queer noisy weapon world tell happen weapon see house
-(((3;;;142))) likely start
-(((3;;;143))) agree alarm give minute pass household mr cecil barker claim ames spot
-(((3;;;144))) tell time guilty person manage footmark corner open window mark sill blood wed ring dead man finger rest impossible clearly say holmes
-(((3;;;145))) incline agree
-(((3;;;146))) drive theory outside
-(((3;;;147))) face big difficulty cease impossibility
-(((3;;;148))) man get house thirty dusk time bridge raise
-(((3;;;149))) visitor door open prevent
-(((3;;;150))) common burglar private grudge mr douglas
-(((3;;;151))) mr douglas spend life america shotgun american weapon private grudge likely theory
-(((3;;;152))) slip room come hide curtain
-(((3;;;153))) remain past night
-(((3;;;154))) time mr douglas enter room
-(((3;;;155))) short interview interview mrs
-(((3;;;156))) douglas declare husband leave minute hear shoot
-(((3;;;157))) candle show say holmes
-(((3;;;158))) exactly
-(((3;;;159))) candle new burn half inch
-(((3;;;160))) place table attack course fall fall
-(((3;;;161))) show attack instant enter room
-(((3;;;162))) mr barker arrive candle light lamp
-(((3;;;163))) clear
-(((3;;;164))) reconstruct thing line
-(((3;;;165))) mr douglas enter room
-(((3;;;166))) put candle
-(((3;;;167))) man appear curtain
-(((3;;;168))) arm gun
-(((3;;;169))) demand wed ring heaven know
-(((3;;;170))) mr douglas give
-(((3;;;171))) cold blood course struggle douglas grip hammer find mat shoot douglas horrible way
-(((3;;;172))) drop gun queer card v
-(((3;;;173))) v
-(((3;;;174))) 341 mean escape window moat moment cecil barker discover crime
-(((3;;;175))) mr holmes interest little unconvincing
-(((3;;;176))) man absolute nonsense wasn t bad cry macdonald
-(((3;;;177))) somebody kill man clearly prove way
-(((3;;;178))) mean allow retreat cut like mean shotgun silence chance escape come mr holmes lead mr white mason theory unconvincing
-(((3;;;179))) holmes sit intently observant long discussion miss word say keen eye dart right leave forehead wrinkle speculation
-(((3;;;180))) like fact far theory mr mac say kneel body
-(((3;;;181))) dear injury appal
-(((3;;;182))) butler moment
-(((3;;;183))) ames understand see unusual mark brand triangle inside circle mr douglas forearm frequently sir
-(((3;;;184))) hear speculation mean sir
-(((3;;;185))) cause great pain inflict
-(((3;;;186))) undoubtedly burn
-(((3;;;187))) observe ames small piece plaster angle mr douglas jaw
-(((3;;;188))) observe life yes sir cut shave yesterday morning
-(((3;;;189))) know cut shave long time sir
-(((3;;;190))) suggestive say holmes
-(((3;;;191))) course mere coincidence point nervousness indicate reason apprehend danger
-(((3;;;192))) notice unusual conduct yesterday ames strike little restless excite sir
-(((3;;;193))) ha attack entirely unexpected
-(((3;;;194))) little progress question mr mac mr holmes good hand
-(((3;;;195))) pass card v
-(((3;;;196))) v
-(((3;;;197))) 341
-(((3;;;198))) rough cardboard
-(((3;;;199))) sort house don t think
-(((3;;;200))) holmes walk desk dab little ink bottle blot paper
-(((3;;;201))) print room say black ink purplish
-(((3;;;202))) thick pen fine
-(((3;;;203))) inscription ames sir
-(((3;;;204))) think mr mac give impression secret society sort badge forearm
-(((3;;;205))) idea say white mason
-(((3;;;206))) adopt work hypothesis far difficulty disappear
-(((3;;;207))) agent society make way house wait mr douglas blow head nearly weapon escape wade moat leave card dead man mention paper tell member society vengeance
-(((3;;;208))) hang
-(((3;;;209))) gun weapon exactly
-(((3;;;210))) miss ring
-(((3;;;211))) arrest past
-(((3;;;212))) grant dawn constable mile look wet strange mr holmes
-(((3;;;213))) burrow close change clothe ready hardly miss
-(((3;;;214))) miss holmes go window examine lens blood mark sill
-(((3;;;215))) clearly tread shoe
-(((3;;;216))) remarkably broad splay foot
-(((3;;;217))) curious far trace footmark mud stain corner shapely sole
-(((3;;;218))) certainly indistinct
-(((3;;;219))) table mr douglas dumb bell say ames
-(((3;;;220))) dumb bell
-(((3;;;221))) don t know mr holmes
-(((3;;;222))) notice month
-(((3;;;223))) dumb bell holmes say seriously remark interrupt sharp knock door
-(((3;;;224))) tall sunburn capable look clean shave man look
-(((3;;;225))) difficulty guess cecil barker hear
-(((3;;;226))) masterful eye travel quickly question glance face face
-(((3;;;227))) sorry interrupt consultation say hear late news
-(((3;;;228))) arrest luck
-(((3;;;229))) find bicycle
-(((3;;;230))) fellow leave bicycle
-(((3;;;231))) come look
-(((3;;;232))) yard hall door
-(((3;;;233))) find groom idler stand drive inspect bicycle draw clump evergreen conceal
-(((3;;;234))) rudge whitworth splash considerable journey
-(((3;;;235))) saddlebag spanner oilcan clue owner
-(((3;;;236))) grand help police say inspector thing number register
-(((3;;;237))) thankful get
-(((3;;;238))) t find go likely come
-(((3;;;239))) wonderful fellow leave world get away don t gleam light case mr holmes
-(((3;;;240))) don t friend answer thoughtfully
-(((3;;;241))) wonder
-(((4;;;0))) people drama see want study ask white mason reenter house
+(((3;;;124))) have
+(((3;;;125))) send want
+(((3;;;126))) butler good wait outside
+(((3;;;127))) tell warn mr cecil barker mrs
+(((3;;;128))) douglas housekeeper want word presently
+(((3;;;129))) gentleman allow view form able arrive
+(((3;;;130))) impress country specialist
+(((3;;;131))) solid grip fact cool clear common sense brain way profession
+(((3;;;132))) holmes listen intently sign impatience official exponent produce
+(((3;;;133))) suicide murder question gentleman suicide believe man begin take wed ring conceal come dress gown trample mud corner curtain order idea wait open window blood surely dismiss say macdonald
+(((3;;;134))) think
+(((3;;;135))) suicide question
+(((3;;;136))) murder
+(((3;;;137))) determine outside inside house
+(((3;;;138))) let hear argument
+(((3;;;139))) considerable difficulty way
+(((3;;;140))) suppose person person inside house crime
+(((3;;;141))) get man time asleep
+(((3;;;142))) deed queer noisy weapon world tell happen weapon see house
+(((3;;;143))) likely start
+(((3;;;144))) agree alarm give minute pass household mr cecil barker claim ames spot
+(((3;;;145))) tell time guilty person manage footmark corner open window mark sill blood wed ring dead man finger rest impossible clearly say holmes
+(((3;;;146))) incline agree
+(((3;;;147))) drive theory outside
+(((3;;;148))) face big difficulty cease impossibility
+(((3;;;149))) man get house thirty dusk time bridge raise
+(((3;;;150))) visitor door open prevent
+(((3;;;151))) common burglar private grudge mr douglas
+(((3;;;152))) mr douglas spend life america shotgun american weapon private grudge likely theory
+(((3;;;153))) slip room come hide curtain
+(((3;;;154))) remain past night
+(((3;;;155))) time mr douglas enter room
+(((3;;;156))) short interview interview mrs
+(((3;;;157))) douglas declare husband leave minute hear shoot
+(((3;;;158))) candle show say holmes
+(((3;;;159))) exactly
+(((3;;;160))) candle new burn half inch
+(((3;;;161))) place table attack course fall fall
+(((3;;;162))) show attack instant enter room
+(((3;;;163))) mr barker arrive candle light lamp
+(((3;;;164))) clear
+(((3;;;165))) reconstruct thing line
+(((3;;;166))) mr douglas enter room
+(((3;;;167))) put candle
+(((3;;;168))) man appear curtain
+(((3;;;169))) arm gun
+(((3;;;170))) demand wed ring heaven know
+(((3;;;171))) mr douglas give
+(((3;;;172))) cold blood course struggle douglas grip hammer find mat shoot douglas horrible way
+(((3;;;173))) drop gun queer card v
+(((3;;;174))) v
+(((3;;;175))) 341 mean escape window moat moment cecil barker discover crime
+(((3;;;176))) mr holmes interest little unconvincing
+(((3;;;177))) man absolute nonsense wasn t bad cry macdonald
+(((3;;;178))) somebody kill man clearly prove way
+(((3;;;179))) mean allow retreat cut like mean shotgun silence chance escape come mr holmes lead mr white mason theory unconvincing
+(((3;;;180))) holmes sit intently observant long discussion miss word say keen eye dart right leave forehead wrinkle speculation
+(((3;;;181))) like fact far theory mr mac say kneel body
+(((3;;;182))) dear injury appal
+(((3;;;183))) butler moment
+(((3;;;184))) ames understand see unusual mark brand triangle inside circle mr douglas forearm frequently sir
+(((3;;;185))) hear speculation mean sir
+(((3;;;186))) cause great pain inflict
+(((3;;;187))) undoubtedly burn
+(((3;;;188))) observe ames small piece plaster angle mr douglas jaw
+(((3;;;189))) observe life yes sir cut shave yesterday morning
+(((3;;;190))) know cut shave long time sir
+(((3;;;191))) suggestive say holmes
+(((3;;;192))) course mere coincidence point nervousness indicate reason apprehend danger
+(((3;;;193))) notice unusual conduct yesterday ames strike little restless excite sir
+(((3;;;194))) ha attack entirely unexpected
+(((3;;;195))) little progress question mr mac mr holmes good hand
+(((3;;;196))) pass card v
+(((3;;;197))) v
+(((3;;;198))) 341
+(((3;;;199))) rough cardboard
+(((3;;;200))) sort house don t think
+(((3;;;201))) holmes walk desk dab little ink bottle blot paper
+(((3;;;202))) print room say black ink purplish
+(((3;;;203))) thick pen fine
+(((3;;;204))) inscription ames sir
+(((3;;;205))) think mr mac give impression secret society sort badge forearm
+(((3;;;206))) idea say white mason
+(((3;;;207))) adopt work hypothesis far difficulty disappear
+(((3;;;208))) agent society make way house wait mr douglas blow head nearly weapon escape wade moat leave card dead man mention paper tell member society vengeance
+(((3;;;209))) hang
+(((3;;;210))) gun weapon exactly
+(((3;;;211))) miss ring
+(((3;;;212))) arrest past
+(((3;;;213))) grant dawn constable mile look wet strange mr holmes
+(((3;;;214))) burrow close change clothe ready hardly miss
+(((3;;;215))) miss holmes go window examine lens blood mark sill
+(((3;;;216))) clearly tread shoe
+(((3;;;217))) remarkably broad splay foot
+(((3;;;218))) curious far trace footmark mud stain corner shapely sole
+(((3;;;219))) certainly indistinct
+(((3;;;220))) table mr douglas dumb bell say ames
+(((3;;;221))) dumb bell
+(((3;;;222))) don t know mr holmes
+(((3;;;223))) notice month
+(((3;;;224))) dumb bell holmes say seriously remark interrupt sharp knock door
+(((3;;;225))) tall sunburn capable look clean shave man look
+(((3;;;226))) difficulty guess cecil barker hear
+(((3;;;227))) masterful eye travel quickly question glance face face
+(((3;;;228))) sorry interrupt consultation say hear late news
+(((3;;;229))) arrest luck
+(((3;;;230))) have find bicycle
+(((3;;;231))) fellow leave bicycle
+(((3;;;232))) come look
+(((3;;;233))) yard hall door
+(((3;;;234))) find groom idler stand drive inspect bicycle draw clump evergreen conceal
+(((3;;;235))) rudge whitworth splash considerable journey
+(((3;;;236))) saddlebag spanner oilcan clue owner
+(((3;;;237))) grand help police say inspector thing number register
+(((3;;;238))) thankful have get
+(((3;;;239))) t find go likely come
+(((3;;;240))) wonderful fellow leave world get away don t gleam light case mr holmes
+(((3;;;241))) don t friend answer thoughtfully
+(((3;;;242))) wonder
+(((4;;;0))) see want study ask white mason reenter house
 (((4;;;1))) time say inspector holmes nod
 (((4;;;2))) like hear evidence people house
 (((4;;;3))) use dine room ames
@@ -947,14 +947,14 @@
 (((4;;;143))) barker stand moment face set grimly strong black eyebrow draw low intense think
 (((4;;;144))) look smile
 (((4;;;145))) guess gentleman clear duty right stand way
-(((4;;;146))) ask worry mrs
+(((4;;;146))) have ask worry mrs
 (((4;;;147))) douglas mat
 (((4;;;148))) tell poor douglas fault world jealousy
 (((4;;;149))) fond man fond friend
 (((4;;;150))) devote wife
 (((4;;;151))) love come forever send
 (((4;;;152))) wife talk sympathy kind wave jealousy pass handle say wild thing moment
-(((4;;;153))) swear come reason write penitent implore letter
+(((4;;;153))) have swear come reason write penitent implore letter
 (((4;;;154))) gentleman word man love faithful wife friend loyal speak fervour feel inspector macdonald dismiss subject
 (((4;;;155))) aware say dead man wed ring take finger appear say barker
 (((4;;;156))) mean appear know fact
@@ -963,7 +963,7 @@
 (((4;;;159))) mere fact ring absent remove suggest mind marriage tragedy connect barker shrug broad shoulder
 (((4;;;160))) t profess mean answer
 (((4;;;161))) mean hint reflect way lady honour eye blaze instant evident effort get grip emotion wrong track
-(((4;;;162))) don t know ask present say macdonald coldly
+(((4;;;162))) don t know have ask present say macdonald coldly
 (((4;;;163))) small point remark sherlock holmes
 (((4;;;164))) enter room candle light table yes
 (((4;;;165))) light see terrible incident occur exactly
@@ -1061,7 +1061,7 @@
 (((4;;;257))) t past
 (((4;;;258))) man tear wed ring dead man mr holmes friend sit head hand sink deep think
 (((4;;;259))) rise ring bell
-(((4;;;260))) ames say butler enter mr cecil barker sir
+(((4;;;260))) ames say butler enter mr cecil barker will sir
 (((4;;;261))) come moment barker garden
 (((4;;;262))) remember ames mr barker foot night join study yes mr holmes
 (((4;;;263))) pair bedroom slipper
@@ -1090,7 +1090,7 @@
 (((4;;;286))) white mason chuckle rub fat hand professional satisfaction
 (((4;;;287))) say snorter cry
 (((4;;;288))) real snorter
-(((5;;;0))) dawn light detective matter detail inquire return modest quarter village inn
+(((5;;;0))) detective matter detail inquire return modest quarter village inn
 (((5;;;1))) take stroll curious old world garden flank house
 (((5;;;2))) row ancient yew tree cut strange design gird round
 (((5;;;3))) inside beautiful stretch lawn old sundial middle effect soothe restful welcome somewhat jangle nerve
@@ -1249,19 +1249,19 @@
 (((5;;;156))) even propose presently
 (((5;;;157))) arrange estimable ames mean wholehearted barker
 (((5;;;158))) shall sit room atmosphere bring inspiration
-(((5;;;159))) believer genius locus
+(((5;;;159))) be believer genius locus
 (((5;;;160))) smile friend watson
 (((5;;;161))) shall
 (((5;;;162))) way big umbrella
-(((5;;;163))) borrow
+(((5;;;163))) will borrow
 (((5;;;164))) certainly wretched weapon danger dear watson certainly ask assistance
-(((5;;;165))) umbrella
+(((5;;;165))) will umbrella
 (((5;;;166))) present await return colleague tunbridge well present engage try likely owner bicycle
 (((5;;;167))) nightfall inspector macdonald white mason come expedition arrive exultant report great advance investigation
-(((5;;;168))) man admeet doubt outsider say macdonald past
-(((5;;;169))) bicycle identify description man long step journey
+(((5;;;168))) man will admeet doubt outsider say macdonald past
+(((5;;;169))) have bicycle identify description man long step journey
 (((5;;;170))) sound like begin end say holmes
-(((5;;;171))) sure congratulate heart
+(((5;;;171))) be sure congratulate heart
 (((5;;;172))) start fact mr douglas disturb day tunbridge well
 (((5;;;173))) tunbridge well conscious danger
 (((5;;;174))) clear man come bicycle tunbridge well expect come
@@ -1332,7 +1332,7 @@
 (((5;;;239))) tall lean figure incline
 (((5;;;240))) watson whisper afraid sleep room lunatic man soften brain idiot mind lose grip answer astonishment
 (((5;;;241))) ah lucky say word utter night
-(((6;;;0))) solution morning breakfast find inspector macdonald white mason seat close consultation small parlour local police sergeant
+(((6;;;0))) morning breakfast find inspector macdonald white mason seat close consultation small parlour local police sergeant
 (((6;;;1))) table pile numb letter telegram carefully sort docket
 (((6;;;2))) place
 (((6;;;3))) track elusive bicyclist holmes ask cheerfully
@@ -1379,9 +1379,9 @@
 (((6;;;44))) breadth view dear mr mac essential profession
 (((6;;;45))) interplay idea oblique use knowledge extraordinary interest
 (((6;;;46))) excuse remark mere connoisseur crime old experience
-(((6;;;47))) admit say detective heartily
+(((6;;;47))) be admit say detective heartily
 (((6;;;48))) point admit deuced round corner way
-(((6;;;49))) drop past history present day fact
+(((6;;;49))) will drop past history present day fact
 (((6;;;50))) call night say manor house
 (((6;;;51))) barker mrs
 (((6;;;52))) douglas
@@ -1402,8 +1402,8 @@
 (((6;;;67))) don t trouble trace mysterious gentleman bicycle
 (((6;;;68))) assure win t help
 (((6;;;69))) suggest tell exactly
-(((6;;;70))) bind find reason queer way
-(((6;;;71))) advise
+(((6;;;70))) be bind have find reason queer way
+(((6;;;71))) will advise
 (((6;;;72))) mr white mason country detective look helplessly
 (((6;;;73))) holmes method new
 (((6;;;74))) good inspector good say
@@ -1417,9 +1417,9 @@
 (((6;;;82))) sound like sanity
 (((6;;;83))) excellent advice don t insist long need
 (((6;;;84))) want write note mr barker
-(((6;;;85))) dictate like
+(((6;;;85))) will dictate like
 (((6;;;86))) ready dear sir strike duty drain moat hope find impossible say inspector
-(((6;;;87))) inquiry
+(((6;;;87))) have inquiry
 (((6;;;88))) tut tut dear sir ask
 (((6;;;89))) hope find bear investigation
 (((6;;;90))) arrangement workman work early morrow morning divert stream impossible divert stream think good explain matter
@@ -1490,167 +1490,166 @@
 (((6;;;155))) clothe commonplace remark holmes save overcoat suggestive touch
 (((6;;;156))) hold tenderly light
 (((6;;;157))) perceive inner pocket prolong line fashion ample space truncate fowling piece
-(((6;;;158))) tailor tab neck neal outfitter vermissa u
-(((6;;;159))) s
-(((6;;;160))) spend instructive afternoon rector library enlarge knowledge add fact vermissa flourish little town head good know coal iron valley unite state
-(((6;;;161))) recollection mr barker associate coal district mr douglas wife surely far fetch inference v
-(((6;;;162))) v
-(((6;;;163))) card dead body stand vermissa valley valley send forth emissary murder valley fear hear
-(((6;;;164))) fairly clear
-(((6;;;165))) mr barker stand way explanation
-(((6;;;166))) sight cecil barker expressive face exposition great detective
-(((6;;;167))) anger amazement consternation indecision sweep turn
-(((6;;;168))) finally take refuge somewhat acrid irony
-(((6;;;169))) know lot mr holmes good tell sneer
-(((6;;;170))) doubt tell great deal mr barker come good grace
-(((6;;;171))) oh think secret secret man away
-(((6;;;172))) line mr barker say inspector quietly sight warrant hold
-(((6;;;173))) damn say barker defiantly
-(((6;;;174))) proceeding come definite end far concern look granite face realize peine forte et dure force plead
-(((6;;;175))) deadlock break woman voice
-(((6;;;176))) mrs
-(((6;;;177))) douglas stand listen half open door enter room
-(((6;;;178))) cecil say
-(((6;;;179))) come future
-(((6;;;180))) remark sherlock holmes gravely
-(((6;;;181))) sympathy madam strongly urge confidence common sense jurisdiction police voluntarily complete confidence
-(((6;;;182))) fault follow hint convey friend dr watson time reason believe directly concern crime
-(((6;;;183))) assure
-(((6;;;184))) time unexplained strongly recommend ask mr douglas tell story
-(((6;;;185))) mrs
-(((6;;;186))) douglas give cry astonishment holmes word
-(((6;;;187))) detective echo aware man emerge wall advance gloom corner appear
-(((6;;;188))) mrs
-(((6;;;189))) douglas turn instant arm round
-(((6;;;190))) barker seize outstretch hand
-(((6;;;191))) good way jack wife repeat sure good
-(((6;;;192))) yes mr douglas say sherlock holmes sure find good
-(((6;;;193))) man stand blink daze look come dark light
-(((6;;;194))) remarkable face bold gray eye strong short clip grizzle moustache square project chin humorous mouth
-(((6;;;195))) take good look amazement advance hand bundle paper
-(((6;;;196))) hear say voice english american altogether mellow please
-(((6;;;197))) historian bunch
-(((6;;;198))) dr watson story pass hand lie dollar
-(((6;;;199))) tell way fact t miss public long
-(((6;;;200))) coop day spend daylight hour daylight rat trap put thing word
-(((6;;;201))) welcome public
-(((6;;;202))) story valley fear
-(((6;;;203))) past mr douglas say sherlock holmes quietly
-(((6;;;204))) desire hear story present
-(((6;;;205))) sir say douglas
-(((6;;;206))) smoke talk thank mr holmes
-(((6;;;207))) smoker remember right guess sit day tobacco pocket afraid smell away
-(((6;;;208))) lean mantelpiece suck cigar holmes hand
-(((6;;;209))) hear mr holmes
-(((6;;;210))) guess meet
-(((6;;;211))) nod paper bring fresh
-(((6;;;212))) inspector macdonald stare newcomer great amazement
-(((6;;;213))) fairly beat cry
-(((6;;;214))) mr john douglas birlstone manor death investigate day world spring come floor like jack box
-(((6;;;215))) ah mr mac say holmes shake reprove forefinger read excellent local compilation describe concealment king charles
-(((6;;;216))) people hide day excellent hide place hide place
-(((6;;;217))) persuade find mr douglas roof
-(((6;;;218))) long play trick mr holmes say inspector angrily
-(((6;;;219))) long allow waste search know absurd instant dear mr mac
-(((6;;;220))) night form view case
-(((6;;;221))) proof even invite colleague holiday day
-(((6;;;222))) pray find suit clothe moat apparent body find body mr john douglas bicyclist tunbridge well
-(((6;;;223))) conclusion possible
-(((6;;;224))) determine mr john douglas balance probability connivance wife friend conceal house convenience fugitive await quiet time final escape
-(((6;;;225))) figure right say douglas approvingly
-(((6;;;226))) think dodge british law sure stand see chance throw hound track
-(((6;;;227))) mind ashamed judge tell story
-(((6;;;228))) mind warn inspector ready stand pat truth
-(((6;;;229))) go begin begin
-(((6;;;230))) indicate bundle paper mighty queer yarn find
-(((6;;;231))) come man good cause hate dollar know get
-(((6;;;232))) long alive alive safety world
-(((6;;;233))) hunt chicago california chase america marry settle quiet spot think year go peaceable
-(((6;;;234))) explain wife thing
-(((6;;;235))) pull quiet moment imagine trouble
-(((6;;;236))) fancy know drop word word yesterday gentleman see know right mat
-(((6;;;237))) tell know barker night thing happen mighty little time explanation
-(((6;;;238))) know wise man tell soon
-(((6;;;239))) hard question dear take hand instant act good
-(((6;;;240))) gentleman day happening tunbridge well get glimpse man street
-(((6;;;241))) glimpse quick eye thing doubt
-(((6;;;242))) bad enemy like hungry wolf caribou year
-(((6;;;243))) know trouble come come home ready
-(((6;;;244))) guess fight right luck proverb state 76
-(((6;;;245))) doubt
-(((6;;;246))) guard day go park
-(((6;;;247))) drop buckshot gun draw
-(((6;;;248))) bridge mind restful bridge evening thing clear head
-(((6;;;249))) dream get house wait
-(((6;;;250))) round dress gown habit soon enter study scent danger
-(((6;;;251))) guess man danger life time kind 6 sense wave red flag
-(((6;;;252))) see signal clear couldn t tell
-(((6;;;253))) instant spot boot window curtain see plain
-(((6;;;254))) candle hand good light hall lamp open door
-(((6;;;255))) candle jump hammer leave mantel
-(((6;;;256))) moment spring
-(((6;;;257))) see glint knife lash hammer
-(((6;;;258))) get knife tinkle floor
-(((6;;;259))) dodge round table quick eel moment late get gun coat
-(((6;;;260))) hear cock get hold fire
-(((6;;;261))) barrel wrestle end minute
-(((6;;;262))) death man lose grip
-(((6;;;263))) lose grip get butt downward moment long
-(((6;;;264))) maybe pull trigger
-(((6;;;265))) maybe jolt
-(((6;;;266))) get barrel face stare leave ted baldwin
-(((6;;;267))) recognize township spring mother wouldn t recognize see
-(((6;;;268))) rough work fairly turn sick sight
-(((6;;;269))) hang table barker come hurry
-(((6;;;270))) hear wife come run door stop
-(((6;;;271))) sight woman
-(((6;;;272))) promise come soon
-(((6;;;273))) say word barker take glance wait rest come
-(((6;;;274))) sign
-(((6;;;275))) understand hear happen know
-(((6;;;276))) instant idea come
-(((6;;;277))) fairly dazzle brilliance
-(((6;;;278))) man sleeve slip brand mark lodge forearm
-(((6;;;279))) man know douglas turn coat cuff brown triangle circle exactly like see dead man
-(((6;;;280))) sight start
-(((6;;;281))) clear glance
-(((6;;;282))) height hair figure
-(((6;;;283))) swear face poor devil bring suit clothe quarter hour barker dress gown lie find
-(((6;;;284))) tie thing bundle weight weight find window
-(((6;;;285))) card mean lie body lie
-(((6;;;286))) ring finger come wed ring hold muscular hand strike limit
-(((6;;;287))) move day marry take file
-(((6;;;288))) don t know care want couldn t
-(((6;;;289))) leave detail care
-(((6;;;290))) hand bring bite plaster wear instant
-(((6;;;291))) slip mr holmes clever chance plaster find cut underneath
-(((6;;;292))) situation
-(((6;;;293))) lie low away join widow chance live peace rest life
-(((6;;;294))) devil rest long grind see paper baldwin get man end trouble
-(((6;;;295))) hadn t time clear barker wife understand able help
-(((6;;;296))) know hide place ames enter head connect mat
-(((6;;;297))) retire barker rest
-(((6;;;298))) guess fill
-(((6;;;299))) open window mark sill idea murderer escape
-(((6;;;300))) tall order bridge way
-(((6;;;301))) fix ring bell worth
-(((6;;;302))) happen afterward know
-(((6;;;303))) gentleman tell truth truth help god ask stand english law silence break sherlock holmes
-(((6;;;304))) english law main law
-(((6;;;305))) bad desert mr douglas
-(((6;;;306))) ask man know live house hide know
-(((6;;;307))) holmes face white grave
-(((6;;;308))) story fear say
-(((6;;;309))) find bad danger english law enemy america
-(((6;;;310))) trouble mr douglas
-(((6;;;311))) advice guard
-(((6;;;312))) long suffer reader ask come away time far sussex manor house birlstone far year grace eventful journey end strange story man know john douglas
-(((6;;;313))) wish journey year time westward thousand mile space lie singular terrible narrative singular terrible find hard believe tell occur
-(((6;;;314))) think intrude story finish
-(((6;;;315))) read find
-(((6;;;316))) detail distant event solve mystery past shall meet room baker street like wonderful happening find end
-(((6;;;317))) 2 scowrers
-(((7;;;0))) man 4 february year 1875
+(((6;;;158))) tailor tab neck neal outfitter vermissa usa
+(((6;;;159))) spend instructive afternoon rector library enlarge knowledge add fact vermissa flourish little town head good know coal iron valley unite state
+(((6;;;160))) recollection mr barker associate coal district mr douglas wife surely far fetch inference v
+(((6;;;161))) v
+(((6;;;162))) card dead body stand vermissa valley valley send forth emissary murder valley fear hear
+(((6;;;163))) fairly clear
+(((6;;;164))) mr barker stand way explanation
+(((6;;;165))) sight cecil barker expressive face exposition great detective
+(((6;;;166))) anger amazement consternation indecision sweep turn
+(((6;;;167))) finally take refuge somewhat acrid irony
+(((6;;;168))) know lot mr holmes good tell sneer
+(((6;;;169))) doubt tell great deal mr barker come good grace
+(((6;;;170))) oh think secret secret man away
+(((6;;;171))) line mr barker say inspector quietly sight warrant hold
+(((6;;;172))) damn say barker defiantly
+(((6;;;173))) proceeding come definite end far concern look granite face realize peine forte et dure force plead
+(((6;;;174))) deadlock break woman voice
+(((6;;;175))) mrs
+(((6;;;176))) douglas stand listen half open door enter room
+(((6;;;177))) cecil say
+(((6;;;178))) come future
+(((6;;;179))) remark sherlock holmes gravely
+(((6;;;180))) sympathy madam strongly urge confidence common sense jurisdiction police voluntarily complete confidence
+(((6;;;181))) fault follow hint convey friend dr watson time reason believe directly concern crime
+(((6;;;182))) assure
+(((6;;;183))) time unexplained strongly recommend ask mr douglas tell story
+(((6;;;184))) mrs
+(((6;;;185))) douglas give cry astonishment holmes word
+(((6;;;186))) detective echo aware man emerge wall advance gloom corner appear
+(((6;;;187))) mrs
+(((6;;;188))) douglas turn instant arm round
+(((6;;;189))) barker seize outstretch hand
+(((6;;;190))) good way jack wife repeat sure good
+(((6;;;191))) yes mr douglas say sherlock holmes sure find good
+(((6;;;192))) man stand blink daze look come dark light
+(((6;;;193))) remarkable face bold gray eye strong short clip grizzle moustache square project chin humorous mouth
+(((6;;;194))) take good look amazement advance hand bundle paper
+(((6;;;195))) have hear say voice english american altogether mellow please
+(((6;;;196))) historian bunch
+(((6;;;197))) dr watson have story pass hand will lie dollar
+(((6;;;198))) tell way fact t miss public long
+(((6;;;199))) have coop day have spend daylight hour daylight rat trap put thing word
+(((6;;;200))) welcome public
+(((6;;;201))) story valley fear
+(((6;;;202))) past mr douglas say sherlock holmes quietly
+(((6;;;203))) desire hear story present
+(((6;;;204))) will sir say douglas
+(((6;;;205))) smoke talk thank mr holmes
+(((6;;;206))) smoker remember right will guess sit day tobacco pocket afraid smell away
+(((6;;;207))) lean mantelpiece suck cigar holmes hand
+(((6;;;208))) have hear mr holmes
+(((6;;;209))) guess meet
+(((6;;;210))) nod paper have bring fresh
+(((6;;;211))) inspector macdonald stare newcomer great amazement
+(((6;;;212))) fairly beat cry
+(((6;;;213))) mr john douglas birlstone manor death investigate day world spring come floor like jack box
+(((6;;;214))) ah mr mac say holmes shake reprove forefinger read excellent local compilation describe concealment king charles
+(((6;;;215))) people hide day excellent hide place hide place
+(((6;;;216))) persuade find mr douglas roof
+(((6;;;217))) long play trick mr holmes say inspector angrily
+(((6;;;218))) long allow waste search know absurd instant dear mr mac
+(((6;;;219))) night form view case
+(((6;;;220))) proof even invite colleague holiday day
+(((6;;;221))) pray find suit clothe moat apparent body find body mr john douglas bicyclist tunbridge well
+(((6;;;222))) conclusion possible
+(((6;;;223))) determine mr john douglas balance probability connivance wife friend conceal house convenience fugitive await quiet time final escape
+(((6;;;224))) figure right say douglas approvingly
+(((6;;;225))) think have dodge british law sure stand see chance throw hound track
+(((6;;;226))) mind ashamed will judge tell story
+(((6;;;227))) mind warn inspector be ready stand pat truth
+(((6;;;228))) be go begin begin
+(((6;;;229))) indicate bundle paper mighty queer yarn will find
+(((6;;;230))) come man good cause hate dollar know get
+(((6;;;231))) long alive alive safety world
+(((6;;;232))) hunt chicago california chase america marry settle quiet spot think year go peaceable
+(((6;;;233))) explain wife thing
+(((6;;;234))) pull quiet moment imagine trouble
+(((6;;;235))) fancy know drop word word yesterday gentleman see know right mat
+(((6;;;236))) tell know barker night thing happen mighty little time explanation
+(((6;;;237))) know wise man tell soon
+(((6;;;238))) hard question dear take hand instant act good
+(((6;;;239))) gentleman day happening tunbridge well get glimpse man street
+(((6;;;240))) glimpse quick eye thing doubt
+(((6;;;241))) bad enemy like hungry wolf caribou year
+(((6;;;242))) know trouble come come home ready
+(((6;;;243))) guess have fight right luck proverb state 76
+(((6;;;244))) doubt
+(((6;;;245))) guard day go park
+(((6;;;246))) have drop buckshot gun draw
+(((6;;;247))) bridge mind restful bridge evening thing clear head
+(((6;;;248))) dream get house wait
+(((6;;;249))) round dress gown habit soon enter study scent danger
+(((6;;;250))) guess man danger life have time kind 6 sense wave red flag
+(((6;;;251))) see signal clear couldn t tell
+(((6;;;252))) instant spot boot window curtain see plain
+(((6;;;253))) have candle hand good light hall lamp open door
+(((6;;;254))) candle jump hammer have leave mantel
+(((6;;;255))) moment spring
+(((6;;;256))) see glint knife lash hammer
+(((6;;;257))) get knife tinkle floor
+(((6;;;258))) dodge round table quick eel moment late have get gun coat
+(((6;;;259))) hear cock get hold fire
+(((6;;;260))) barrel wrestle end minute
+(((6;;;261))) death man lose grip
+(((6;;;262))) lose grip get butt downward moment long
+(((6;;;263))) maybe pull trigger
+(((6;;;264))) maybe jolt
+(((6;;;265))) get barrel face stare leave ted baldwin
+(((6;;;266))) have recognize township spring mother wouldn t recognize see
+(((6;;;267))) be rough work fairly turn sick sight
+(((6;;;268))) hang table barker come hurry
+(((6;;;269))) hear wife come run door stop
+(((6;;;270))) sight woman
+(((6;;;271))) promise have come soon
+(((6;;;272))) say word barker take glance wait rest come
+(((6;;;273))) sign
+(((6;;;274))) understand hear happen know
+(((6;;;275))) instant idea come
+(((6;;;276))) fairly dazzle brilliance
+(((6;;;277))) man sleeve slip brand mark lodge forearm
+(((6;;;278))) man know douglas turn coat cuff brown triangle circle exactly like see dead man
+(((6;;;279))) sight start
+(((6;;;280))) clear glance
+(((6;;;281))) height hair figure
+(((6;;;282))) swear face poor devil bring suit clothe quarter hour barker dress gown lie find
+(((6;;;283))) tie thing bundle weight weight find window
+(((6;;;284))) card mean lie body lie
+(((6;;;285))) ring finger come wed ring hold muscular hand strike limit
+(((6;;;286))) move day marry take file
+(((6;;;287))) don t know care want couldn t
+(((6;;;288))) leave detail care
+(((6;;;289))) hand bring bite plaster wear instant
+(((6;;;290))) slip mr holmes clever chance plaster find cut underneath
+(((6;;;291))) situation
+(((6;;;292))) lie low away join widow chance live peace rest life
+(((6;;;293))) devil rest long grind see paper baldwin get man end trouble
+(((6;;;294))) hadn t time clear barker wife understand able help
+(((6;;;295))) know hide place ames enter head connect mat
+(((6;;;296))) retire barker rest
+(((6;;;297))) guess fill
+(((6;;;298))) open window mark sill idea murderer escape
+(((6;;;299))) tall order bridge way
+(((6;;;300))) fix ring bell worth
+(((6;;;301))) happen afterward know
+(((6;;;302))) gentleman have tell truth truth help god ask stand english law silence break sherlock holmes
+(((6;;;303))) english law main law
+(((6;;;304))) bad desert mr douglas
+(((6;;;305))) ask man know live house hide know
+(((6;;;306))) holmes face white grave
+(((6;;;307))) story fear say
+(((6;;;308))) find bad danger english law enemy america
+(((6;;;309))) trouble mr douglas
+(((6;;;310))) will advice guard
+(((6;;;311))) long suffer reader ask come away time far sussex manor house birlstone far year grace eventful journey end strange story man know john douglas
+(((6;;;312))) wish journey year time westward thousand mile space lie singular terrible narrative singular terrible find hard believe tell occur
+(((6;;;313))) think intrude story finish
+(((6;;;314))) read find
+(((6;;;315))) detail distant event solve mystery past shall meet room baker street like wonderful happening find end
+(((6;;;316))) 2 scowrers
+(((7;;;0))) 4 february year 1875
 (((7;;;1))) severe winter snow lie deep gorge gilmerton mountain
 (((7;;;2))) steam plough keep railroad open even train connect long line coal mine iron work settlement slowly groan way steep gradient lead stagville plain vermissa central township lie head vermissa valley
 (((7;;;3))) point track sweep downward bartons cross helmdale purely agricultural county merton
@@ -1687,19 +1686,19 @@
 (((7;;;34))) heel ready
 (((7;;;35))) young man smile air embarrassment
 (((7;;;36))) yes say need place come
-(((7;;;37))) chicago
+(((7;;;37))) be chicago
 (((7;;;38))) strange part yes
 (((7;;;39))) find need say workman
 (((7;;;40))) ah young man interest
 (((7;;;41))) hear doing hereabouts way
 (((7;;;42))) think country
-(((7;;;43))) hear quick
+(((7;;;43))) will hear quick
 (((7;;;44))) come hear work will man
 (((7;;;45))) member union sure
-(((7;;;46))) job guess
+(((7;;;46))) will job guess
 (((7;;;47))) friend mean make
 (((7;;;48))) eminent order freeman
-(((7;;;49))) town lodge lodge find friend
+(((7;;;49))) town lodge lodge will find friend
 (((7;;;50))) remark singular effect companion
 (((7;;;51))) glance round suspiciously car
 (((7;;;52))) miner whisper
@@ -1714,10 +1713,10 @@
 (((7;;;61))) dark night unpleasant say workman
 (((7;;;62))) yes stranger travel answer
 (((7;;;63))) good
-(((7;;;64))) brother scanlan lodge 341 vermissa valley
+(((7;;;64))) be brother scanlan lodge 341 vermissa valley
 (((7;;;65))) glad part
 (((7;;;66))) thank
-(((7;;;67))) brother john mcmurdo lodge 29 chicago
+(((7;;;67))) be brother john mcmurdo lodge 29 chicago
 (((7;;;68))) bodymaster j
 (((7;;;69))) h
 (((7;;;70))) scott
@@ -1734,7 +1733,7 @@
 (((7;;;81))) deep
 (((7;;;82))) penitentiary job rest
 (((7;;;83))) kill early day talk thing say mcmurdo air man surprise say intend
-(((7;;;84))) good reason leave chicago let
+(((7;;;84))) have good reason leave chicago let
 (((7;;;85))) ask thing gray eye gleam sudden dangerous anger glass
 (((7;;;86))) right mate offense mean
 (((7;;;87))) boy think bad
@@ -1745,9 +1744,9 @@
 (((7;;;92))) board house recommend man know chicago
 (((7;;;93))) don t know vermissa beat
 (((7;;;94))) live hobson patch draw
-(((7;;;95))) bite advice trouble vermissa straight union house boss mcginty
+(((7;;;95))) bite advice will trouble vermissa straight union house boss mcginty
 (((7;;;96))) bodymaster vermissa lodge happen part black jack mcginty want
-(((7;;;97))) long mate maybe meet lodge evening
+(((7;;;97))) long mate maybe will meet lodge evening
 (((7;;;98))) mind word trouble boss mcginty
 (((7;;;99))) scanlan descend mcmurdo leave thought
 (((7;;;100))) night fall flame frequent furnace roar leap darkness
@@ -1755,29 +1754,29 @@
 (((7;;;102))) guess hell look like say voice
 (((7;;;103))) mcmurdo turn see policeman shift seat stare fiery waste
 (((7;;;104))) mat say policeman allow hell like
-(((7;;;105))) bad devil yonder expect
+(((7;;;105))) bad devil yonder have expect
 (((7;;;106))) guess new young man mcmurdo answer surly voice
 (((7;;;107))) mister advise careful choose friend
-(((7;;;108))) don t think begin mike scanlan gang
+(((7;;;108))) don t think have begin mike scanlan gang
 (((7;;;109))) hell friend roar mcmurdo voice bring head carriage round witness altercation
-(((7;;;110))) ask advice think sucker couldn t speak speak lord wait long time thrust face grin patrolman like snarl dog
+(((7;;;110))) ask advice think sucker couldn t speak speak lord have wait long time thrust face grin patrolman like snarl dog
 (((7;;;111))) policeman heavy good natured man take aback extraordinary vehemence friendly advance reject
 (((7;;;112))) offense strange say
 (((7;;;113))) warn good see show new place
-(((7;;;114))) new place new kind cry mcmurdo cold fury
+(((7;;;114))) be new place be new kind cry mcmurdo cold fury
 (((7;;;115))) guess place shove advice ask
-(((7;;;116))) maybe long say patrolman grin
+(((7;;;116))) maybe will long say patrolman grin
 (((7;;;117))) real hand pick judge
 (((7;;;118))) think remark
 (((7;;;119))) guess meet
-(((7;;;120))) afraid don t think cry mcmurdo
-(((7;;;121))) jack mcmurdo want find jacob shafter sheridan street vermissa hide day night dare look like face don t mistake murmur sympathy admiration miner dauntless demeanour newcomer policeman shrug shoulder renew conversation
+(((7;;;120))) be afraid don t think cry mcmurdo
+(((7;;;121))) jack mcmurdo want will find jacob shafter sheridan street vermissa be hide day night dare look like face don t mistake murmur sympathy admiration miner dauntless demeanour newcomer policeman shrug shoulder renew conversation
 (((7;;;122))) minute late train run ill light station general clear vermissa far large town line
 (((7;;;123))) mcmurdo pick leather gripsack start darkness miner accost
 (((7;;;124))) gar mate know speak cop say voice awe
 (((7;;;125))) grand hear
 (((7;;;126))) let carry grip road
-(((7;;;127))) pass shafter way shack
+(((7;;;127))) be pass shafter way shack
 (((7;;;128))) chorus friendly good night miner pass platform
 (((7;;;129))) set foot mcmurdo turbulent character vermissa
 (((7;;;130))) country place terror town way depress
@@ -1794,19 +1793,19 @@
 (((7;;;141))) paper
 (((7;;;142))) miner lower voice affair
 (((7;;;143))) affair good lord mister queer offense
-(((7;;;144))) set affair hear part affair scowrers
+(((7;;;144))) set affair will hear part affair scowrers
 (((7;;;145))) read scowrers chicago
 (((7;;;146))) gang murderer hush life cry miner stand alarm gaze amazement companion
 (((7;;;147))) man win t live long part speak open street like
 (((7;;;148))) man life beat
 (((7;;;149))) know
 (((7;;;150))) read
-(((7;;;151))) say read truth
+(((7;;;151))) be say read truth
 (((7;;;152))) man look nervously round speak peer shadow fear lurk danger
 (((7;;;153))) kill murder god know murder spare
 (((7;;;154))) don t dare breathe jack mcginty connection strange whisper go likely let pass
 (((7;;;155))) house stand street
-(((7;;;156))) find old jacob shafter run honest man life township
+(((7;;;156))) will find old jacob shafter run honest man life township
 (((7;;;157))) thank say mcmurdo shake hand new acquaintance plod gripsack hand path lead dwell house door give resound knock
 (((7;;;158))) open different expect
 (((7;;;159))) woman young singularly beautiful
@@ -1818,14 +1817,14 @@
 (((7;;;165))) come town
 (((7;;;166))) expect minute
 (((7;;;167))) mcmurdo continue gaze open admiration eye drop confusion masterful visitor
-(((7;;;168))) miss say hurry
+(((7;;;168))) miss say be hurry
 (((7;;;169))) house recommend board
 (((7;;;170))) think suit know
 (((7;;;171))) quick mind say smile
 (((7;;;172))) blind man answer
 (((7;;;173))) laugh compliment
 (((7;;;174))) come right sir say
-(((7;;;175))) miss ettie shafter mr shafter daughter
+(((7;;;175))) be miss ettie shafter mr shafter daughter
 (((7;;;176))) mother dead run house
 (((7;;;177))) sit stave room father come ah fix thing right away
 (((7;;;178))) heavy elderly man come plod path
@@ -1836,7 +1835,7 @@
 (((7;;;183))) strange bone term agree condition apparently fairly flush money
 (((7;;;184))) seven dollar week pay advance board lodge
 (((7;;;185))) mcmurdo self confess fugitive justice take abide roof shafters step lead long dark train event end far distant land
-(((8;;;0))) bodymaster mcmurdo man mark quickly
+(((8;;;0))) mcmurdo man mark quickly
 (((8;;;1))) folk soon know
 (((8;;;2))) week infinitely important person shafter
 (((8;;;3))) dozen boarder honest foreman commonplace clerk store different calibre young irishman
@@ -1848,7 +1847,7 @@
 (((8;;;9))) backward suitor
 (((8;;;10))) 2 day tell love onward repeat story absolute disregard discourage
 (((8;;;11))) cry
-(((8;;;12))) bad luck let look lose life chance heart desire say ettie day come yes young wait
+(((8;;;12))) bad luck let look lose life chance heart desire say ettie day come yes be young wait
 (((8;;;13))) dangerous suitor glib irish tongue pretty coax way
 (((8;;;14))) glamour experience mystery attract woman interest finally love
 (((8;;;15))) talk sweet valley county monaghan come lovely distant island low hill green meadow beautiful imagination view place grime snow
@@ -1861,24 +1860,24 @@
 (((8;;;22))) scanlan small sharp face nervous black eye man glad
 (((8;;;23))) glass whisky broach object visit
 (((8;;;24))) mcmurdo say remember address bold
-(((8;;;25))) surprise report bodymaster
+(((8;;;25))) be surprise have report bodymaster
 (((8;;;26))) haven t see boss mcginty find job
 (((8;;;27))) busy
 (((8;;;28))) find time
 (((8;;;29))) good lord man fool union house register morning come run mustn t mcmurdo show mild surprise
-(((8;;;30))) member lodge year scanlan hear duty press
+(((8;;;30))) have member lodge year scanlan hear duty press
 (((8;;;31))) maybe chicago
 (((8;;;32))) society
 (((8;;;33))) scanlan look long fixedly
 (((8;;;34))) sinister eye
-(((8;;;35))) isn t tell month time
+(((8;;;35))) isn t will tell month time
 (((8;;;36))) hear talk patrolman leave train
 (((8;;;37))) know oh get thing good bad district
 (((8;;;38))) yes
 (((8;;;39))) tell hound think
-(((8;;;40))) lord man mcginty heart hate police scanlan burst laugh
+(((8;;;40))) lord will man mcginty heart hate police scanlan burst laugh
 (((8;;;41))) lad say take leave
-(((8;;;42))) police hate don t friend advice chance even mcmurdo press interview urge direction
+(((8;;;42))) police will hate don t friend advice chance even mcmurdo press interview urge direction
 (((8;;;43))) attention ettie evident gradually obtrude slow mind good german host cause board house keeper beckon young man private room start subject circumlocution
 (((8;;;44))) mister say gettin set ettie
 (((8;;;45))) ain t wrong yes young man answer
@@ -1892,7 +1891,7 @@
 (((8;;;53))) ah yes friend need ashamed frighten
 (((8;;;54))) teddy baldwin
 (((8;;;55))) devil boss scowrers
-(((8;;;56))) scowrers hear
+(((8;;;56))) scowrers have hear
 (((8;;;57))) scowrers scowrers whisper afraid scowrers board house keeper instinctively sink voice talk terrible society
 (((8;;;58))) scowrers say eminent order freeman young man stare
 (((8;;;59))) member order
@@ -1904,12 +1903,12 @@
 (((8;;;65))) mcmurdo laugh incredulously
 (((8;;;66))) prove ask
 (((8;;;67))) prove murder prove vat milman van shorst nicholson family old mr hyam little billy james prove man voman valley vat know say mcmurdo earnestly
-(((8;;;68))) want say good
+(((8;;;68))) want have say good
 (((8;;;69))) quit room
 (((8;;;70))) place
 (((8;;;71))) strange town
 (((8;;;72))) belong society know innocent
-(((8;;;73))) find length breadth state innocent
+(((8;;;73))) will find length breadth state innocent
 (((8;;;74))) count join tell murder society call scowrers
 (((8;;;75))) guess owe apology explanation mr shafter
 (((8;;;76))) tell vat vorld know mister
@@ -1924,7 +1923,7 @@
 (((8;;;85))) bad people come court ettie dare turn boarder yes shall sleep night mcmurdo find sentence banishment comfortable quarter girl love
 (((8;;;86))) find sit room even pour trouble ear
 (((8;;;87))) sure father give notice say
-(((8;;;88))) little care room ettie week know breath life t live oh hush mr mcmurdo don t speak say girl
+(((8;;;88))) little care room ettie week have know breath life t live oh hush mr mcmurdo don t speak say girl
 (((8;;;89))) tell late promise marry promise
 (((8;;;90))) suppose ettie chance girl sink face hand
 (((8;;;91))) wish heaven sob
@@ -1936,14 +1935,14 @@
 (((8;;;97))) jack arm round
 (((8;;;98))) away struggle pass moment mcmurdo face end set like granite
 (((8;;;99))) say
-(((8;;;100))) hold world ettie right leave ettie t leave
-(((8;;;101))) hold head feel drive
+(((8;;;100))) will hold world ettie right leave ettie t leave
+(((8;;;101))) have hold head feel drive
 (((8;;;102))) afraid free folk free country love dare come don t know jack
-(((8;;;103))) short time
+(((8;;;103))) have short time
 (((8;;;104))) don t know baldwin
 (((8;;;105))) don t know mcginty scowrers
 (((8;;;106))) don t know don t fear don t believe say mcmurdo
-(((8;;;107))) live rough man darling instead fear end fear ettie
+(((8;;;107))) have live rough man darling instead fear end fear ettie
 (((8;;;108))) mad face man father say crime crime valley know come bring justice answer ettie witness dare appear
 (((8;;;109))) live month
 (((8;;;110))) man swear accuse far scene crime
@@ -1970,7 +1969,7 @@
 (((8;;;131))) handsome dash young man age build mcmurdo
 (((8;;;132))) broad brim black feel hat trouble remove handsome face fierce domineer eye curve hawk bill nose look savagely pair sit stave
 (((8;;;133))) ettie jump foot confusion alarm
-(((8;;;134))) glad mr baldwin say
+(((8;;;134))) be glad mr baldwin say
 (((8;;;135))) early think
 (((8;;;136))) come sit
 (((8;;;137))) baldwin stand hand hip look mcmurdo
@@ -1980,27 +1979,27 @@
 (((8;;;141))) maybe miss ettie tell say baldwin
 (((8;;;142))) didn t understand relation
 (((8;;;143))) didn t understand
-(((8;;;144))) young lady find fine even walk
+(((8;;;144))) young lady will find fine even walk
 (((8;;;145))) thank humour walk
 (((8;;;146))) aren t man savage eye blaze anger
 (((8;;;147))) maybe humour fight mr boarder cry mcmurdo spring foot
 (((8;;;148))) say welcome word
 (((8;;;149))) god sake jack oh god sake cry poor distract ettie
 (((8;;;150))) oh jack jack hurt oh jack say baldwin oath
-(((8;;;151))) come oh ted reasonable kind sake ted love big hearted forgive think ettie leave thing settle say mcmurdo quietly
+(((8;;;151))) have come oh ted reasonable kind sake ted love big hearted forgive think ettie leave thing settle say mcmurdo quietly
 (((8;;;152))) maybe mr baldwin turn street
 (((8;;;153))) fine even open grind block
-(((8;;;154))) need dirty hand say enemy
-(((8;;;155))) wish set foot house time like present cry mcmurdo
-(((8;;;156))) choose time mister
+(((8;;;154))) will need dirty hand say enemy
+(((8;;;155))) will wish set foot house time like present cry mcmurdo
+(((8;;;156))) will choose time mister
 (((8;;;157))) leave time
 (((8;;;158))) suddenly roll sleeve show forearm peculiar sign appear brand
 (((8;;;159))) circle triangle
-(((8;;;160))) have know mean know care know promise
+(((8;;;160))) have know mean know care know will promise
 (((8;;;161))) win t old
 (((8;;;162))) miss ettie tell
-(((8;;;163))) ettie come knee have ye hear girl knee tell punishment
-(((8;;;164))) sow lord reap glance fury
+(((8;;;163))) ettie will come knee have ye hear girl knee will tell punishment
+(((8;;;164))) have sow lord will reap glance fury
 (((8;;;165))) turn heel instant late outer door bang
 (((8;;;166))) moment mcmurdo girl stand silence
 (((8;;;167))) throw arm
@@ -2009,13 +2008,13 @@
 (((8;;;170))) read horrible eye
 (((8;;;171))) chance dozen boss mcginty power lodge mcmurdo disengage hand kiss gently push chair
 (((8;;;172))) acushla don t disturb fear
-(((8;;;173))) freeman
-(((8;;;174))) tell father
+(((8;;;173))) be freeman
+(((8;;;174))) be tell father
 (((8;;;175))) maybe good don t saint
-(((8;;;176))) hate tell hate jack life last hear harm freeman think bad freeman jack friend boss mcginty oh hurry jack hurry word hound trail
+(((8;;;176))) hate have tell hate jack life last have hear harm freeman think bad freeman jack friend boss mcginty oh hurry jack hurry word hound trail
 (((8;;;177))) think thing say mcmurdo
-(((8;;;178))) right fix
-(((8;;;179))) tell father sleep night find quarter morning
+(((8;;;178))) will right fix
+(((8;;;179))) tell father will sleep night find quarter morning
 (((8;;;180))) bar mcginty saloon crowd usual favourite loaf place rough element town
 (((8;;;181))) man popular rough jovial disposition form mask cover great deal lie
 (((8;;;182))) apart popularity fear hold township thirty mile valley past mountain fill bar afford neglect good
@@ -2034,15 +2033,15 @@
 (((8;;;195))) have good look man mcmurdo elbow way forward usual careless audacity push little group courtier fawn powerful boss laugh uproariously small joke
 (((8;;;196))) young strange bold gray eye look fearlessly glass deadly black one turn sharply
 (((8;;;197))) young man t face mind
-(((8;;;198))) new mr mcginty
+(((8;;;198))) be new mr mcginty
 (((8;;;199))) new t gentleman proper title
 (((8;;;200))) councillor mcginty young man say voice group
-(((8;;;201))) sorry councillor
-(((8;;;202))) strange way place
+(((8;;;201))) be sorry councillor
+(((8;;;202))) be strange way place
 (((8;;;203))) advise
 (((8;;;204))) have think early day
-(((8;;;205))) heart big body soul fine face ask good say mcmurdo
-(((8;;;206))) gar get irish tongue head cry saloon keeper certain humour audacious visitor stand dignity
+(((8;;;205))) heart big body soul fine face have ask good say mcmurdo
+(((8;;;206))) gar have get irish tongue head cry saloon keeper certain humour audacious visitor stand dignity
 (((8;;;207))) good pass appearance sure say mcmurdo
 (((8;;;208))) tell
 (((8;;;209))) tell brother scanlan lodge 341 vermissa
@@ -2050,7 +2049,7 @@
 (((8;;;211))) raise glass serve lip elevate little finger drink
 (((8;;;212))) mcginty watch narrowly raise thick black eyebrow
 (((8;;;213))) oh like say
-(((8;;;214))) look bite close mister mcmurdo
+(((8;;;214))) will look bite close mister mcmurdo
 (((8;;;215))) bite close mr mcmurdo don t folk trust part believe tell
 (((8;;;216))) come moment bar
 (((8;;;217))) small room line barrel
@@ -2071,9 +2070,9 @@
 (((8;;;232))) yes quick speech
 (((8;;;233))) quick action know good
 (((8;;;234))) try soon think
-(((8;;;235))) hear lodge part hear take man brother
+(((8;;;235))) hear lodge part have hear take man brother
 (((8;;;236))) true mr mcmurdo
-(((8;;;237))) leave chicago damn tell mcginty open eye
+(((8;;;237))) leave chicago be damn tell mcginty open eye
 (((8;;;238))) answer fashion amuse
 (((8;;;239))) win t tell brother tell lie
 (((8;;;240))) truth bad tell way like
@@ -2081,7 +2080,7 @@
 (((8;;;242))) mcmurdo look puzzle
 (((8;;;243))) take wear newspaper cut inner pocket
 (((8;;;244))) wouldn t squeal fellow say
-(((8;;;245))) wipe hand face word cry mcginty hotly
+(((8;;;245))) will wipe hand face word cry mcginty hotly
 (((8;;;246))) right councillor say mcmurdo meekly
 (((8;;;247))) apologize
 (((8;;;248))) speak think
@@ -2097,18 +2096,18 @@
 (((8;;;258))) maybe split
 (((8;;;259))) didn t wait
 (((8;;;260))) kill light coal country
-(((8;;;261))) coal country cause read paper weren t particular part
+(((8;;;261))) coal country cause have read paper weren t particular part
 (((8;;;262))) mcginty laugh
-(((8;;;263))) coiner murderer come part think welcome
+(((8;;;263))) coiner murderer come part think have welcome
 (((8;;;264))) size mcmurdo answer
-(((8;;;265))) guess far
+(((8;;;265))) guess will far
 (((8;;;266))) dollar mcmurdo take half dozen pocket
 (((8;;;267))) pass philadelphia mint say
 (((8;;;268))) don t mcginty hold light enormous hand hairy gorilla
 (((8;;;269))) difference
-(((8;;;270))) gar mighty useful brother think bad man friend mcmurdo time
-(((8;;;271))) soon wall didn t shove push
-(((8;;;272))) guess share shove rest boy
+(((8;;;270))) gar will mighty useful brother be think bad man friend mcmurdo time
+(((8;;;271))) have soon wall didn t shove push
+(((8;;;272))) guess will share shove rest boy
 (((8;;;273))) good nerve
 (((8;;;274))) didn t squirm shove gun
 (((8;;;275))) danger
@@ -2117,22 +2116,22 @@
 (((8;;;278))) cover time
 (((8;;;279))) guess shoot quick
 (((8;;;280))) gar mcginty flush angry red burst roar laughter
-(((8;;;281))) holy terror come hand year
+(((8;;;281))) have holy terror come hand year
 (((8;;;282))) reckon lodge learn proud
 (((8;;;283))) hell want t speak gentleman minute butt bartender stand abash
-(((8;;;284))) sorry councillor ted baldwin
+(((8;;;284))) be sorry councillor ted baldwin
 (((8;;;285))) say minute
 (((8;;;286))) message unnecessary set cruel face man look servant shoulder
 (((8;;;287))) push bartender close door
-(((8;;;288))) say furious glance mcmurdo get word councillor man
+(((8;;;288))) say furious glance mcmurdo get have word councillor man
 (((8;;;289))) face cry mcmurdo
-(((8;;;290))) time way
+(((8;;;290))) will time way
 (((8;;;291))) tut tut say mcginty get barrel
 (((8;;;292))) new brother baldwin greet fashion
 (((8;;;293))) hold hand man cry baldwin fury
-(((8;;;294))) offer fight think wrong say mcmurdo
-(((8;;;295))) fight fist win t satisfy fight way choose
-(((8;;;296))) leave councillor judge bodymaster
+(((8;;;294))) have offer fight think wrong say mcmurdo
+(((8;;;295))) will fight fist win t satisfy will fight way choose
+(((8;;;296))) will leave councillor judge bodymaster
 (((8;;;297))) young lady
 (((8;;;298))) free choose
 (((8;;;299))) cry baldwin
@@ -2143,10 +2142,10 @@
 (((8;;;304))) mad fury squeeze life mcmurdo interfere
 (((8;;;305))) easy councillor heaven sake easy cry drag
 (((8;;;306))) mcginty release hold baldwin cow shake gasp breath shiver limb look edge death sit barrel hurl
-(((8;;;307))) ask day ted baldwin get cry mcginty huge chest rise fall
+(((8;;;307))) have ask day ted baldwin have get cry mcginty huge chest rise fall
 (((8;;;308))) maybe think vote bodymaster find shoe
 (((8;;;309))) lodge
-(((8;;;310))) long chief man lift voice ruling
+(((8;;;310))) long chief will man lift voice ruling
 (((8;;;311))) mumble baldwin feel throat
 (((8;;;312))) cry relapse moment bluff joviality good friend end mat
 (((8;;;313))) take bottle champagne shelf twist cork
@@ -2157,9 +2156,9 @@
 (((8;;;318))) ted baldwin offense sir cloud heavy answer baldwin forever brighten
 (((8;;;319))) swear man drink glass ceremony perform baldwin mcmurdo cry mcginty rub hand
 (((8;;;320))) end black blood
-(((8;;;321))) come lodge discipline go heavy hand part brother baldwin know damn soon find brother mcmurdo ask trouble faith slow say mcmurdo
+(((8;;;321))) come lodge discipline go heavy hand part brother baldwin know damn soon find brother mcmurdo ask trouble faith have slow say mcmurdo
 (((8;;;322))) hold hand baldwin
-(((8;;;323))) quick quarrel quick forgive
+(((8;;;323))) be quick quarrel quick forgive
 (((8;;;324))) hot irish blood tell
 (((8;;;325))) bear grudge
 (((8;;;326))) baldwin proffer hand baleful eye terrible boss
@@ -2167,10 +2166,10 @@
 (((8;;;328))) mcginty clap shoulder
 (((8;;;329))) tut girl girl cry
 (((8;;;330))) think petticoat come boy devil luck colleen inside settle question outside jurisdiction bodymaster lord praise woman
-(((8;;;331))) affiliate lodge 341 brother mcmurdo
+(((8;;;331))) will affiliate lodge 341 brother mcmurdo
 (((8;;;332))) way method different chicago
-(((8;;;333))) saturday night meet come free forever vermissa valley
-(((9;;;0))) lodge 341 vermissa day follow even contain excite event mcmurdo move lodging old jacob shafter take quarter widow macnamara extreme outskirts town
+(((8;;;333))) saturday night meet come will free forever vermissa valley
+(((9;;;0))) day follow even contain excite event mcmurdo move lodging old jacob shafter take quarter widow macnamara extreme outskirts town
 (((9;;;1))) scanlan original acquaintance aboard train occasion shortly vermissa lodge
 (((9;;;2))) boarder hostess easy go old irishwoman leave freedom speech action welcome man secret common
 (((9;;;3))) shafter relent extent let mcmurdo come meal like intercourse ettie mean break
@@ -2185,10 +2184,10 @@
 (((9;;;12))) special body raise railway colliery owner supplement effort ordinary civil police perfectly helpless face organize ruffianism terrorize district
 (((9;;;13))) hush enter curious glance cast relation policeman criminal peculiar part state mcginty stand counter show surprise policeman enrol customer
 (((9;;;14))) straight whisky night bitter say police officer
-(((9;;;15))) don t think meet councillor new captain say mcginty
+(((9;;;15))) don t think meet councillor will new captain say mcginty
 (((9;;;16))) look councillor lead citizen help uphold law order township
 (((9;;;17))) captain marvin
-(((9;;;18))) good captain marvin say mcginty coldly police township need import good
+(((9;;;18))) have good captain marvin say mcginty coldly police township need import good
 (((9;;;19))) pay tool capitalist hire club shoot poor fellow citizen win t argue say police officer good humouredly
 (((9;;;20))) expect duty t
 (((9;;;21))) drink glass turn eye fall face jack mcmurdo scowl elbow
@@ -2197,8 +2196,8 @@
 (((9;;;24))) friend curse copper life say
 (((9;;;25))) acquaintance isn t friend say police captain grin
 (((9;;;26))) jack mcmurdo chicago right don t deny mcmurdo shrug shoulder
-(((9;;;27))) deny say
-(((9;;;28))) have ye think ashamed get good cause
+(((9;;;27))) be deny say
+(((9;;;28))) have ye think be ashamed have get good cause
 (((9;;;29))) devil have mean roar fist clench
 (((9;;;30))) jack bluster win t
 (((9;;;31))) officer chicago come darn coal bunker know chicago crook
@@ -2208,280 +2207,278 @@
 (((9;;;35))) haven t forget shoot jonas pinto
 (((9;;;36))) shoot
 (((9;;;37))) good impartial evidence ain t death come uncommon handy shove queer
-(((9;;;38))) let bygone go duty say clear case chicago open morrow
-(((9;;;39))) give pointer sulky dog thank
-(((9;;;40))) suppose mean thank say mcmurdo gracious manner
-(((9;;;41))) mum long live straight say captain
-(((9;;;42))) lord story good night good night councillor
-(((9;;;43))) leave bar room create local hero
-(((9;;;44))) mcmurdo deed far chicago whisper
-(((9;;;45))) question smile wish greatness thrust
-(((9;;;46))) thing officially confirm
-(((9;;;47))) bar loafer crowd round shake heartily hand
-(((9;;;48))) free community time
-(((9;;;49))) drink hard little trace even mate scanlan hand lead home fete hero surely spend night bar
-(((9;;;50))) saturday night mcmurdo introduce lodge
-(((9;;;51))) think pass ceremony initiate chicago particular rite vermissa proud undergo postulant
-(((9;;;52))) assembly meet large room reserve purpose union house
-(((9;;;53))) member assemble vermissa mean represent strength organization lodge valley mountain exchange member business afoot crime man stranger locality
-(((9;;;54))) altogether scatter coal district
-(((9;;;55))) bare assembly room man gather round long table
-(((9;;;56))) 2 lade bottle glass member company turn eye
-(((9;;;57))) mcginty sit head flat black velvet cap shock tangle black hair colour purple steal round neck priest preside diabolical ritual
-(((9;;;58))) right leave high lodge official cruel handsome face ted baldwin
-(((9;;;59))) wear scarf medallion emblem office
-(((9;;;60))) man mature age rest company consist young fellow eighteen ready capable agent carry command senior
-(((9;;;61))) old man feature show tigerish lawless soul look rank file difficult believe eager open face young fellow truth dangerous gang murderer mind suffer complete moral perversion take horrible pride proficiency business look deep respect man reputation make call clean job
-(((9;;;62))) contort nature spirit chivalrous thing volunteer service man injure case see life
-(((9;;;63))) crime commit quarrel actually strike fatal blow amuse company describe cry contortion murder man
-(((9;;;64))) show secrecy arrangement time narrative describe proceeding extraordinarily open repeat failure law prove hand dare witness unlimited numb stanch witness fill treasure chest draw fund engage good legal talent state
-(((9;;;65))) long year outrage single conviction danger threaten scowrers lie victim outnumber take surprise occasionally leave mark assailant
-(((9;;;66))) mcmurdo warn ordeal lie tell consist
-(((9;;;67))) lead outer room solemn brother
-(((9;;;68))) plank partition hear murmur voice assembly
-(((9;;;69))) twice catch sound know discuss candidacy
-(((9;;;70))) enter inner guard green gold sash chest
-(((9;;;71))) bodymaster order shall truss blind enter say
-(((9;;;72))) remove coat turn sleeve right arm finally pass rope round elbow fast
-(((9;;;73))) place thick black cap right head upper face
-(((9;;;74))) lead assembly hall
-(((9;;;75))) pitch dark oppressive hood
-(((9;;;76))) hear rustle murmur people round voice mcginty sound dull distant cover ear
-(((9;;;77))) john mcmurdo say voice member ancient order freeman bow assent
-(((9;;;78))) lodge
-(((9;;;79))) 29 chicago bow
-(((9;;;80))) dark night unpleasant say voice
-(((9;;;81))) yes stranger travel answer
-(((9;;;82))) cloud heavy
-(((9;;;83))) yes storm approach
-(((9;;;84))) brother satisfy ask bodymaster
-(((9;;;85))) general murmur assent
-(((9;;;86))) know brother sign countersign say mcginty
-(((9;;;87))) know county county part certain rite certain duty good man
-(((9;;;88))) ready test
-(((9;;;89))) stout heart
-(((9;;;90))) stride forward prove
-(((9;;;91))) word say feel hard point eye press appear forward danger lose
-(((9;;;92))) nerve step resolutely pressure melt away
-(((9;;;93))) low murmur applause
-(((9;;;94))) stout heart say voice
-(((9;;;95))) bear pain answer
-(((9;;;96))) test scream agonize pain shoot forearm
-(((9;;;97))) nearly faint sudden shock bite lip clench hand hide agony
-(((9;;;98))) say
-(((9;;;99))) time loud applause
-(((9;;;100))) fine appearance lodge
-(((9;;;101))) hand clap hood pluck head
-(((9;;;102))) stand blink smile amid congratulation brother
-(((9;;;103))) word brother mcmurdo say mcginty
-(((9;;;104))) swear oath secrecy fidelity aware punishment breach instant inevitable death say mcmurdo
-(((9;;;105))) accept rule bodymaster time circumstance
-(((9;;;106))) lodge 341 vermissa welcome privilege debate
-(((9;;;107))) liquor table brother scanlan drink worthy brother
-(((9;;;108))) mcmurdo coat bring put examine right arm smart heavily
-(((9;;;109))) flesh forearm circle triangle deep red brand iron leave
-(((9;;;110))) neighbour pull sleeve show lodge mark
-(((9;;;111))) say brave
-(((9;;;112))) tut say burn ache
-(((9;;;113))) drink follow ceremony initiation dispose business lodge proceed
-(((9;;;114))) mcmurdo accustom prosaic performance chicago listen open ear surprise venture follow
-(((9;;;115))) business agendum paper say mcginty read follow letter division master windle merton county lodge 249
-(((9;;;116))) say dear sir job andrew rae rae sturmash coal owner near place
-(((9;;;117))) remember lodge owe return have service brother mat patrolman fall
-(((9;;;118))) send good man take charge treasurer higgins lodge address know
-(((9;;;119))) act
-(((9;;;120))) freedom j
-(((9;;;121))) w
-(((9;;;122))) windle have
-(((9;;;123))) be
-(((9;;;124))) o
-(((9;;;125))) f
-(((9;;;126))) windle refuse occasion ask loan man refuse
-(((9;;;127))) mcginty pause look round room dull malevolent eye
-(((9;;;128))) volunteer job young fellow hold hand
-(((9;;;129))) bodymaster look approve smile
-(((9;;;130))) tiger cormac
-(((9;;;131))) handle win t wrong
-(((9;;;132))) wilson
-(((9;;;133))) pistol say volunteer mere boy teen
-(((9;;;134))) blood time
-(((9;;;135))) great start
-(((9;;;136))) pistol find wait mistake
-(((9;;;137))) report monday time
-(((9;;;138))) great welcome return
-(((9;;;139))) reward time ask cormac thick set dark face brutal look young man ferocity earn nickname tiger
-(((9;;;140))) mind reward
-(((9;;;141))) honour thing
-(((9;;;142))) maybe odd dollar box
-(((9;;;143))) man ask young wilson
-(((9;;;144))) sure like ask man
-(((9;;;145))) judge
-(((9;;;146))) business
-(((9;;;147))) carry
-(((9;;;148))) speak brother merton lodge come week business quarter
-(((9;;;149))) ask
-(((9;;;150))) faith wise ask
-(((9;;;151))) know testify trouble come
-(((9;;;152))) man clean job
-(((9;;;153))) time cry ted baldwin
-(((9;;;154))) folk gettin hand part
-(((9;;;155))) week man turn foreman blaker
-(((9;;;156))) owe long time proper
-(((9;;;157))) mcmurdo whisper neighbour
-(((9;;;158))) business end buckshot cartridge cry man loud laugh
-(((9;;;159))) think way brother mcmurdo criminal soul absorb spirit vile association member
-(((9;;;160))) like say
-(((9;;;161))) this proper place lad mettle
-(((9;;;162))) sit hear word applaud
-(((9;;;163))) cry black maned bodymaster end table
-(((9;;;164))) this new brother sir find way taste
-(((9;;;165))) mcmurdo rise foot instant
-(((9;;;166))) eminent bodymaster man want honour choose help lodge
-(((9;;;167))) great applause
-(((9;;;168))) feel new sun push rim horizon
-(((9;;;169))) old progress little rapid
-(((9;;;170))) say secretary harraway vulture face old graybeard sit near chairman brother mcmurdo wait good pleasure lodge employ
-(((9;;;171))) sure mean hand say mcmurdo
-(((9;;;172))) time come brother say chairman
-(((9;;;173))) mark will man believe good work part
-(((9;;;174))) small mat night hand
-(((9;;;175))) wait worth
-(((9;;;176))) come night help know stand community
-(((9;;;177))) announcement late
-(((9;;;178))) glance agendum paper point bring meet
-(((9;;;179))) ask treasurer bank balance
-(((9;;;180))) pension jim carnaway widow
-(((9;;;181))) strike work lodge loser
-(((9;;;182))) jim shoot month try kill chester wilcox marley creek mcmurdo neighbour inform
-(((9;;;183))) fund good moment say treasurer bankbook
-(((9;;;184))) firm generous late
-(((9;;;185))) max linder co
-(((9;;;186))) pay leave
-(((9;;;187))) walker brother send take return ask
-(((9;;;188))) hear wednesday wind gear order
-(((9;;;189))) burn breaker year reasonable
-(((9;;;190))) west section coaling company pay annual contribution
-(((9;;;191))) hand meet obligation
-(((9;;;192))) archie swindon ask brother
-(((9;;;193))) sell leave district
-(((9;;;194))) old devil leave note free cross sweeper new york large owner power ring blackmailer
-(((9;;;195))) gar break note reach guess win t face valley
-(((9;;;196))) elderly clean shave man kindly face good brow rise end table face chairman
-(((9;;;197))) mr treasurer ask ask buy property man drive district yes brother morris
-(((9;;;198))) buy state merton county railroad company
-(((9;;;199))) buy mine todman lee come market way year company brother morris
-(((9;;;200))) buy ironworks manson shuman van deher atwood give late buy west gilmerton general mine company
-(((9;;;201))) don t brother morris say chairman matter buy t carry district
-(((9;;;202))) respect eminent bodymaster think mat
-(((9;;;203))) process go long year
-(((9;;;204))) gradually drive small man trade
-(((9;;;205))) result find place great company like railroad general iron director new york philadelphia care threat
-(((9;;;206))) local boss mean send stead
-(((9;;;207))) make dangerous
-(((9;;;208))) small man harm
-(((9;;;209))) money power
-(((9;;;210))) long squeeze spin-dry stay power
-(((9;;;211))) big company find stand profit spare pain expense hunt bring court
-(((9;;;212))) hush ominous word face darken gloomy look exchange
-(((9;;;213))) omnipotent unchallenged think possible retribution background banish mind
-(((9;;;214))) idea strike chill reckless
-(((9;;;215))) advice speaker continue easy small man
-(((9;;;216))) day drive power society break
-(((9;;;217))) unwelcome truth popular
-(((9;;;218))) angry cry speaker resume seat
-(((9;;;219))) mcginty rise gloom brow
-(((9;;;220))) brother morris say croaker
-(((9;;;221))) long member lodge stand power unite state touch
-(((9;;;222))) sure try lawcourts expect big company find easy pay fight little company
-(((9;;;223))) brother mcginty take black velvet cap steal speak lodge finish business even save small mat mention part
-(((9;;;224))) time come fraternal refreshment harmony
-(((9;;;225))) strange human nature
-(((9;;;226))) man murder familiar strike father family man personal feel think compunction compassion weep wife helpless child tender pathetic music tear
-(((9;;;227))) mcmurdo fine tenor voice fail gain good lodge long withhold thrill sit stile mary bank allan water
-(((9;;;228))) night new recruit popular brother mark advancement high office
-(((9;;;229))) quality need good fellowship worthy freeman give example even
-(((9;;;230))) whisky bottle pass round time man flush ripe mischief bodymaster rise address
-(((9;;;231))) boy say man town want trim get
-(((9;;;232))) speak james stanger herald
-(((9;;;233))) see open mouth murmur assent mutter oath
-(((9;;;234))) mcginty take slip paper waistcoat pocket
-(((9;;;235))) law order head
-(((9;;;236))) reign terror coal iron district year elapse assassination prove existence criminal organization midst
-(((9;;;237))) day outrage cease reach pitch make opprobrium civilize world
-(((9;;;238))) result great country welcome bosom alien fly despotism europe shall tyrant man give shelter state terrorism lawlessness establish shadow sacred fold starry flag freedom raise horror mind read exist effete monarchy east man know
-(((9;;;239))) organization patent public
-(((9;;;240))) long endure forever live sure read slush cry chairman toss paper table
-(((9;;;241))) say
-(((9;;;242))) question ask shall kill cry dozen fierce voice
-(((9;;;243))) protest say brother morris man good brow shave face
-(((9;;;244))) tell brother hand heavy valley come point self defense man unite crush
-(((9;;;245))) james stanger old man
-(((9;;;246))) respect township district
-(((9;;;247))) paper stand solid valley
-(((9;;;248))) man strike stir state end destruction
-(((9;;;249))) bring destruction mr standback cry mcginty
-(((9;;;250))) police sure half pay half afraid
-(((9;;;251))) law court judge haven t try come judge lynch try case say brother morris
-(((9;;;252))) general shout anger greet suggestion
-(((9;;;253))) raise finger cry mcginty man town clear end end
-(((9;;;254))) suddenly raise voice bend huge black brow terrible frown brother morris eye time heart try heart
-(((9;;;255))) ill day brother morris come agendum paper think ought place
-(((9;;;256))) morris turn deadly pale knee way fall chair
-(((9;;;257))) raise glass tremble hand drink answer
-(((9;;;258))) apologize eminent bodymaster brother lodge say
-(((9;;;259))) faithful member know fear lest evil come lodge make speak anxious word
-(((9;;;260))) great trust judgment eminent bodymaster promise offend
-(((9;;;261))) bodymaster scowl relax listen humble word
-(((9;;;262))) good brother morris
-(((9;;;263))) sorry needful lesson
-(((9;;;264))) long chair shall unite lodge word deed
-(((9;;;265))) boy continue look round company stanger get desert trouble need ask
-(((9;;;266))) editor hang journal state cry police troop
-(((9;;;267))) guess pretty severe warn
-(((9;;;268))) fix brother baldwin sure say young man eagerly
-(((9;;;269))) half dozen guard door
-(((9;;;270))) come gower mansel scanlan willabys
-(((9;;;271))) promise new brother say chairman
-(((9;;;272))) ted baldwin look mcmurdo eye show forget forgive
-(((9;;;273))) come want say surly voice
-(((9;;;274))) soon work good
-(((9;;;275))) company break shout yell snatch drunken song
-(((9;;;276))) bar crowd reveller brother remain
-(((9;;;277))) little band tell duty pass street proceed two three sidewalk provoke attention
-(((9;;;278))) bitterly cold night half moon shine brilliantly frosty star spangle sky
-(((9;;;279))) man stop gather yard face high build
-(((9;;;280))) word vermissa herald print gold letter brightly light window
-(((9;;;281))) come clank print press
-(((9;;;282))) say baldwin mcmurdo stand door road keep open
-(((9;;;283))) arthur willaby stay
-(((9;;;284))) come
-(((9;;;285))) fear boy dozen witness union bar moment
-(((9;;;286))) nearly midnight street desert save reveller way home
-(((9;;;287))) party cross road push open door newspaper office baldwin man rush stair face
-(((9;;;288))) mcmurdo remain
-(((9;;;289))) room come shout cry help sound trample foot fall chair
-(((9;;;290))) instant late gray haired man rush land
-(((9;;;291))) seize far spectacle come tinkle mcmurdo foot
-(((9;;;292))) thud groan
-(((9;;;293))) face half dozen stick clatter fall
-(((9;;;294))) writhe long thin limb quiver blow
-(((9;;;295))) cease baldwin cruel face set infernal smile hack man head vainly endeavour defend arm
-(((9;;;296))) white hair dabble patch blood
-(((9;;;297))) baldwin stoop victim put short vicious blow expose mcmurdo dash stair push
-(((9;;;298))) kill man say
-(((9;;;299))) drop baldwin look amazement
-(((9;;;300))) curse cry
-(((9;;;301))) interfere new lodge stand raise stick mcmurdo whip pistol pocket
-(((9;;;302))) stand cry
-(((9;;;303))) blow face lie hand
-(((9;;;304))) lodge wasn t order bodymaster man kill kill truth say remark man
-(((9;;;305))) gar good hurry cry man
-(((9;;;306))) window light town inside minute
-(((9;;;307))) sound shout street little group compositor pressman form hall nerve action
-(((9;;;308))) leave limp motionless body editor head stair criminal rush way swiftly street
-(((9;;;309))) have reach union house mix crowd mcginty saloon whisper bar boss job carry
-(((9;;;310))) mcmurdo break away street devious path home
-(((10;;;0))) valley fear mcmurdo awake morning good reason remember initiation lodge
+(((9;;;38))) let bygone be go duty say clear case chicago open morrow
+(((9;;;39))) be
+(((9;;;40))) have give pointer sulky dog thank
+(((9;;;41))) suppose mean thank say mcmurdo gracious manner
+(((9;;;42))) mum long live straight say captain
+(((9;;;43))) lord story good night good night councillor
+(((9;;;44))) leave bar room create local hero
+(((9;;;45))) mcmurdo deed far chicago whisper
+(((9;;;46))) question smile wish greatness thrust
+(((9;;;47))) thing officially confirm
+(((9;;;48))) bar loafer crowd round shake heartily hand
+(((9;;;49))) free community time
+(((9;;;50))) drink hard little trace even mate scanlan hand lead home fete hero surely spend night bar
+(((9;;;51))) saturday night mcmurdo introduce lodge
+(((9;;;52))) think pass ceremony initiate chicago particular rite vermissa proud undergo postulant
+(((9;;;53))) assembly meet large room reserve purpose union house
+(((9;;;54))) member assemble vermissa mean represent strength organization lodge valley mountain exchange member business afoot crime man stranger locality
+(((9;;;55))) altogether scatter coal district
+(((9;;;56))) bare assembly room man gather round long table
+(((9;;;57))) 2 lade bottle glass member company turn eye
+(((9;;;58))) mcginty sit head flat black velvet cap shock tangle black hair colour purple steal round neck priest preside diabolical ritual
+(((9;;;59))) right leave high lodge official cruel handsome face ted baldwin
+(((9;;;60))) wear scarf medallion emblem office
+(((9;;;61))) man mature age rest company consist young fellow eighteen ready capable agent carry command senior
+(((9;;;62))) old man feature show tigerish lawless soul look rank file difficult believe eager open face young fellow truth dangerous gang murderer mind suffer complete moral perversion take horrible pride proficiency business look deep respect man reputation make call clean job
+(((9;;;63))) contort nature spirit chivalrous thing volunteer service man injure case see life
+(((9;;;64))) crime commit quarrel actually strike fatal blow amuse company describe cry contortion murder man
+(((9;;;65))) show secrecy arrangement time narrative describe proceeding extraordinarily open repeat failure law prove hand dare witness unlimited numb stanch witness fill treasure chest draw fund engage good legal talent state
+(((9;;;66))) long year outrage single conviction danger threaten scowrers lie victim outnumber take surprise occasionally leave mark assailant
+(((9;;;67))) mcmurdo warn ordeal lie tell consist
+(((9;;;68))) lead outer room solemn brother
+(((9;;;69))) plank partition hear murmur voice assembly
+(((9;;;70))) twice catch sound know discuss candidacy
+(((9;;;71))) enter inner guard green gold sash chest
+(((9;;;72))) bodymaster order shall truss blind enter say
+(((9;;;73))) remove coat turn sleeve right arm finally pass rope round elbow fast
+(((9;;;74))) place thick black cap right head upper face
+(((9;;;75))) lead assembly hall
+(((9;;;76))) pitch dark oppressive hood
+(((9;;;77))) hear rustle murmur people round voice mcginty sound dull distant cover ear
+(((9;;;78))) john mcmurdo say voice member ancient order freeman bow assent
+(((9;;;79))) lodge
+(((9;;;80))) 29 chicago bow
+(((9;;;81))) dark night unpleasant say voice
+(((9;;;82))) yes stranger travel answer
+(((9;;;83))) cloud heavy
+(((9;;;84))) yes storm approach
+(((9;;;85))) brother satisfy ask bodymaster
+(((9;;;86))) general murmur assent
+(((9;;;87))) know brother sign countersign say mcginty
+(((9;;;88))) know county county part certain rite certain duty good man
+(((9;;;89))) ready test
+(((9;;;90))) stout heart
+(((9;;;91))) stride forward prove
+(((9;;;92))) word say feel hard point eye press appear forward danger lose
+(((9;;;93))) nerve step resolutely pressure melt away
+(((9;;;94))) low murmur applause
+(((9;;;95))) stout heart say voice
+(((9;;;96))) bear pain answer
+(((9;;;97))) test scream agonize pain shoot forearm
+(((9;;;98))) nearly faint sudden shock bite lip clench hand hide agony
+(((9;;;99))) say
+(((9;;;100))) time loud applause
+(((9;;;101))) fine appearance lodge
+(((9;;;102))) hand clap hood pluck head
+(((9;;;103))) stand blink smile amid congratulation brother
+(((9;;;104))) word brother mcmurdo say mcginty
+(((9;;;105))) swear oath secrecy fidelity aware punishment breach instant inevitable death say mcmurdo
+(((9;;;106))) accept rule bodymaster time circumstance
+(((9;;;107))) lodge 341 vermissa welcome privilege debate
+(((9;;;108))) liquor table brother scanlan drink worthy brother
+(((9;;;109))) mcmurdo coat bring put examine right arm smart heavily
+(((9;;;110))) flesh forearm circle triangle deep red brand iron leave
+(((9;;;111))) neighbour pull sleeve show lodge mark
+(((9;;;112))) have say brave
+(((9;;;113))) tut say burn ache
+(((9;;;114))) drink follow ceremony initiation dispose business lodge proceed
+(((9;;;115))) mcmurdo accustom prosaic performance chicago listen open ear surprise venture follow
+(((9;;;116))) business agendum paper say mcginty read follow letter division master windle merton county lodge 249
+(((9;;;117))) say dear sir job andrew rae rae sturmash coal owner near place
+(((9;;;118))) remember lodge owe return have service brother mat patrolman fall
+(((9;;;119))) send good man take charge treasurer higgins lodge address know
+(((9;;;120))) act
+(((9;;;121))) freedom j
+(((9;;;122))) w
+(((9;;;123))) windle dmaof
+(((9;;;124))) windle refuse occasion ask loan man refuse
+(((9;;;125))) mcginty pause look round room dull malevolent eye
+(((9;;;126))) volunteer job young fellow hold hand
+(((9;;;127))) bodymaster look approve smile
+(((9;;;128))) will tiger cormac
+(((9;;;129))) handle win t wrong
+(((9;;;130))) wilson
+(((9;;;131))) have pistol say volunteer mere boy teen
+(((9;;;132))) blood time
+(((9;;;133))) great start
+(((9;;;134))) pistol will find wait be mistake
+(((9;;;135))) report monday time
+(((9;;;136))) will great welcome return
+(((9;;;137))) reward time ask cormac thick set dark face brutal look young man ferocity earn nickname tiger
+(((9;;;138))) mind reward
+(((9;;;139))) honour thing
+(((9;;;140))) maybe odd dollar box
+(((9;;;141))) man ask young wilson
+(((9;;;142))) sure like ask man
+(((9;;;143))) judge
+(((9;;;144))) business
+(((9;;;145))) carry
+(((9;;;146))) speak brother merton lodge come week business quarter
+(((9;;;147))) ask
+(((9;;;148))) faith wise ask
+(((9;;;149))) know testify trouble come
+(((9;;;150))) man clean job
+(((9;;;151))) time cry ted baldwin
+(((9;;;152))) folk gettin hand part
+(((9;;;153))) week man turn foreman blaker
+(((9;;;154))) owe long time will proper
+(((9;;;155))) mcmurdo whisper neighbour
+(((9;;;156))) business end buckshot cartridge cry man loud laugh
+(((9;;;157))) think way brother mcmurdo criminal soul absorb spirit vile association member
+(((9;;;158))) like say
+(((9;;;159))) this proper place lad mettle
+(((9;;;160))) sit hear word applaud
+(((9;;;161))) cry black maned bodymaster end table
+(((9;;;162))) this new brother sir find way taste
+(((9;;;163))) mcmurdo rise foot instant
+(((9;;;164))) eminent bodymaster man want honour choose help lodge
+(((9;;;165))) great applause
+(((9;;;166))) feel new sun push rim horizon
+(((9;;;167))) old progress little rapid
+(((9;;;168))) say secretary harraway vulture face old graybeard sit near chairman brother mcmurdo wait good pleasure lodge employ
+(((9;;;169))) sure mean be hand say mcmurdo
+(((9;;;170))) time come brother say chairman
+(((9;;;171))) mark will man believe good work part
+(((9;;;172))) small mat night hand
+(((9;;;173))) wait worth
+(((9;;;174))) come night help know stand community
+(((9;;;175))) announcement late
+(((9;;;176))) glance agendum paper point bring meet
+(((9;;;177))) ask treasurer bank balance
+(((9;;;178))) pension jim carnaway widow
+(((9;;;179))) strike work lodge loser
+(((9;;;180))) jim shoot month try kill chester wilcox marley creek mcmurdo neighbour inform
+(((9;;;181))) fund good moment say treasurer bankbook
+(((9;;;182))) firm generous late
+(((9;;;183))) max linder co
+(((9;;;184))) pay leave
+(((9;;;185))) walker brother send take return ask
+(((9;;;186))) hear wednesday wind gear order
+(((9;;;187))) burn breaker year reasonable
+(((9;;;188))) west section coaling company pay annual contribution
+(((9;;;189))) hand meet obligation
+(((9;;;190))) archie swindon ask brother
+(((9;;;191))) sell leave district
+(((9;;;192))) old devil leave note free cross sweeper new york large owner power ring blackmailer
+(((9;;;193))) gar break note reach guess win t face valley
+(((9;;;194))) elderly clean shave man kindly face good brow rise end table face chairman
+(((9;;;195))) mr treasurer ask ask buy property man drive district yes brother morris
+(((9;;;196))) buy state merton county railroad company
+(((9;;;197))) buy mine todman lee come market way year company brother morris
+(((9;;;198))) buy ironworks manson shuman van deher atwood give late buy west gilmerton general mine company
+(((9;;;199))) don t brother morris say chairman matter buy t carry district
+(((9;;;200))) respect eminent bodymaster think mat
+(((9;;;201))) process go long year
+(((9;;;202))) gradually drive small man trade
+(((9;;;203))) result find place great company like railroad general iron director new york philadelphia care threat
+(((9;;;204))) local boss mean send stead
+(((9;;;205))) make dangerous
+(((9;;;206))) small man harm
+(((9;;;207))) money power
+(((9;;;208))) long squeeze spin-dry stay power
+(((9;;;209))) big company find stand profit spare pain expense hunt bring court
+(((9;;;210))) hush ominous word face darken gloomy look exchange
+(((9;;;211))) omnipotent unchallenged think possible retribution background banish mind
+(((9;;;212))) idea strike chill reckless
+(((9;;;213))) advice speaker continue easy small man
+(((9;;;214))) day drive power society break
+(((9;;;215))) unwelcome truth popular
+(((9;;;216))) angry cry speaker resume seat
+(((9;;;217))) mcginty rise gloom brow
+(((9;;;218))) brother morris say croaker
+(((9;;;219))) long member lodge stand power unite state touch
+(((9;;;220))) sure try lawcourts expect big company find easy pay fight little company
+(((9;;;221))) brother mcginty take black velvet cap steal speak lodge finish business even save small mat mention part
+(((9;;;222))) time come fraternal refreshment harmony
+(((9;;;223))) strange human nature
+(((9;;;224))) man murder familiar strike father family man personal feel think compunction compassion weep wife helpless child tender pathetic music tear
+(((9;;;225))) mcmurdo fine tenor voice fail gain good lodge long withhold thrill be sit stile mary bank allan water
+(((9;;;226))) night new recruit popular brother mark advancement high office
+(((9;;;227))) quality need good fellowship worthy freeman give example even
+(((9;;;228))) whisky bottle pass round time man flush ripe mischief bodymaster rise address
+(((9;;;229))) boy say man town want trim get
+(((9;;;230))) be speak james stanger herald
+(((9;;;231))) have see open mouth murmur assent mutter oath
+(((9;;;232))) mcginty take slip paper waistcoat pocket
+(((9;;;233))) law order head
+(((9;;;234))) reign terror coal iron district year elapse assassination prove existence criminal organization midst
+(((9;;;235))) day outrage cease reach pitch make opprobrium civilize world
+(((9;;;236))) result great country welcome bosom alien fly despotism europe shall tyrant man give shelter state terrorism lawlessness establish shadow sacred fold starry flag freedom raise horror mind read exist effete monarchy east man know
+(((9;;;237))) organization patent public
+(((9;;;238))) long endure forever live sure have read slush cry chairman toss paper table
+(((9;;;239))) say
+(((9;;;240))) question be ask shall kill cry dozen fierce voice
+(((9;;;241))) protest say brother morris man good brow shave face
+(((9;;;242))) tell brother hand heavy valley come point self defense man unite crush
+(((9;;;243))) james stanger old man
+(((9;;;244))) respect township district
+(((9;;;245))) paper stand solid valley
+(((9;;;246))) man strike stir state end destruction
+(((9;;;247))) bring destruction mr standback cry mcginty
+(((9;;;248))) police sure half pay half afraid
+(((9;;;249))) law court judge haven t try come judge lynch try case say brother morris
+(((9;;;250))) general shout anger greet suggestion
+(((9;;;251))) raise finger cry mcginty man town clear end end
+(((9;;;252))) suddenly raise voice bend huge black brow terrible frown brother morris eye time have heart try heart
+(((9;;;253))) ill day brother morris come agendum paper be think ought place
+(((9;;;254))) morris turn deadly pale knee way fall chair
+(((9;;;255))) raise glass tremble hand drink answer
+(((9;;;256))) apologize eminent bodymaster brother lodge say
+(((9;;;257))) faithful member know fear lest evil come lodge make speak anxious word
+(((9;;;258))) great trust judgment eminent bodymaster promise offend
+(((9;;;259))) bodymaster scowl relax listen humble word
+(((9;;;260))) good brother morris
+(((9;;;261))) sorry needful lesson
+(((9;;;262))) long chair shall unite lodge word deed
+(((9;;;263))) boy continue look round company will stanger get desert trouble need ask
+(((9;;;264))) editor hang journal state cry police troop
+(((9;;;265))) guess pretty severe warn
+(((9;;;266))) fix brother baldwin sure say young man eagerly
+(((9;;;267))) half dozen guard door
+(((9;;;268))) will come gower mansel scanlan willabys
+(((9;;;269))) promise new brother say chairman
+(((9;;;270))) ted baldwin look mcmurdo eye show forget forgive
+(((9;;;271))) come want say surly voice
+(((9;;;272))) soon work good
+(((9;;;273))) company break shout yell snatch drunken song
+(((9;;;274))) bar crowd reveller brother remain
+(((9;;;275))) little band tell duty pass street proceed two three sidewalk provoke attention
+(((9;;;276))) bitterly cold night half moon shine brilliantly frosty star spangle sky
+(((9;;;277))) man stop gather yard face high build
+(((9;;;278))) word vermissa herald print gold letter brightly light window
+(((9;;;279))) come clank print press
+(((9;;;280))) say baldwin mcmurdo stand door road keep open
+(((9;;;281))) arthur willaby stay
+(((9;;;282))) come
+(((9;;;283))) fear boy dozen witness union bar moment
+(((9;;;284))) nearly midnight street desert save reveller way home
+(((9;;;285))) party cross road push open door newspaper office baldwin man rush stair face
+(((9;;;286))) mcmurdo remain
+(((9;;;287))) room come shout cry help sound trample foot fall chair
+(((9;;;288))) instant late gray haired man rush land
+(((9;;;289))) seize far spectacle come tinkle mcmurdo foot
+(((9;;;290))) thud groan
+(((9;;;291))) face half dozen stick clatter fall
+(((9;;;292))) writhe long thin limb quiver blow
+(((9;;;293))) cease baldwin cruel face set infernal smile hack man head vainly endeavour defend arm
+(((9;;;294))) white hair dabble patch blood
+(((9;;;295))) baldwin stoop victim put short vicious blow expose mcmurdo dash stair push
+(((9;;;296))) will kill man say
+(((9;;;297))) drop baldwin look amazement
+(((9;;;298))) curse cry
+(((9;;;299))) interfere new lodge stand raise stick mcmurdo whip pistol pocket
+(((9;;;300))) stand cry
+(((9;;;301))) will blow face lie hand
+(((9;;;302))) lodge wasn t order bodymaster man kill kill truth say remark man
+(((9;;;303))) gar have good hurry cry man
+(((9;;;304))) window light will town inside minute
+(((9;;;305))) sound shout street little group compositor pressman form hall nerve action
+(((9;;;306))) leave limp motionless body editor head stair criminal rush way swiftly street
+(((9;;;307))) have reach union house mix crowd mcginty saloon whisper bar boss job carry
+(((9;;;308))) mcmurdo break away street devious path home
+(((10;;;0))) mcmurdo awake morning good reason remember initiation lodge
 (((10;;;1))) head ache effect drink arm brand hot swell
 (((10;;;2))) have peculiar source income irregular attendance work late breakfast remain home morning write long letter friend
 (((10;;;3))) read daily herald
@@ -2535,13 +2532,13 @@
 (((10;;;51))) crime cry morris voice vibrate passion
 (((10;;;52))) see little
 (((10;;;53))) crime night man old father beat till blood drip white hair crime war say mcmurdo war class strike good
-(((10;;;54))) think thing join freeman society chicago bind
+(((10;;;54))) think thing join freeman society chicago be bind
 (((10;;;55))) join philadelphia
 (((10;;;56))) benefit club meet place fellow
 (((10;;;57))) hear place curse hour fall ear come good god good wife child come
 (((10;;;58))) start drygoods store market square prosper
 (((10;;;59))) word go round freeman force join local lodge night
-(((10;;;60))) badge shame forearm bad brand heart
+(((10;;;60))) have badge shame forearm bad brand heart
 (((10;;;61))) find order black villain catch meshwork crime
 (((10;;;62))) word say thing good take treason night
 (((10;;;63))) t away world store
@@ -2553,7 +2550,7 @@
 (((10;;;69))) conscience religion criminal
 (((10;;;70))) choose job
 (((10;;;71))) back know come
-(((10;;;72))) maybe coward
+(((10;;;72))) maybe be coward
 (((10;;;73))) maybe think poor little woman child make
 (((10;;;74))) go
 (((10;;;75))) guess haunt forever
@@ -2573,19 +2570,19 @@
 (((10;;;89))) inform god forbid cry morris
 (((10;;;90))) sure think cost life
 (((10;;;91))) say mcmurdo
-(((10;;;92))) think weak man mat
+(((10;;;92))) be think weak man mat
 (((10;;;93))) wait till live long
 (((10;;;94))) look valley cloud chimney overshadow tell cloud murder hang thick low head people
 (((10;;;95))) valley fear valley death
 (((10;;;96))) terror heart people dusk dawn
 (((10;;;97))) wait young man learn
-(((10;;;98))) let know think see say mcmurdo carelessly
+(((10;;;98))) will let know think see say mcmurdo carelessly
 (((10;;;99))) clear man place soon sell dime dollar business worth good
 (((10;;;100))) say safe gar think informer cry morris piteously
 (((10;;;101))) let rest
-(((10;;;102))) bear say mind maybe day come
+(((10;;;102))) will bear say mind maybe day will come
 (((10;;;103))) expect mean kindly speak like
-(((10;;;104))) get home
+(((10;;;104))) will get home
 (((10;;;105))) word say morris
 (((10;;;106))) see
 (((10;;;107))) want know speak
@@ -2596,14 +2593,14 @@
 (((10;;;112))) long brother morris find thing good future
 (((10;;;113))) afternoon mcmurdo sit smoke lose think stave sit room door swing open framework fill huge figure boss mcginty
 (((10;;;114))) pass sign seat opposite young man look steadily time look steadily return
-(((10;;;115))) visitor brother mcmurdo say
+(((10;;;115))) be visitor brother mcmurdo say
 (((10;;;116))) guess busy folk visit
-(((10;;;117))) think stretch point drop house
-(((10;;;118))) proud councillor mcmurdo answer heartily bring whisky bottle cupboard
+(((10;;;117))) think have stretch point drop house
+(((10;;;118))) be proud councillor mcmurdo answer heartily bring whisky bottle cupboard
 (((10;;;119))) honour expect
 (((10;;;120))) arm ask boss
 (((10;;;121))) mcmurdo wry face
-(((10;;;122))) forget say worth
+(((10;;;122))) be forget say worth
 (((10;;;123))) yes worth answer loyal help lodge
 (((10;;;124))) speak brother morris miller hill morning question come suddenly answer prepare
 (((10;;;125))) burst hearty laugh
@@ -2618,39 +2615,39 @@
 (((10;;;134))) guess tell
 (((10;;;135))) folk part
 (((10;;;136))) folk ain t councillor say mcmurdo boldly
-(((10;;;137))) judge man know
+(((10;;;137))) judge man will know
 (((10;;;138))) swarthy giant glare hairy paw close instant round glass hurl head companion
 (((10;;;139))) laugh loud boisterous insincere fashion
 (((10;;;140))) queer card sure say
-(((10;;;141))) want reason
+(((10;;;141))) want reason will
 (((10;;;142))) morris lodge
 (((10;;;143))) daren t trust
 (((10;;;144))) heart loyal brother
 (((10;;;145))) know
 (((10;;;146))) watch wait time admonish
-(((10;;;147))) think time draw near
+(((10;;;147))) be think time draw near
 (((10;;;148))) room scabby sheep pen
 (((10;;;149))) company disloyal man think disloyal
 (((10;;;150))) chance keep company dislike man mcmurdo answer
 (((10;;;151))) disloyal man use word twice
 (((10;;;152))) say mcginty drain glass
-(((10;;;153))) come word season
-(((10;;;154))) like know say mcmurdo come learn speak morris mcginty laugh
+(((10;;;153))) come word season have
+(((10;;;154))) have like know say mcmurdo come learn speak morris mcginty laugh
 (((10;;;155))) business know go township say
-(((10;;;156))) guess good reckon hear pass
-(((10;;;157))) time leavetaking cut short unexpected fashion
+(((10;;;156))) guess have good reckon hear pass
+(((10;;;157))) time will leavetaking cut short unexpected fashion
 (((10;;;158))) sudden crash door fly open frown intent face glare peak police cap
 (((10;;;159))) mcmurdo spring foot half draw revolver arm stop midway conscious winchester rifle level head
 (((10;;;160))) man uniform advance room shooter hand
 (((10;;;161))) captain marvin chicago constabulary
 (((10;;;162))) shake head half smile mcmurdo
-(((10;;;163))) think get trouble mr crook mcmurdo chicago say
+(((10;;;163))) think have get trouble mr crook mcmurdo chicago say
 (((10;;;164))) t hat come
-(((10;;;165))) guess pay captain marvin say mcginty
-(((10;;;166))) like know break house fashion molest honest law abide man stand deal councillor mcginty say police captain
+(((10;;;165))) guess will pay captain marvin say mcginty
+(((10;;;166))) have like know break house fashion molest honest law abide man stand deal councillor mcginty say police captain
 (((10;;;167))) man mcmurdo
 (((10;;;168))) help hinder duty
-(((10;;;169))) friend answer conduct say boss
+(((10;;;169))) friend will answer conduct say boss
 (((10;;;170))) account mr mcginty answer conduct day captain answer
 (((10;;;171))) man mcmurdo crook come crook
 (((10;;;172))) cover patrolman disarm
@@ -2658,9 +2655,9 @@
 (((10;;;174))) maybe captain marvin face face easily
 (((10;;;175))) warrant ask mcginty
 (((10;;;176))) gar man live russia vermissa folk like run police
-(((10;;;177))) capitalist outrage hear reckon
+(((10;;;177))) capitalist outrage will hear reckon
 (((10;;;178))) think duty good way councillor
-(((10;;;179))) look
+(((10;;;179))) will look
 (((10;;;180))) accuse ask mcmurdo
 (((10;;;181))) concern beat old editor stanger herald office
 (((10;;;182))) wasn t fault isn t murder charge
@@ -2672,12 +2669,12 @@
 (((10;;;188))) manage whisper word prisoner part
 (((10;;;189))) jerk thumb upward signify coin plant
 (((10;;;190))) right whisper mcmurdo devise safe hide place floor
-(((10;;;191))) bid good bye say boss shake hand
-(((10;;;192))) reilly lawyer defense
+(((10;;;191))) will bid good bye say boss shake hand
+(((10;;;192))) will reilly lawyer defense
 (((10;;;193))) word win t able hold
 (((10;;;194))) wouldn t bet
 (((10;;;195))) guard prisoner shoot try game
-(((10;;;196))) search house leave
+(((10;;;196))) will search house leave
 (((10;;;197))) apparently find trace conceal plant
 (((10;;;198))) descend man escort mcmurdo headquarter
 (((10;;;199))) darkness fall keen blizzard blow street nearly desert loiterers follow group embolden invisibility shout imprecation prisoner
@@ -2701,12 +2698,12 @@
 (((10;;;217))) sit compress lip brood eye man file dock
 (((10;;;218))) little dark beard resolute fellow thought comrade word ex prisoner pass
 (((10;;;219))) damn murderer say
-(((10;;;220))) fix
-(((11;;;0))) dark hour need impetus jack mcmurdo popularity fellow arrest acquittal
+(((10;;;220))) will fix
+(((11;;;0))) need impetus jack mcmurdo popularity fellow arrest acquittal
 (((11;;;1))) man night join lodge bring magistrate new record annals society
 (((11;;;2))) earn reputation good boon companion cheery reveller withal man high temper insult powerful boss
 (((11;;;3))) addition impress comrade idea brain ready devise bloodthirsty scheme hand capable carry
-(((11;;;4))) boy clean job say oldsters wait time set work
+(((11;;;4))) will boy clean job say oldsters wait time set work
 (((11;;;5))) mcginty instrument recognize supremely able
 (((11;;;6))) feel like man hold fierce bloodhound leash
 (((11;;;7))) cur small work day slip creature prey
@@ -2739,14 +2736,14 @@
 (((11;;;34))) know hold wife write know marry man strange know marry ettie
 (((11;;;35))) swear woman earth
 (((11;;;36))) cross christ swear white passionate earnestness believe
-(((11;;;37))) cry letter tell acushla say
-(((11;;;38))) oath wouldn t break word hold promise
+(((11;;;37))) cry letter will tell acushla say
+(((11;;;38))) be oath wouldn t break word hold promise
 (((11;;;39))) business lodge secret
 (((11;;;40))) scare hand fall t understand hand detective feel tell truth
 (((11;;;41))) gather arm kiss away fear doubt
 (((11;;;42))) sit
 (((11;;;43))) queer throne queen good poor lover find
-(((11;;;44))) good day think
+(((11;;;44))) will good day be think
 (((11;;;45))) mind easy ease jack know criminal criminal know day hear court murder mcmurdo scowrer boarder call yesterday
 (((11;;;46))) go heart like knife
 (((11;;;47))) sure hard word break bone
@@ -2758,8 +2755,8 @@
 (((11;;;53))) oh jack beg bend knee kneel implore raise soothe head breast
 (((11;;;54))) sure darlin don t know ask
 (((11;;;55))) break oath desert comrade thing stand ask
-(((11;;;56))) want don t suppose lodge let man free secret think jack
-(((11;;;57))) plan
+(((11;;;56))) want don t suppose lodge let man free secret have think jack
+(((11;;;57))) have plan
 (((11;;;58))) father save money
 (((11;;;59))) weary place fear people darken life
 (((11;;;60))) ready
@@ -2770,13 +2767,13 @@
 (((11;;;65))) sure 2 time hear valley name say
 (((11;;;66))) shadow lie heavy
 (((11;;;67))) darken moment life
-(((11;;;68))) suppose ted baldwin forgive fear suppose chance see look dark hungry eye fall gar teach good manner catch little girl
+(((11;;;68))) suppose ted baldwin forgive fear suppose chance see look dark hungry eye fall gar have teach good manner catch little girl
 (((11;;;69))) t leave
 (((11;;;70))) t
 (((11;;;71))) leave find way try prepare way get honourably
 (((11;;;72))) honour mat
 (((11;;;73))) look
-(((11;;;74))) month work leave ashamed look face
+(((11;;;74))) will month will work leave ashamed look face
 (((11;;;75))) girl laugh joy
 (((11;;;76))) month cry
 (((11;;;77))) promise seven
@@ -2801,13 +2798,13 @@
 (((11;;;96))) count say
 (((11;;;97))) amiss order county delegate obey
 (((11;;;98))) sure say scanlan mcmurdo mate sit supper
-(((11;;;99))) true talk till cow come home kill charlie williams simon bird job past
+(((11;;;99))) true will talk till cow come home kill charlie williams simon bird job past
 (((11;;;100))) till work
 (((11;;;101))) half dozen word say mcmurdo oath
 (((11;;;102))) suppose isn t jack knox ironhill
-(((11;;;103))) way desert
+(((11;;;103))) have way desert
 (((11;;;104))) herman strauss
-(((11;;;105))) win t tell t glad know
+(((11;;;105))) win t tell t have glad know
 (((11;;;106))) lawler smile shake head
 (((11;;;107))) draw
 (((11;;;108))) spite reticence guest scanlan mcmurdo determine present call fun
@@ -2874,28 +2871,28 @@
 (((11;;;169))) shadow fall dark valley
 (((11;;;170))) wise general choose moment victory redouble effort foe time steady disaster boss mcginty look scene operation brood malicious eye devise new attack oppose
 (((11;;;171))) night half drunken company break touch mcmurdo arm lead aside inner room interview
-(((11;;;172))) lad say get job worthy
-(((11;;;173))) hand
+(((11;;;172))) lad say have get job worthy
+(((11;;;173))) will hand
 (((11;;;174))) proud hear mcmurdo answer
 (((11;;;175))) man manders reilly
 (((11;;;176))) warn service
-(((11;;;177))) right district chester wilcox settle thank lodge coal field
-(((11;;;178))) good
+(((11;;;177))) will right district chester wilcox settle will thank lodge coal field
+(((11;;;178))) will good
 (((11;;;179))) shall find mcginty take eternal half chew half smoke cigar corner mouth proceed draw rough diagram page tear notebook
 (((11;;;180))) chief foreman iron dike company
 (((11;;;181))) hard citizen old colour sergeant war scar grizzle
-(((11;;;182))) try luck jim carnaway lose life
+(((11;;;182))) have try luck jim carnaway lose life
 (((11;;;183))) house iron dike crossroad map earshot
 (((11;;;184))) good day
 (((11;;;185))) arm shoot quick straight question ask
 (((11;;;186))) night wife child hire help
 (((11;;;187))) t pick choose
 (((11;;;188))) bag blast powder door slow match man didn t tell shoot jim carnaway shoot thunder carnaway house night shoot
-(((11;;;189))) get settle thing right
+(((11;;;189))) have get settle thing right
 (((11;;;190))) woman child
-(((11;;;191))) hard
+(((11;;;191))) hard have
 (((11;;;192))) sort fool talk easy councillor easy say think stand order bodymaster lodge right wrong decide
-(((11;;;193))) course
+(((11;;;193))) will course
 (((11;;;194))) good night house plan
 (((11;;;195))) good say mcginty shake hand
 (((11;;;196))) leave
@@ -2918,7 +2915,7 @@
 (((11;;;213))) alas work organize boldly carry go warn fate victim know mark destruction chester wilcox move family day safe know quarter guard police watch
 (((11;;;214))) house tear gunpowder grim old colour sergeant war teach discipline miner iron dike
 (((11;;;215))) leave say mcmurdo
-(((11;;;216))) man sure wait year
+(((11;;;216))) man will sure wait year
 (((11;;;217))) vote thank confidence pass lodge time mat end
 (((11;;;218))) week late report paper wilcox shoot ambuscade open secret mcmurdo work unfinished job
 (((11;;;219))) method society freeman deed scowrers spread rule fear great rich district long period haunt terrible presence
@@ -2931,7 +2928,7 @@
 (((11;;;226))) spring come run brook blossom tree
 (((11;;;227))) hope nature bind long iron grip hope man woman live yoke terror
 (((11;;;228))) cloud dark hopeless early summer year 1875
-(((12;;;0))) danger height reign terror
+(((12;;;0))) height reign terror
 (((12;;;1))) mcmurdo appoint inner deacon prospect day succeed mcginty bodymaster necessary council comrade help advice
 (((12;;;2))) popular freeman black scowl greet pass street vermissa
 (((12;;;3))) spite terror citizen take heart band oppressor
@@ -2949,7 +2946,7 @@
 (((12;;;15))) trust wasn t agree say
 (((12;;;16))) know
 (((12;;;17))) speak safe
-(((12;;;18))) secret hand breast burn life
+(((12;;;18))) have secret hand breast burn life
 (((12;;;19))) wish come
 (((12;;;20))) tell mean murder sure
 (((12;;;21))) don t bring end
@@ -2965,15 +2962,15 @@
 (((12;;;31))) man crazy say
 (((12;;;32))) isn t place police detective harm man district
 (((12;;;33))) know little
-(((12;;;34))) hear pinkerton read folk
-(((12;;;35))) trail
+(((12;;;34))) have hear pinkerton have read folk
+(((12;;;35))) have trail
 (((12;;;36))) miss government concern
 (((12;;;37))) dead earnest business proposition result keep till hook crook get
 (((12;;;38))) pinkerton man deep business destroy
 (((12;;;39))) kill
 (((12;;;40))) ah think come lodge
 (((12;;;41))) didn t end murder sure murder isn t common part point man murder
-(((12;;;42))) rest easy
+(((12;;;42))) have rest easy
 (((12;;;43))) neck stake
 (((12;;;44))) god shall rock fro agony indecision
 (((12;;;45))) word move mcmurdo deeply
@@ -2990,7 +2987,7 @@
 (((12;;;56))) mcmurdo read scowrers get part read plenty paper
 (((12;;;57))) expect hear news long
 (((12;;;58))) big corporation railroad take thing dead earnest
-(((12;;;59))) mean bet right deep
+(((12;;;59))) mean bet will right deep
 (((12;;;60))) pinkerton take hold order good man birdy edwards operate
 (((12;;;61))) thing get stop right
 (((12;;;62))) read postscript
@@ -3007,159 +3004,162 @@
 (((12;;;73))) think know
 (((12;;;74))) tell news come way business
 (((12;;;75))) know pinkerton man mcmurdo give violent start
-(((12;;;76))) gar cry get
+(((12;;;76))) gar cry have get
 (((12;;;77))) fool know
 (((12;;;78))) lord luck fix harm
 (((12;;;79))) morris leave thing hand sure
-(((12;;;80))) stand right let run
-(((12;;;81))) need mention
-(((12;;;82))) letter come
-(((12;;;83))) content ask
-(((12;;;84))) leave head shut
-(((12;;;85))) lodge soon old man pinkerton sorry
-(((12;;;86))) wouldn t kill man know friend morris easy conscience good sleep
-(((12;;;87))) ask question let thing settle
-(((12;;;88))) hold
-(((12;;;89))) morris shake head sadly leave
-(((12;;;90))) feel blood hand groan
-(((12;;;91))) self protection murder say mcmurdo smile grimly
-(((12;;;92))) guess man destroy leave long valley
-(((12;;;93))) brother morris elect bodymaster surely save lodge
-(((12;;;94))) clear action think seriously new intrusion word
-(((12;;;95))) guilty conscience reputation pinkerton organization knowledge great rich corporation set task clear scowrers reason action man prepare bad
-(((12;;;96))) paper incriminate destroy leave house
-(((12;;;97))) give long sigh satisfaction safe
-(((12;;;98))) danger press somewhat way lodge stop old man shafter
-(((12;;;99))) house forbid tap window ettie come
-(((12;;;100))) dance irish deviltry go lover eye
-(((12;;;101))) read danger earnest face
-(((12;;;102))) happen cry
-(((12;;;103))) oh jack danger sure bad sweetheart
-(((12;;;104))) wise bad
-(((12;;;105))) promise day
-(((12;;;106))) think time come
-(((12;;;107))) news night bad news trouble come
-(((12;;;108))) police pinkerton
-(((12;;;109))) sure wouldn t know acushla mean like
-(((12;;;110))) deep thing quick
-(((12;;;111))) say come go
-(((12;;;112))) oh jack save honest man thing ettie
-(((12;;;113))) wouldn t hurt hair bonny head world pull inch golden throne cloud
-(((12;;;114))) trust hand word
-(((12;;;115))) listen order way
-(((12;;;116))) thing go happen valley
-(((12;;;117))) feel bone
-(((12;;;118))) look
-(((12;;;119))) day night come come jack
-(((12;;;120))) shall come
-(((12;;;121))) valley close come leave hide police chance message come
-(((12;;;122))) know good woman place come leave till marry
-(((12;;;123))) come yes jack come
-(((12;;;124))) god bless trust fiend hell abuse
-(((12;;;125))) mark ettie word reach drop come right wait room depot stay till come
-(((12;;;126))) day night come word jack
-(((12;;;127))) somewhat ease mind preparation escape begin mcmurdo go lodge
-(((12;;;128))) assemble complicate sign countersign pass outer guard inner guard close tile
-(((12;;;129))) buzz pleasure welcome greet enter
-(((12;;;130))) long room crowd haze tobacco smoke see tangle black mane bodymaster cruel unfriendly feature baldwin vulture face harraway secretary dozen leader lodge
-(((12;;;131))) rejoice counsel news
-(((12;;;132))) glad brother cry chairman
-(((12;;;133))) business want solomon judgment set right
-(((12;;;134))) lander egan explain neighbour take seat
-(((12;;;135))) claim head money give lodge shoot old man crabbe stylestown fire bullet mcmurdo rise place raise hand
-(((12;;;136))) expression face freeze attention audience
-(((12;;;137))) dead hush expectation
-(((12;;;138))) eminent bodymaster say solemn voice claim urgency brother mcmurdo claim urgency say mcginty
-(((12;;;139))) claim rule lodge take precedence
-(((12;;;140))) brother attend
-(((12;;;141))) mcmurdo take letter pocket
-(((12;;;142))) eminent bodymaster brother say bearer ill news day good know discuss blow fall warn destroy
-(((12;;;143))) information powerful rich organization state bind destruction moment pinkerton detective birdy edwards work valley collect evidence rope round neck send man room felon cell
-(((12;;;144))) situation discussion claim urgency
-(((12;;;145))) dead silence room
-(((12;;;146))) break chairman
-(((12;;;147))) evidence brother mcmurdo ask
-(((12;;;148))) letter come hand say mcmurdo
-(((12;;;149))) read passage aloud
-(((12;;;150))) mat honour particular letter hand assure affect interest lodge
-(((12;;;151))) case reach
-(((12;;;152))) let mr chairman say old brother hear birdy edwards good man pinkerton service
-(((12;;;153))) know sight ask mcginty
-(((12;;;154))) yes say mcmurdo
-(((12;;;155))) murmur astonishment hall
-(((12;;;156))) believe hold hollow hand continue exult smile face
-(((12;;;157))) act quickly wisely cut thing short
-(((12;;;158))) confidence help little fear
-(((12;;;159))) fear know affair stanch councillor
-(((12;;;160))) man million capitalist
-(((12;;;161))) think weak brother lodge buy secret maybe get
-(((12;;;162))) sure cure
-(((12;;;163))) leaf valley say baldwin
-(((12;;;164))) mcmurdo nod
-(((12;;;165))) good brother baldwin say
-(((12;;;166))) difference say true word night
-(((12;;;167))) shall know eminent bodymaster say mcmurdo earnestly vital thing discuss open lodge
-(((12;;;168))) god forbid throw doubt word gossip get ear man end chance get
-(((12;;;169))) ask lodge choose trusty committee mr chairman suggest brother baldwin
-(((12;;;170))) talk freely know advise
-(((12;;;171))) proposition adopt committee choose
-(((12;;;172))) chairman baldwin vulture face secretary harraway tiger cormac brutal young assassin carter treasurer brother willaby fearless desperate man stick
-(((12;;;173))) usual revelry lodge short subdue cloud man spirit time begin cloud avenge law drift serene sky dwell long
-(((12;;;174))) horror deal settle life think retribution remote startle come closely
-(((12;;;175))) break early leave leader council
-(((12;;;176))) mcmurdo say mcginty
-(((12;;;177))) seven man sit freeze seat
-(((12;;;178))) say know birdy edwards mcmurdo explain
-(((12;;;179))) need tell
-(((12;;;180))) brave man crazy
-(((12;;;181))) pass steve wilson lodge hobson patch
-(((12;;;182))) know fall talk
-(((12;;;183))) think little time give 2 think letter sure man
-(((12;;;184))) meet car go line wednesday hard case
-(((12;;;185))) say reporter
-(((12;;;186))) believe moment
-(((12;;;187))) want know scowrers call outrage new york paper
-(((12;;;188))) ask kind question
-(((12;;;189))) bet give away
-(((12;;;190))) pay pay say stuff suit editor
-(((12;;;191))) say think good hand dollar bill information
-(((12;;;192))) time say find want
-(((12;;;193))) tell stuff
-(((12;;;194))) know wasn t newspaper man tell
-(((12;;;195))) get hobson patch
-(((12;;;196))) chance telegraph bureau leave
-(((12;;;197))) say operator go guess charge double rate
-(((12;;;198))) guess say
-(((12;;;199))) fill form stuff chinese
-(((12;;;200))) fire sheet day say clerk
-(((12;;;201))) yes say special news paper scare tap
-(((12;;;202))) operator think think time think differently
-(((12;;;203))) gar believe right say mcginty
-(((12;;;204))) allow right fix suggest
-(((12;;;205))) ay soon good
-(((12;;;206))) start minute know find say mcmurdo
-(((12;;;207))) hobson patch don t know house
-(((12;;;208))) get plan advice
-(((12;;;209))) patch morrow morning
-(((12;;;210))) find operator
-(((12;;;211))) locate guess
-(((12;;;212))) tell freeman
-(((12;;;213))) offer secret lodge price
-(((12;;;214))) bet tumble
-(((12;;;215))) tell paper house life worth let come folk
-(((12;;;216))) horse sense
-(((12;;;217))) let come o clock night shall
-(((12;;;218))) fetch sure
-(((12;;;219))) plan rest
-(((12;;;220))) widow macnamara lonely house
-(((12;;;221))) true steel deaf post
-(((12;;;222))) scanlan house
-(((12;;;223))) promise let know seven come o clock
-(((12;;;224))) get alive talk birdy edwards luck rest day go vacancy pinkerton mistake
-(((12;;;225))) leave mcmurdo
-(((12;;;226))) morrow
-(((12;;;227))) door shut leave rest
-(((13;;;0))) trap birdy edwards mcmurdo say house live lonely suit crime plan
+(((12;;;80))) will
+(((12;;;81))) stand right let run
+(((12;;;82))) need mention
+(((12;;;83))) will letter come
+(((12;;;84))) content ask
+(((12;;;85))) leave head shut
+(((12;;;86))) will lodge will soon old man pinkerton sorry
+(((12;;;87))) wouldn t kill man know friend morris easy conscience good sleep
+(((12;;;88))) ask question let thing settle
+(((12;;;89))) hold
+(((12;;;90))) morris shake head sadly leave
+(((12;;;91))) feel blood hand groan
+(((12;;;92))) self protection murder say mcmurdo smile grimly
+(((12;;;93))) guess man destroy leave long valley
+(((12;;;94))) brother morris will elect bodymaster have surely save lodge
+(((12;;;95))) clear action think seriously new intrusion word
+(((12;;;96))) guilty conscience reputation pinkerton organization knowledge great rich corporation set task clear scowrers reason action man prepare bad
+(((12;;;97))) paper incriminate destroy leave house
+(((12;;;98))) give long sigh satisfaction safe
+(((12;;;99))) danger press somewhat way lodge stop old man shafter
+(((12;;;100))) house forbid tap window ettie come
+(((12;;;101))) dance irish deviltry go lover eye
+(((12;;;102))) read danger earnest face
+(((12;;;103))) happen cry
+(((12;;;104))) oh jack danger sure bad sweetheart
+(((12;;;105))) wise bad
+(((12;;;106))) promise day
+(((12;;;107))) think time come
+(((12;;;108))) news night bad news trouble come
+(((12;;;109))) police pinkerton
+(((12;;;110))) sure wouldn t know acushla mean like
+(((12;;;111))) be deep thing quick
+(((12;;;112))) say come go
+(((12;;;113))) oh jack save be honest man thing ettie
+(((12;;;114))) wouldn t hurt hair bonny head world pull inch golden throne cloud
+(((12;;;115))) trust hand word
+(((12;;;116))) listen order way
+(((12;;;117))) thing go happen valley
+(((12;;;118))) feel bone
+(((12;;;119))) look
+(((12;;;120))) be
+(((12;;;121))) day night come have come jack
+(((12;;;122))) shall come
+(((12;;;123))) valley close come leave hide police chance message come
+(((12;;;124))) know good woman place come have leave till marry
+(((12;;;125))) come yes jack come
+(((12;;;126))) god bless trust fiend hell abuse
+(((12;;;127))) mark ettie word reach drop come right wait room depot stay till come
+(((12;;;128))) day night will come word jack
+(((12;;;129))) somewhat ease mind preparation escape begin mcmurdo go lodge
+(((12;;;130))) assemble complicate sign countersign pass outer guard inner guard close tile
+(((12;;;131))) buzz pleasure welcome greet enter
+(((12;;;132))) long room crowd haze tobacco smoke see tangle black mane bodymaster cruel unfriendly feature baldwin vulture face harraway secretary dozen leader lodge
+(((12;;;133))) rejoice counsel news
+(((12;;;134))) glad brother cry chairman
+(((12;;;135))) business want solomon judgment set right
+(((12;;;136))) lander egan explain neighbour take seat
+(((12;;;137))) claim head money give lodge shoot old man crabbe stylestown fire bullet mcmurdo rise place raise hand
+(((12;;;138))) expression face freeze attention audience
+(((12;;;139))) dead hush expectation
+(((12;;;140))) eminent bodymaster say solemn voice claim urgency brother mcmurdo claim urgency say mcginty
+(((12;;;141))) claim rule lodge take precedence
+(((12;;;142))) brother attend
+(((12;;;143))) mcmurdo take letter pocket
+(((12;;;144))) eminent bodymaster brother say bearer ill news day good know discuss blow fall warn destroy
+(((12;;;145))) information powerful rich organization state bind destruction moment pinkerton detective birdy edwards work valley collect evidence rope round neck send man room felon cell
+(((12;;;146))) situation discussion claim urgency
+(((12;;;147))) dead silence room
+(((12;;;148))) break chairman
+(((12;;;149))) evidence brother mcmurdo ask
+(((12;;;150))) letter come hand say mcmurdo
+(((12;;;151))) read passage aloud
+(((12;;;152))) mat honour particular letter hand assure affect interest lodge
+(((12;;;153))) case reach
+(((12;;;154))) let mr chairman say old brother hear birdy edwards good man pinkerton service
+(((12;;;155))) know sight ask mcginty
+(((12;;;156))) yes say mcmurdo
+(((12;;;157))) murmur astonishment hall
+(((12;;;158))) believe hold hollow hand continue exult smile face
+(((12;;;159))) act quickly wisely cut thing short
+(((12;;;160))) confidence help little fear
+(((12;;;161))) fear know affair stanch councillor
+(((12;;;162))) man million capitalist
+(((12;;;163))) think weak brother lodge buy secret maybe get
+(((12;;;164))) sure cure
+(((12;;;165))) leaf valley say baldwin
+(((12;;;166))) mcmurdo nod
+(((12;;;167))) good brother baldwin say
+(((12;;;168))) difference say true word night
+(((12;;;169))) shall know eminent bodymaster say mcmurdo earnestly vital thing discuss open lodge
+(((12;;;170))) god forbid throw doubt word gossip get ear man end chance get
+(((12;;;171))) ask lodge choose trusty committee mr chairman suggest brother baldwin
+(((12;;;172))) talk freely know advise
+(((12;;;173))) proposition adopt committee choose
+(((12;;;174))) chairman baldwin vulture face secretary harraway tiger cormac brutal young assassin carter treasurer brother willaby fearless desperate man stick
+(((12;;;175))) usual revelry lodge short subdue cloud man spirit time begin cloud avenge law drift serene sky dwell long
+(((12;;;176))) horror deal settle life think retribution remote startle come closely
+(((12;;;177))) break early leave leader council
+(((12;;;178))) mcmurdo say mcginty
+(((12;;;179))) seven man sit freeze seat
+(((12;;;180))) say know birdy edwards mcmurdo explain
+(((12;;;181))) need tell
+(((12;;;182))) brave man crazy
+(((12;;;183))) pass steve wilson lodge hobson patch
+(((12;;;184))) know fall talk
+(((12;;;185))) think little time give 2 think letter be sure man
+(((12;;;186))) meet car go line wednesday hard case
+(((12;;;187))) say reporter
+(((12;;;188))) believe moment
+(((12;;;189))) want know scowrers call outrage new york paper
+(((12;;;190))) ask kind question
+(((12;;;191))) bet give away
+(((12;;;192))) have pay pay say stuff suit editor
+(((12;;;193))) say think good hand dollar bill information
+(((12;;;194))) time say find want
+(((12;;;195))) tell stuff
+(((12;;;196))) know wasn t newspaper man will tell
+(((12;;;197))) get hobson patch
+(((12;;;198))) chance telegraph bureau leave
+(((12;;;199))) say operator have go guess charge double rate
+(((12;;;200))) guess say
+(((12;;;201))) fill form stuff chinese
+(((12;;;202))) fire sheet day say clerk
+(((12;;;203))) yes say special news paper scare tap
+(((12;;;204))) operator think think time think differently
+(((12;;;205))) gar believe right say mcginty
+(((12;;;206))) allow right fix suggest
+(((12;;;207))) ay soon good
+(((12;;;208))) have start minute know find say mcmurdo
+(((12;;;209))) hobson patch don t know house
+(((12;;;210))) have get plan will advice
+(((12;;;211))) will patch morrow morning
+(((12;;;212))) will find operator
+(((12;;;213))) locate guess
+(((12;;;214))) will tell be freeman
+(((12;;;215))) will offer secret lodge price
+(((12;;;216))) bet will tumble
+(((12;;;217))) will tell paper house life worth let come folk
+(((12;;;218))) will horse sense
+(((12;;;219))) let come o clock night shall
+(((12;;;220))) fetch sure
+(((12;;;221))) plan rest
+(((12;;;222))) widow macnamara lonely house
+(((12;;;223))) true steel deaf post
+(((12;;;224))) scanlan house
+(((12;;;225))) promise will let know have seven come o clock
+(((12;;;226))) will
+(((12;;;227))) get alive talk birdy edwards luck rest day go vacancy pinkerton be mistake
+(((12;;;228))) leave mcmurdo
+(((12;;;229))) morrow will
+(((12;;;230))) door shut leave rest
+(((13;;;0))) mcmurdo say house live lonely suit crime plan
 (((13;;;1))) extreme fringe town stand road
 (((13;;;2))) case conspirator simply call man time empty pistol body instance necessary find know know pass employer
 (((13;;;3))) possible late work
@@ -3186,18 +3186,18 @@
 (((13;;;24))) true steel man
 (((13;;;25))) lord skunk morris
 (((13;;;26))) man give away
-(((13;;;27))) mind send couple boy round even beat
+(((13;;;27))) have mind send couple boy round even beat
 (((13;;;28))) harm mcmurdo answer
 (((13;;;29))) win t deny like morris sorry come harm
 (((13;;;30))) speak twice lodge matter sort squeal
 (((13;;;31))) stand
-(((13;;;32))) fix old devil say mcginty oath
-(((13;;;33))) eye year past
+(((13;;;32))) will fix old devil say mcginty oath
+(((13;;;33))) have eye year past
 (((13;;;34))) know good mcmurdo answer
 (((13;;;35))) morrow lie low pinkerton affair settle
 (((13;;;36))) t afford set police buzz day day
 (((13;;;37))) true say mcginty
-(((13;;;38))) learn birdy edwards get news cut heart
+(((13;;;38))) will learn birdy edwards get news cut heart
 (((13;;;39))) scent trap mcmurdo laugh
 (((13;;;40))) guess take weak point say
 (((13;;;41))) good trail scowrers ready follow hell
@@ -3208,32 +3208,32 @@
 (((13;;;46))) faith right say mcginty grimly
 (((13;;;47))) didn t ask didn t bring paper carry thing suspect man captain marvin speak day depot ay hear say mcginty
 (((13;;;48))) guess heavy end business come
-(((13;;;49))) old shaft work t past man live hobson patch day
+(((13;;;49))) old shaft have work t past man live hobson patch day
 (((13;;;50))) mcmurdo shrug shoulder
 (((13;;;51))) handle right prove kill say
-(((13;;;52))) come house dark lie
-(((13;;;53))) councillor plan ask fit
+(((13;;;52))) come house dark will lie
+(((13;;;53))) councillor will plan will ask fit
 (((13;;;54))) come good time
 (((13;;;55))) come
 (((13;;;56))) tap time open door
-(((13;;;57))) shut
+(((13;;;57))) will shut
 (((13;;;58))) man
 (((13;;;59))) easy plain
 (((13;;;60))) yes step want consider
 (((13;;;61))) hard proposition
 (((13;;;62))) heavily arm
-(((13;;;63))) fool proper likely guard
+(((13;;;63))) have fool proper likely guard
 (((13;;;64))) suppose right room seven man expect find
 (((13;;;65))) go shoot somebody go hurt
 (((13;;;66))) noise go bring damn copper township
 (((13;;;67))) guess right
 (((13;;;68))) work
 (((13;;;69))) big room see chat
-(((13;;;70))) open door parlour door leave paper
+(((13;;;70))) will open door parlour door leave paper
 (((13;;;71))) chance tell thing shape
 (((13;;;72))) fake paper
 (((13;;;73))) read jump grip pistol arm
-(((13;;;74))) hear rush
+(((13;;;74))) will hear rush
 (((13;;;75))) quick good strong man manage
 (((13;;;76))) allow hold till come
 (((13;;;77))) good plan say mcginty
@@ -3257,8 +3257,8 @@
 (((13;;;95))) mac scanlan answer
 (((13;;;96))) nerve want
 (((13;;;97))) see manager dunn colliery yonder stand
-(((13;;;98))) mcginty
-(((13;;;99))) lodge think bad advise leave even
+(((13;;;98))) be mcginty
+(((13;;;99))) lodge think bad will advise leave even
 (((13;;;100))) man come good time arrange
 (((13;;;101))) outwardly respectable citizen clothe cleanly judge face read little hope birdy edwards hard mouth remorseless eye
 (((13;;;102))) man room hand redden dozen time
@@ -3275,7 +3275,7 @@
 (((13;;;113))) say oath
 (((13;;;114))) ay say baldwin catch mean
 (((13;;;115))) strap truth
-(((13;;;116))) truth fear say mcmurdo
+(((13;;;116))) will truth fear say mcmurdo
 (((13;;;117))) nerve steel man weight affair manner cool unconcerned
 (((13;;;118))) mark applaud
 (((13;;;119))) handle say boss approvingly
@@ -3285,8 +3285,8 @@
 (((13;;;123))) sure spy
 (((13;;;124))) close hour
 (((13;;;125))) maybe win t come
-(((13;;;126))) maybe sniff danger say secretary
-(((13;;;127))) come fear mcmurdo answer
+(((13;;;126))) maybe will sniff danger say secretary
+(((13;;;127))) will come fear mcmurdo answer
 (((13;;;128))) eager come
 (((13;;;129))) hark sit like wax figure glass arrest halfway lip
 (((13;;;130))) loud knock sound door
@@ -3302,7 +3302,7 @@
 (((13;;;140))) prey safe trap
 (((13;;;141))) tiger cormac laugh horribly boss mcginty clap great hand mouth
 (((13;;;142))) quiet fool whisper
-(((13;;;143))) undo mutter conversation room
+(((13;;;143))) will undo mutter conversation room
 (((13;;;144))) interminable
 (((13;;;145))) door open mcmurdo appear finger lip
 (((13;;;146))) come end table look round
@@ -3324,15 +3324,15 @@
 (((13;;;162))) level revolver meet stern blue eye captain marvin police gleam sight
 (((13;;;163))) boss recoil fall chair
 (((13;;;164))) safe councillor say man know mcmurdo
-(((13;;;165))) baldwin don t hand pistol cheat hangman
+(((13;;;165))) baldwin don t hand pistol will cheat hangman
 (((13;;;166))) pull lord
 (((13;;;167))) arm man round house figure chance
 (((13;;;168))) pistol marvin possible resistance menace rifle
 (((13;;;169))) man disarm
 (((13;;;170))) sulky sheepish amaze sit round table
-(((13;;;171))) like word separate say man trap
+(((13;;;171))) have like word separate say man trap
 (((13;;;172))) guess meet stand courthouse
-(((13;;;173))) think
+(((13;;;173))) will think
 (((13;;;174))) know
 (((13;;;175))) card table
 (((13;;;176))) birdy edwards pinkerton
@@ -3346,7 +3346,7 @@
 (((13;;;184))) maybe think game
 (((13;;;185))) chance
 (((13;;;186))) hand jail night
-(((13;;;187))) tell job believe society
+(((13;;;187))) will tell job believe society
 (((13;;;188))) think paper talk prove
 (((13;;;189))) tell freeman go chicago
 (((13;;;190))) sure paper talk find harm society deal good
@@ -3366,21 +3366,21 @@
 (((13;;;204))) suggest thing place thing know prevent
 (((13;;;205))) save dunn menzies know murderer hang
 (((13;;;206))) give chester wilcox warn blow house folk hide
-(((13;;;207))) crime stop look think man come home road town go stay indoor think come work
+(((13;;;207))) crime stop look think man come home road town go stay indoor think come will work
 (((13;;;208))) blast traitor hiss mcginty close tooth
 (((13;;;209))) ay john mcginty ease smart
 (((13;;;210))) like enemy god man part
 (((13;;;211))) take man poor devil man woman hold grip
 (((13;;;212))) way
 (((13;;;213))) traitor guess thousand deliverer go hell save
-(((13;;;214))) month
+(((13;;;214))) have month
 (((13;;;215))) wouldn t month let loose treasury washington
 (((13;;;216))) stay till man secret right hand
-(((13;;;217))) wait little long hadn t come knowledge secret come
+(((13;;;217))) have wait little long hadn t come knowledge secret come
 (((13;;;218))) letter come town set wise
 (((13;;;219))) act act quickly
-(((13;;;220))) time come die easy think work valley
-(((13;;;221))) marvin
+(((13;;;220))) have time come will die easy think work valley
+(((13;;;221))) marvin will
 (((13;;;222))) little tell
 (((13;;;223))) scanlan give seal note leave address miss ettie shafter mission accept wink know smile
 (((13;;;224))) early hour morning beautiful woman muffle man board special train send railroad company swift unbroken journey land danger
@@ -3422,7 +3422,7 @@
 (((13;;;260))) hudson landlady bring message gentleman wish mr holmes mat utmost importance
 (((13;;;261))) close heel messenger come cecil barker friend moated manor house
 (((13;;;262))) face draw haggard
-(((13;;;263))) bad news terrible news mr holmes say
+(((13;;;263))) have bad news terrible news mr holmes say
 (((13;;;264))) fear say holmes
 (((13;;;265))) cable note
 (((13;;;266))) poor douglas
@@ -3436,7 +3436,7 @@
 (((13;;;274))) know accident occur
 (((13;;;275))) ivy douglas
 (((13;;;276))) ha come like say holmes thoughtfully
-(((13;;;277))) doubt stage manage
+(((13;;;277))) have doubt stage manage
 (((13;;;278))) mean think accident world
 (((13;;;279))) murder surely think
 (((13;;;280))) infernal scowrers curse vindictive nest criminal good sir say holmes
