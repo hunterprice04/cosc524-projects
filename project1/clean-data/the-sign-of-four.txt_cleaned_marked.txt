@@ -34,7 +34,7 @@
 (((0;;;33))) unofficial consult detective answer
 (((0;;;34))) high court appeal detection
 (((0;;;35))) gregson lestrade athelney jones depth way normal state mat lie
-(((0;;;36))) examine datum expert pronounce specialist s opinion
+(((0;;;36))) examine datum expert pronounce specialist opinion
 (((0;;;37))) claim credit case
 (((0;;;38))) figure newspaper
 (((0;;;39))) work pleasure find field peculiar power high reward
@@ -53,7 +53,7 @@
 (((0;;;52))) point case deserve mention curious analytic reason effect cause succeed unravel
 (((0;;;53))) annoy criticism work specially design
 (((0;;;54))) confess irritate egotism demand line pamphlet devote special doing
-(((0;;;55))) year live baker street observe small vanity underlie companion s quiet didactic manner
+(((0;;;55))) year live baker street observe small vanity underlie companion quiet didactic manner
 (((0;;;56))) remark sit nurse wound leg
 (((0;;;57))) jezail bullet time prevent walk ache wearily change weather
 (((0;;;58))) practice extend recently continent say holmes fill old brier root pipe
@@ -72,14 +72,14 @@
 (((0;;;71))) power observation deduction
 (((0;;;72))) want knowledge come time
 (((0;;;73))) translate small work french
-(((0;;;74))) work oh didn t know cry laugh
+(((0;;;74))) work oh know cry laugh
 (((0;;;75))) yes guilty monograph
 (((0;;;76))) technical subject
 (((0;;;77))) example distinction ash tobacco
 (((0;;;78))) enumerate form cigar cigarette pipe tobacco colour plate illustrate difference ash
 (((0;;;79))) point continually turn criminal trial supreme importance clue
 (((0;;;80))) definitely example murder man smoke indian lunkah obviously narrow field search
-(((0;;;81))) train eye difference black ash trichinopoly white fluff bird s eye cabbage potato
+(((0;;;81))) train eye difference black ash trichinopoly white fluff bird eye cabbage potato
 (((0;;;82))) extraordinary genius minutiæ remark
 (((0;;;83))) appreciate importance
 (((0;;;84))) monograph trace footstep remark use plaster paris preserver impress
@@ -93,7 +93,7 @@
 (((0;;;92))) hardly answer lean luxuriously arm chair send thick blue wreath pipe
 (((0;;;93))) example observation show wigmore street post office morning deduction let know dispatch telegram
 (((0;;;94))) right say
-(((0;;;95))) right point confess don t arrive
+(((0;;;95))) right point confess arrive
 (((0;;;96))) sudden impulse mention
 (((0;;;97))) simplicity remark chuckle surprise absurdly simple explanation superfluous serve define limit observation deduction
 (((0;;;98))) observation tell little reddish mould adhere instep
@@ -159,7 +159,7 @@
 (((0;;;158))) secondary inference occasional burst prosperity redeem pledge
 (((0;;;159))) finally ask look inner plate contain key hole
 (((0;;;160))) look thousand scratch round hole mark key slip
-(((0;;;161))) sober man s key score groove drunkard s watch
+(((0;;;161))) sober man key score groove drunkard watch
 (((0;;;162))) wind night leaf trace unsteady hand
 (((0;;;163))) mystery clear daylight answer
 (((0;;;164))) regret injustice
@@ -176,7 +176,7 @@
 (((0;;;175))) hum recollection
 (((0;;;176))) ask young lady step mrs
 (((0;;;177))) hudson
-(((0;;;178))) don t doctor
+(((0;;;178))) doctor
 (((0;;;179))) prefer remain
 (((1;;;0))) statement case miss morstan enter room firm step outward composure manner
 (((1;;;1))) blonde young lady small dainty glove dress perfect taste
@@ -244,7 +244,7 @@
 (((1;;;63))) postmark london s
 (((1;;;64))) w
 (((1;;;65))) date july 7
-(((1;;;66))) hum man s thumb mark corner probably postman
+(((1;;;66))) hum man thumb mark corner probably postman
 (((1;;;67))) good quality paper
 (((1;;;68))) envelope sixpence packet
 (((1;;;69))) particular man stationery
@@ -297,22 +297,22 @@
 (((1;;;116))) assure win woman know hang poison little child insurance money repellant man acquaintance philanthropist spend nearly quarter million london poor
 (((1;;;117))) case exception
 (((1;;;118))) exception disprove rule
-(((1;;;119))) occasion study character handwriting fellow s scribble legible regular answer
+(((1;;;119))) occasion study character handwriting fellow scribble legible regular answer
 (((1;;;120))) man business habit force character
 (((1;;;121))) holmes shake head
 (((1;;;122))) look long letter say
 (((1;;;123))) hardly rise common herd
 (((1;;;124))) _d_ _a_ _l_ _e_
 (((1;;;125))) man character differentiate long letter illegibly write
-(((1;;;126))) vacillation _k_ s self esteem capital
+(((1;;;126))) vacillation _k_ self esteem capital
 (((1;;;127))) go
 (((1;;;128))) reference
 (((1;;;129))) let recommend book remarkable pen
-(((1;;;130))) winwood reade s martyrdom man
+(((1;;;130))) winwood reade martyrdom man
 (((1;;;131))) shall hour
 (((1;;;132))) sit window volume hand thought far dare speculation writer
 (((1;;;133))) mind run late visitor smile deep rich tone voice strange mystery overhang life
-(((1;;;134))) seventeen time father s disappearance seven sweet age youth lose self consciousness little sober experience
+(((1;;;134))) seventeen time father disappearance seven sweet age youth lose self consciousness little sober experience
 (((1;;;135))) sit muse dangerous thought come head hurry away desk plunge furiously late treatise pathology
 (((1;;;136))) army surgeon weak leg weak bank account dare think thing unit factor
 (((1;;;137))) future black good surely face like man attempt brighten mere o wisp imagination
@@ -332,8 +332,8 @@
 (((2;;;13))) person london visit major sholto
 (((2;;;14))) major sholto deny have hear london
 (((2;;;15))) year late sholto die
-(((2;;;16))) _within week death_ captain morstan s daughter receive valuable present repeat year year culminate letter describe wrong woman
-(((2;;;17))) wrong refer deprivation father present begin immediately sholto s death sholto s heir know mystery desire compensation alternative theory meet fact strange compensation strangely write letter year ago letter speak give justice
+(((2;;;16))) _within week death_ captain morstan daughter receive valuable present repeat year year culminate letter describe wrong woman
+(((2;;;17))) wrong refer deprivation father present begin immediately sholto death sholto heir know mystery desire compensation alternative theory meet fact strange compensation strangely write letter year ago letter speak give justice
 (((2;;;18))) justice suppose father alive
 (((2;;;19))) injustice case know
 (((2;;;20))) difficulty certainly difficulty say sherlock holmes pensively
@@ -341,14 +341,14 @@
 (((2;;;22))) ah wheeler miss morstan inside
 (((2;;;23))) ready good little past hour
 (((2;;;24))) pick hat heavy stick observe holmes take revolver drawer slip pocket
-(((2;;;25))) clear think night s work
+(((2;;;25))) clear think night work
 (((2;;;26))) miss morstan muffle dark cloak sensitive face compose pale
 (((2;;;27))) woman feel uneasiness strange enterprise embark self control perfect readily answer additional question sherlock holmes
-(((2;;;28))) major sholto particular friend papa s say
+(((2;;;28))) major sholto particular friend papa say
 (((2;;;29))) letter allusion major
 (((2;;;30))) papa command troop andaman island throw great deal
-(((2;;;31))) way curious paper find papa s desk understand
-(((2;;;32))) don t suppose slight importance think care bring
+(((2;;;31))) way curious paper find papa desk understand
+(((2;;;32))) suppose slight importance think care bring
 (((2;;;33))) holmes unfold paper carefully smooth knee
 (((2;;;34))) methodically examine double lens
 (((2;;;35))) paper native indian manufacture remark
@@ -374,7 +374,7 @@
 (((2;;;55))) mind eerie ghost like endless procession face flit narrow bar light sad face glad haggard merry
 (((2;;;56))) like human kind flit gloom light gloom
 (((2;;;57))) subject impression dull heavy even strange business engage combine nervous depress
-(((2;;;58))) miss morstan s manner suffer feel
+(((2;;;58))) miss morstan manner suffer feel
 (((2;;;59))) holmes rise superior petty influence
 (((2;;;60))) hold open note book knee time time jot figure memorandum light pocket lantern
 (((2;;;61))) lyceum theatre crowd thick entrance
@@ -391,7 +391,7 @@
 (((2;;;72))) situation curious
 (((2;;;73))) drive unknown place unknown errand
 (((2;;;74))) invitation complete hoax inconceivable hypothesis good reason think important issue hang journey
-(((2;;;75))) miss morstan s demeanor resolute collect
+(((2;;;75))) miss morstan demeanor resolute collect
 (((2;;;76))) endeavor cheer amuse reminiscence adventure afghanistan tell truth excite situation curious destination story slightly involve
 (((2;;;77))) day declare tell move anecdote musket look tent dead night fire double barrel tiger cub
 (((2;;;78))) idea direction drive soon pace fog limit knowledge london lose bearing know save go long way
@@ -491,7 +491,7 @@
 (((3;;;67))) norwood start venture remark
 (((3;;;68))) laugh ear red
 (((3;;;69))) hardly cry
-(((3;;;70))) don t know bring sudden way
+(((3;;;70))) know bring sudden way
 (((3;;;71))) prepare show stand
 (((3;;;72))) place tell point story ignorant
 (((3;;;73))) lie fact far know
@@ -501,7 +501,7 @@
 (((3;;;77))) advantage buy house live great luxury
 (((3;;;78))) twin brother bartholomew child
 (((3;;;79))) remember sensation cause disappearance captain morstan
-(((3;;;80))) read detail paper know friend father s discuss case freely presence
+(((3;;;80))) read detail paper know friend father discuss case freely presence
 (((3;;;81))) join speculation happen
 (((3;;;82))) instant suspect secret hide breast man know fate arthur morstan
 (((3;;;83))) know mystery positive danger overhang father
@@ -511,7 +511,7 @@
 (((3;;;87))) father tell fear mark aversion man wooden leg
 (((3;;;88))) occasion actually fire revolver wooden leg man prove harmless tradesman canvass order
 (((3;;;89))) pay large sum hush mat
-(((3;;;90))) brother think mere whim father s event lead change opinion
+(((3;;;90))) brother think mere whim father event lead change opinion
 (((3;;;91))) early 1882 father receive letter india great shock
 (((3;;;92))) nearly faint breakfast table open day sicken death
 (((3;;;93))) letter discover hold short write scrawl hand
@@ -521,7 +521,7 @@
 (((3;;;97))) grasp hand remarkable statement voice break emotion pain
 (((3;;;98))) shall try word
 (((3;;;99))) thing say weigh mind supreme moment
-(((3;;;100))) treatment poor morstan s orphan
+(((3;;;100))) treatment poor morstan orphan
 (((3;;;101))) curse greed beset sin life withhold treasure half
 (((3;;;102))) use blind foolish thing avarice
 (((3;;;103))) mere feel possession dear bear share
@@ -534,7 +534,7 @@
 (((3;;;110))) suffer year weak heart conceal
 (((3;;;111))) know
 (((3;;;112))) india remarkable chain circumstance come possession considerable treasure
-(((3;;;113))) bring england night morstan s arrival come straight claim share
+(((3;;;113))) bring england night morstan arrival come straight claim share
 (((3;;;114))) walk station admit faithful old lal chowdar dead
 (((3;;;115))) morstan difference opinion division treasure come heat word
 (((3;;;116))) morstan spring chair paroxysm anger suddenly press hand face turn dusky hue fall backwards cut head corner treasure chest
@@ -559,10 +559,10 @@
 (((3;;;135))) decide
 (((3;;;136))) servant believe innocence hope good foolish tradesman jury box lal chowdar dispose body night day london paper mysterious disappearance captain morstan
 (((3;;;137))) hardly blame mat
-(((3;;;138))) fault lie fact conceal body treasure cling morstan s share
+(((3;;;138))) fault lie fact conceal body treasure cling morstan share
 (((3;;;139))) wish restitution
 (((3;;;140))) ear mouth
-(((3;;;141))) treasure hide instant horrible change come expression eye stare wildly jaw drop yell voice forget christ s sake stare round window gaze fix
+(((3;;;141))) treasure hide instant horrible change come expression eye stare wildly jaw drop yell voice forget christ sake stare round window gaze fix
 (((3;;;142))) face look darkness
 (((3;;;143))) whiten nose press glass
 (((3;;;144))) beard hairy face wild cruel eye expression concentrate malevolence
@@ -571,13 +571,13 @@
 (((3;;;147))) search garden night find sign intruder save window single footmark visible flower bed
 (((3;;;148))) trace think imagination conjure wild fierce face
 (((3;;;149))) soon strike proof secret agency work round
-(((3;;;150))) window father s room find open morning cupboard box rifle chest fix tear piece paper word sign scrawl
+(((3;;;150))) window father room find open morning cupboard box rifle chest fix tear piece paper word sign scrawl
 (((3;;;151))) phrase mean secret visitor know
-(((3;;;152))) far judge father s property actually steal turn
+(((3;;;152))) far judge father property actually steal turn
 (((3;;;153))) brother naturally associate peculiar incident fear haunt father life complete mystery
 (((3;;;154))) little man stop relight hookah puff thoughtfully moment
 (((3;;;155))) sit absorb listen extraordinary narrative
-(((3;;;156))) short account father s death miss morstan turn deadly white moment fear faint
+(((3;;;156))) short account father death miss morstan turn deadly white moment fear faint
 (((3;;;157))) rally drink glass water quietly pour venetian carafe table
 (((3;;;158))) sherlock holmes lean chair abstract expression lid draw low glitter eye
 (((3;;;159))) glance think day complain bitterly commonplaceness life
@@ -588,9 +588,9 @@
 (((3;;;164))) madden think hide place lip moment die
 (((3;;;165))) judge splendour miss rich chaplet take
 (((3;;;166))) chaplet brother bartholomew little discussion
-(((3;;;167))) pearl evidently great value averse friend brother little incline father s fault
+(((3;;;167))) pearl evidently great value averse friend brother little incline father fault
 (((3;;;168))) think part chaplet rise gossip finally bring trouble
-(((3;;;169))) persuade let find miss morstan s address send detach pearl fix interval feel destitute
+(((3;;;169))) persuade let find miss morstan address send detach pearl fix interval feel destitute
 (((3;;;170))) kindly think say companion earnestly
 (((3;;;171))) extremely good
 (((3;;;172))) little man wave hand deprecatingly
@@ -636,7 +636,7 @@
 (((3;;;212))) holmes declare overhear caution great danger take drop castor oil recommend strychnine large dos sedative
 (((3;;;213))) certainly relieve cab pull jerk coachman spring open door
 (((3;;;214))) miss morstan pondicherry lodge say mr thaddeus sholto hand
-(((4;;;0))) tragedy pondicherry lodge nearly o clock reach final stage night s adventure
+(((4;;;0))) tragedy pondicherry lodge nearly o clock reach final stage night adventure
 (((4;;;1))) leave damp fog great city night fairly fine
 (((4;;;2))) warm wind blow westward heavy cloud move slowly sky half moon peep occasionally rift
 (((4;;;3))) clear distance thaddeus sholto take lamp carriage good light way
@@ -650,7 +650,7 @@
 (((4;;;11))) door swing heavily short deep chested man stand open yellow light lantern shine protrude face twinkle distrustful eye
 (((4;;;12))) mr thaddeus order master
 (((4;;;13))) mcmurdo surprise tell brother night bring friend
-(((4;;;14))) ain t o room day mr thaddeus order
+(((4;;;14))) o room day mr thaddeus order
 (((4;;;15))) know stick regulation
 (((4;;;16))) let friend stop
 (((4;;;17))) unexpected obstacle
@@ -660,16 +660,16 @@
 (((4;;;21))) young lady
 (((4;;;22))) wait public road hour
 (((4;;;23))) sorry mr thaddeus say porter inexorably
-(((4;;;24))) folk friend o friend o master s
-(((4;;;25))) pay duty duty will
-(((4;;;26))) don t know o friend
+(((4;;;24))) folk friend o friend o master
+(((4;;;25))) pay duty duty
+(((4;;;26))) know o friend
 (((4;;;27))) oh yes mcmurdo cry sherlock holmes genially
-(((4;;;28))) don t think forget
-(((4;;;29))) don t remember amateur fight round alison s room night benefit year mr sherlock holmes roar prize fighter
-(((4;;;30))) god s truth mistake instead o standin quiet step give cross hit jaw have ha know question
+(((4;;;28))) think forget
+(((4;;;29))) remember amateur fight round alison room night benefit year mr sherlock holmes roar prize fighter
+(((4;;;30))) god truth mistake instead o standin quiet step give cross hit jaw ha know question
 (((4;;;31))) ah waste gift aim high join fancy
 (((4;;;32))) watson fail scientific profession open say holmes laugh
-(((4;;;33))) friend win t cold sure
+(((4;;;33))) friend cold sure
 (((4;;;34))) come sir come friend answer
 (((4;;;35))) sorry mr thaddeus order strict
 (((4;;;36))) certain friend let
@@ -681,13 +681,13 @@
 (((4;;;42))) distinctly tell bartholomew light window
 (((4;;;43))) know
 (((4;;;44))) guard premise way ask holmes
-(((4;;;45))) yes follow father s custom
+(((4;;;45))) yes follow father custom
 (((4;;;46))) favourite son know think father tell tell
-(((4;;;47))) bartholomew s window moonshine strike
+(((4;;;47))) bartholomew window moonshine strike
 (((4;;;48))) bright light think
 (((4;;;49))) say holmes
 (((4;;;50))) glint light little window door
-(((4;;;51))) ah housekeeper s room
+(((4;;;51))) ah housekeeper room
 (((4;;;52))) old mrs
 (((4;;;53))) bernstone sit
 (((4;;;54))) tell
@@ -723,16 +723,16 @@
 (((4;;;84))) come house say holmes crisp firm way
 (((4;;;85))) yes plead thaddeus sholto
 (((4;;;86))) feel equal give direction
-(((4;;;87))) follow housekeeper s room stand leave hand passage
+(((4;;;87))) follow housekeeper room stand leave hand passage
 (((4;;;88))) old woman pace scare look restless pick finger sight miss morstan appear soothe effect
 (((4;;;89))) god bless sweet calm face cry hysterical sob
 (((4;;;90))) good
-(((4;;;91))) oh sorely try day companion pat thin work wear hand murmur word kindly womanly comfort bring colour s bloodless cheek
+(((4;;;91))) oh sorely try day companion pat thin work wear hand murmur word kindly womanly comfort bring colour bloodless cheek
 (((4;;;92))) master lock answer explain
 (((4;;;93))) day wait hear like hour ago fear amiss go peep key hole
 (((4;;;94))) mr thaddeus look
 (((4;;;95))) see mr bartholomew sholto joy sorrow long year see face
-(((4;;;96))) sherlock holmes take lamp lead way thaddeus sholto s tooth chatter head
+(((4;;;96))) sherlock holmes take lamp lead way thaddeus sholto tooth chatter head
 (((4;;;97))) shake pass hand arm go stair knee tremble
 (((4;;;98))) twice ascend holmes whip lens pocket carefully examine mark appear mere shapeless smudge dust cocoa nut mat serve stair carpet
 (((4;;;99))) walk slowly step step hold lamp shoot keen glance right leave
@@ -755,7 +755,7 @@
 (((4;;;116))) terrible say holmes
 (((4;;;117))) door come answer spring weight lock
 (((4;;;118))) creak groan yield
-(((4;;;119))) fling time give way sudden snap find bartholomew sholto s chamber
+(((4;;;119))) fling time give way sudden snap find bartholomew sholto chamber
 (((4;;;120))) appear fit chemical laboratory
 (((4;;;121))) double line glass stopper bottle draw wall opposite door table litter bunsen burner test tube retort
 (((4;;;122))) corner stand carboys acid wicker basket
@@ -770,7 +770,7 @@
 (((4;;;131))) holmes glance hand
 (((4;;;132))) say significant raise eyebrow
 (((4;;;133))) light lantern read thrill horror sign
-(((4;;;134))) god s mean ask
+(((4;;;134))) god mean ask
 (((4;;;135))) mean murder say stoop dead man
 (((4;;;136))) ah expect
 (((4;;;137))) look point look like long dark thorn stick skin ear
@@ -785,7 +785,7 @@
 (((4;;;146))) grow dark instead clear
 (((4;;;147))) contrary answer clear instant
 (((4;;;148))) require miss link entirely connect case
-(((4;;;149))) forget companion s presence enter chamber
+(((4;;;149))) forget companion presence enter chamber
 (((4;;;150))) stand doorway picture terror wring hand moan
 (((4;;;151))) suddenly break sharp querulous cry
 (((4;;;152))) treasure go say
@@ -794,7 +794,7 @@
 (((4;;;155))) time o clock
 (((4;;;156))) dead police call shall suspect have hand
 (((4;;;157))) oh yes sure shall
-(((4;;;158))) don t think gentleman surely don t think likely bring oh dear oh dear know shall mad jerk arm stamp foot kind convulsive frenzy
+(((4;;;158))) think gentleman surely think likely bring oh dear oh dear know shall mad jerk arm stamp foot kind convulsive frenzy
 (((4;;;159))) reason fear mr sholto say holmes kindly put hand shoulder
 (((4;;;160))) advice drive station report mat police
 (((4;;;161))) offer assist way
@@ -890,12 +890,12 @@
 (((5;;;87))) outline edge small foot evil smell mess
 (((5;;;88))) carboy crack stuff leak
 (((5;;;89))) ask
-(((5;;;90))) get s say
-(((5;;;91))) know dog follow scent world s end
+(((5;;;90))) get say
+(((5;;;91))) know dog follow scent world end
 (((5;;;92))) pack track trail herring shire far specially train hound follow pungent smell sound like sum rule
 (((5;;;93))) answer halloa accredit representative law
 (((5;;;94))) heavy step clamour loud voice audible hall door shut loud crash
-(((5;;;95))) come say holmes hand poor fellow s arm leg
+(((5;;;95))) come say holmes hand poor fellow arm leg
 (((5;;;96))) feel muscle hard board answer
 (((5;;;97))) state extreme contraction far exceed usual _rigor mortis_
 (((5;;;98))) couple distortion face hippocratic smile _risus sardonicus_ old writer call conclusion suggest mind death powerful vegetable alkaloid answer strychnine like substance produce tetanus
@@ -914,23 +914,23 @@
 (((5;;;111))) speak step come near sound loudly passage stout portly man grey suit stride heavily room
 (((5;;;112))) red face burly plethoric pair small twinkle eye look keenly swell puffy pouch
 (((5;;;113))) closely follow inspector uniform palpitate thaddeus sholto
-(((5;;;114))) s business cry muffle husky voice
-(((5;;;115))) s pretty business house rabbit warren think recollect mr athelney jones say holmes quietly
+(((5;;;114))) business cry muffle husky voice
+(((5;;;115))) pretty business house rabbit warren think recollect mr athelney jones say holmes quietly
 (((5;;;116))) course wheeze
-(((5;;;117))) s mr sherlock holmes theorist
-(((5;;;118))) remember will forget lecture cause inference effect bishopgate jewel case
-(((5;;;119))) s true set right track will good luck good guidance
+(((5;;;117))) mr sherlock holmes theorist
+(((5;;;118))) remember forget lecture cause inference effect bishopgate jewel case
+(((5;;;119))) true set right track good luck good guidance
 (((5;;;120))) piece simple reason
 (((5;;;121))) oh come come ashamed
 (((5;;;122))) bad business bad business stern fact room theory
 (((5;;;123))) lucky happen norwood case station message arrive
 (((5;;;124))) have think man die oh hardly case theorise say holmes dryly
-(((5;;;125))) t deny hit nail head
+(((5;;;125))) deny hit nail head
 (((5;;;126))) dear door lock understand
 (((5;;;127))) jewel worth half million miss
 (((5;;;128))) window fasten step sill
 (((5;;;129))) fasten step mat
-(((5;;;130))) s common sense
+(((5;;;130))) common sense
 (((5;;;131))) man die fit jewel miss
 (((5;;;132))) ha theory
 (((5;;;133))) flash come time
@@ -938,8 +938,8 @@
 (((5;;;135))) friend remain
 (((5;;;136))) think holmes sholto confession brother night
 (((5;;;137))) brother die fit sholto walk treasure
-(((5;;;138))) s dead man considerately get lock door inside
-(((5;;;139))) hum s flaw
+(((5;;;138))) dead man considerately get lock door inside
+(((5;;;139))) hum flaw
 (((5;;;140))) let apply common sense mat
 (((5;;;141))) thaddeus sholto _was_ brother _was_ quarrel know
 (((5;;;142))) brother dead jewel go
@@ -951,7 +951,7 @@
 (((5;;;148))) weave web round thaddeus
 (((5;;;149))) net begin close
 (((5;;;150))) possession fact say holmes
-(((5;;;151))) splinter wood reason believe poison man s scalp mark card inscribe table lie curious stone head instrument
+(((5;;;151))) splinter wood reason believe poison man scalp mark card inscribe table lie curious stone head instrument
 (((5;;;152))) fit theory confirm respect say fat detective pompously
 (((5;;;153))) house indian curiosity
 (((5;;;154))) thaddeus bring splinter poisonous thaddeus murderous use man
@@ -970,11 +970,11 @@
 (((5;;;167))) inspector yes sir passage
 (((5;;;168))) ask mr sholto step way
 (((5;;;169))) mr sholto duty inform
-(((5;;;170))) arrest queen s concern death brother
-(((5;;;171))) didn t tell cry poor little man throw hand look
-(((5;;;172))) don t trouble mr sholto say holmes
+(((5;;;170))) arrest queen concern death brother
+(((5;;;171))) tell cry poor little man throw hand look
+(((5;;;172))) trouble mr sholto say holmes
 (((5;;;173))) think engage clear charge
-(((5;;;174))) don t promise mr theorist don t promise snap detective
+(((5;;;174))) promise mr theorist promise snap detective
 (((5;;;175))) find hard mat think
 (((5;;;176))) clear mr jones free present description people room night
 (((5;;;177))) reason believe jonathan small
@@ -982,7 +982,7 @@
 (((5;;;179))) leave boot coarse square toe sole iron band round heel
 (((5;;;180))) middle age man sunburn convict
 (((5;;;181))) indication assistance couple fact good deal skin miss palm hand
-(((5;;;182))) man ah man ask athelney jones sneer voice impress easily precision s manner
+(((5;;;182))) man ah man ask athelney jones sneer voice impress easily precision manner
 (((5;;;183))) curious person say sherlock holmes turn heel
 (((5;;;184))) hope long able introduce pair
 (((5;;;185))) word watson
@@ -995,25 +995,25 @@
 (((5;;;192))) cecil forrester low camberwell far
 (((5;;;193))) wait drive
 (((5;;;194))) tire mean
-(((5;;;195))) don t think rest know fantastic business
+(((5;;;195))) think rest know fantastic business
 (((5;;;196))) see rough life word quick succession strange surprise night shake nerve completely
 (((5;;;197))) like mat get far
 (((5;;;198))) presence great service answer
-(((5;;;199))) shall work case independently leave fellow jones exult mare s nest choose construct
+(((5;;;199))) shall work case independently leave fellow jones exult mare nest choose construct
 (((5;;;200))) drop miss morstan wish
-(((5;;;201))) 3 pinchin lane near water s edge lambeth
-(((5;;;202))) house right hand bird stuffer s sherman
+(((5;;;201))) 3 pinchin lane near water edge lambeth
+(((5;;;202))) house right hand bird stuffer sherman
 (((5;;;203))) weasel hold young rabbit window
 (((5;;;204))) knock old sherman tell compliment want toby
 (((5;;;205))) bring toby cab
 (((5;;;206))) dog suppose
 (((5;;;207))) yes queer mongrel amaze power scent
-(((5;;;208))) toby s help detective force london
+(((5;;;208))) toby help detective force london
 (((5;;;209))) shall bring say
 (((5;;;210))) ought fresh horse
 (((5;;;211))) say holmes shall learn mrs
 (((5;;;212))) bernstone indian servant mr thaddeus tell sleep garret
-(((5;;;213))) shall study great jones s method listen delicate sarcasm
+(((5;;;213))) shall study great jones method listen delicate sarcasm
 (((5;;;214))) _wir sind gewohnt das die menschen verhöhnen sie nicht verstehen
 (((5;;;215))) _ goethe pithy
 (((6;;;0))) episode barrel police bring cab escort miss morstan home
@@ -1027,14 +1027,14 @@
 (((6;;;8))) weak helpless shake mind nerve
 (((6;;;9))) disadvantage obtrude love time
 (((6;;;10))) bad rich
-(((6;;;11))) holmes s research successful heiress
+(((6;;;11))) holmes research successful heiress
 (((6;;;12))) fair honourable half pay surgeon advantage intimacy chance bring look mere vulgar fortune seeker bear risk think cross mind
 (((6;;;13))) agra treasure intervene like impassable barrier
 (((6;;;14))) nearly o clock reach mrs
-(((6;;;15))) cecil forrester s
+(((6;;;15))) cecil forrester
 (((6;;;16))) servant retire hour ago mrs
 (((6;;;17))) forrester interest strange message miss morstan receive sit hope return
-(((6;;;18))) open door middle age graceful woman give joy tenderly arm steal round s waist motherly voice greet
+(((6;;;18))) open door middle age graceful woman give joy tenderly arm steal round waist motherly voice greet
 (((6;;;19))) clearly mere pay dependant honour friend
 (((6;;;20))) introduce mrs
 (((6;;;21))) forrester earnestly beg step tell adventure
@@ -1046,18 +1046,18 @@
 (((6;;;27))) original problem pretty clear
 (((6;;;28))) death captain morstan send pearl advertisement letter light event
 (((6;;;29))) lead deep far tragic mystery
-(((6;;;30))) indian treasure curious plan find morstan s baggage strange scene major sholto s death rediscovery treasure immediately follow murder discoverer singular accompaniment crime footstep remarkable weapon word card correspond captain morstan s chart labyrinth man singularly endow fellow lodger despair find clue
+(((6;;;30))) indian treasure curious plan find morstan baggage strange scene major sholto death rediscovery treasure immediately follow murder discoverer singular accompaniment crime footstep remarkable weapon word card correspond captain morstan chart labyrinth man singularly endow fellow lodger despair find clue
 (((6;;;31))) pinchin lane row shabby storied brick house low quarter lambeth
 (((6;;;32))) knock time
 (((6;;;33))) 3 impression
 (((6;;;34))) glint candle blind face look upper window
 (((6;;;35))) drunken vagabone say face
-(((6;;;36))) kick row will open kennel let dog
-(((6;;;37))) will let s come say
+(((6;;;36))) kick row open kennel let dog
+(((6;;;37))) let come say
 (((6;;;38))) yell voice
-(((6;;;39))) help gracious wiper bag will drop ead don t hook
+(((6;;;39))) help gracious wiper bag drop ead hook
 (((6;;;40))) want dog cry
-(((6;;;41))) win t argue shout mr sherman
+(((6;;;41))) argue shout mr sherman
 (((6;;;42))) stand clear go wiper
 (((6;;;43))) mr sherlock holmes begin word magical effect window instantly slam minute door unbarred open
 (((6;;;44))) mr sherman lanky lean old man stoop shoulder stringy neck blue tint glass
@@ -1065,9 +1065,9 @@
 (((6;;;46))) step sir
 (((6;;;47))) clear badger bite
 (((6;;;48))) ah naughty naughty nip gentleman stoat thrust wicked head red eye bar cage
-(((6;;;49))) don t mind sir s slow worm
-(((6;;;50))) hain t get fang give run o room keep beetle
-(((6;;;51))) mind bein little short wi be guy child s come lane knock
+(((6;;;49))) mind sir slow worm
+(((6;;;50))) get fang give run o room keep beetle
+(((6;;;51))) mind bein little short wi guy child come lane knock
 (((6;;;52))) mr sherlock holmes want sir want dog
 (((6;;;53))) ah toby
 (((6;;;54))) yes toby
@@ -1080,7 +1080,7 @@
 (((6;;;61))) accept hesitation lump sugar old naturalist hand have seal alliance follow cab difficulty accompany
 (((6;;;62))) strike palace clock find pondicherry lodge
 (((6;;;63))) ex prize fighter mcmurdo find arrest accessory mr sholto march station
-(((6;;;64))) constable guard narrow gate allow pass dog mention detective s
+(((6;;;64))) constable guard narrow gate allow pass dog mention detective
 (((6;;;65))) holmes stand door step hand pocket smoke pipe
 (((6;;;66))) ah say
 (((6;;;67))) good dog atheney jones go
@@ -1091,7 +1091,7 @@
 (((6;;;72))) tie toby hall table ascend stair
 (((6;;;73))) room leave save sheet drape central figure
 (((6;;;74))) weary look police sergeant recline corner
-(((6;;;75))) lend bull s eye sergeant say companion
+(((6;;;75))) lend bull eye sergeant say companion
 (((6;;;76))) tie bite card round neck hang
 (((6;;;77))) thank
 (((6;;;78))) kick boot stocking
@@ -1125,7 +1125,7 @@
 (((6;;;106))) black thing water barrel
 (((6;;;107))) yes
 (((6;;;108))) sign ladder
-(((6;;;109))) confound fellow s break neck place
+(((6;;;109))) confound fellow break neck place
 (((6;;;110))) ought able come climb
 (((6;;;111))) water pipe feel pretty firm
 (((6;;;112))) go
@@ -1138,14 +1138,14 @@
 (((6;;;119))) shape size unlike cigarette case
 (((6;;;120))) inside half dozen spine dark wood sharp end round like strike bartholomew sholto
 (((6;;;121))) hellish thing say
-(((6;;;122))) look don t prick
-(((6;;;123))) be delight chance
+(((6;;;122))) look prick
+(((6;;;123))) delight chance
 (((6;;;124))) fear find skin long
 (((6;;;125))) soon face martini bullet
 (((6;;;126))) game mile trudge watson certainly answer
 (((6;;;127))) leg stand oh yes
-(((6;;;128))) doggy good old toby smell toby smell push creasote handkerchief dog s nose creature stand fluffy leg separate comical cock head like connoisseur sniff _bouquet_ famous vintage
-(((6;;;129))) holmes throw handkerchief distance fasten stout cord mongrel s collar lead foot water barrel
+(((6;;;128))) doggy good old toby smell toby smell push creasote handkerchief dog nose creature stand fluffy leg separate comical cock head like connoisseur sniff _bouquet_ famous vintage
+(((6;;;129))) holmes throw handkerchief distance fasten stout cord mongrel collar lead foot water barrel
 (((6;;;130))) creature instantly break succession high tremulous yelp nose grind tail air patter trail pace strain leash keep speed
 (((6;;;131))) east gradually whiten distance cold grey light
 (((6;;;132))) square massive house black window high bare wall tower sad forlorn
@@ -1154,7 +1154,7 @@
 (((6;;;135))) reach boundary wall toby run whine eagerly underneath shadow stop finally corner screen young beech
 (((6;;;136))) wall join brick loosen crevice leave wear round low frequently ladder
 (((6;;;137))) holmes clamber take dog drop
-(((6;;;138))) s print wooden leg s hand remark mount
+(((6;;;138))) print wooden leg hand remark mount
 (((6;;;139))) slight smudge blood white plaster
 (((6;;;140))) lucky thing heavy rain yesterday scent lie road spite hour start
 (((6;;;141))) confess doubt reflect great traffic pass london road interval
@@ -1170,11 +1170,11 @@
 (((6;;;151))) assure holmes marvel mean obtain result case jefferson hope murder
 (((6;;;152))) thing deep inexplicable
 (((6;;;153))) example describe confidence wooden leg man pshaw dear boy simplicity
-(((6;;;154))) don t wish theatrical
+(((6;;;154))) wish theatrical
 (((6;;;155))) patent board
 (((6;;;156))) officer command convict guard learn important secret bury treasure
 (((6;;;157))) map draw englishman name jonathan small
-(((6;;;158))) remember see chart captain morstan s possession
+(((6;;;158))) remember see chart captain morstan possession
 (((6;;;159))) sign behalf associate sign somewhat dramatically call
 (((6;;;160))) aid chart officer get treasure bring england leave suppose condition receive unfulfilled
 (((6;;;161))) jonathan small treasure answer obvious
@@ -1190,7 +1190,7 @@
 (((6;;;171))) likely know term imprisonment
 (((6;;;172))) surprise
 (((6;;;173))) guard wooden leg man white man mark mistake white tradesman actually fire pistol
-(((6;;;174))) white man s chart
+(((6;;;174))) white man chart
 (((6;;;175))) hindoos mohammedan
 (((6;;;176))) white man
 (((6;;;177))) confidence wooden leg man identical jonathan small
@@ -1204,7 +1204,7 @@
 (((6;;;185))) bernstone give far good character
 (((6;;;186))) small find treasure hide know save major faithful servant die
 (((6;;;187))) suddenly small learn major death bed
-(((6;;;188))) frenzy lest secret treasure die run gauntlet guard make way die man s window deter enter presence son
+(((6;;;188))) frenzy lest secret treasure die run gauntlet guard make way die man window deter enter presence son
 (((6;;;189))) mad hate dead man enter room night search private paper hope discover memorandum relate treasure finally leaf momento visit short inscription card
 (((6;;;190))) doubtless plan slay major leave record body sign common murder point view associate nature act justice
 (((6;;;191))) whimsical bizarre conceit kind common annals crime usually afford valuable indication criminal
@@ -1216,7 +1216,7 @@
 (((6;;;197))) jonathan wooden leg utterly unable reach lofty room bartholomew sholto
 (((6;;;198))) take curious associate get difficulty dip naked foot creasote come toby mile limp half pay officer damage tendo achillis
 (((6;;;199))) associate jonathan commit crime
-(((6;;;200))) jonathan s disgust judge way stamp get room
+(((6;;;200))) jonathan disgust judge way stamp get room
 (((6;;;201))) bear grudge bartholomew sholto prefer simply bind gag
 (((6;;;202))) wish head halter
 (((6;;;203))) help savage instinct companion break poison work jonathan small leave record lower treasure box grind follow
@@ -1224,7 +1224,7 @@
 (((6;;;205))) course personal appearance middle age sunburn serve time oven andamans
 (((6;;;206))) height readily calculate length stride know beard
 (((6;;;207))) hairiness point impress thaddeus sholto see window
-(((6;;;208))) don t know
+(((6;;;208))) know
 (((6;;;209))) associate ah great mystery
 (((6;;;210))) know soon
 (((6;;;211))) sweet morning air little cloud float like pink feather gigantic flamingo
@@ -1234,7 +1234,7 @@
 (((6;;;215))) work carlyle
 (((6;;;216))) like follow brook parent lake
 (((6;;;217))) make curious profound remark
-(((6;;;218))) chief proof man s real greatness lie perception smallness
+(((6;;;218))) chief proof man real greatness lie perception smallness
 (((6;;;219))) argue power comparison appreciation proof nobility
 (((6;;;220))) food think richter
 (((6;;;221))) pistol stick
@@ -1249,17 +1249,17 @@
 (((6;;;230))) man pursue take curiously zigzag road idea probably escape observation
 (((6;;;231))) keep main road parallel street serve turn
 (((6;;;232))) foot kennington lane edge away leave bond street mile street
-(((6;;;233))) street turn knight s place toby cease advance begin run backwards forward ear cock droop picture canine indecision
+(((6;;;233))) street turn knight place toby cease advance begin run backwards forward ear cock droop picture canine indecision
 (((6;;;234))) waddle round circle look time time ask sympathy embarrassment
 (((6;;;235))) deuce mat dog growl holmes
 (((6;;;236))) surely cab balloon
 (((6;;;237))) stand time suggest
-(((6;;;238))) ah s right
-(((6;;;239))) s say companion tone relief
+(((6;;;238))) ah right
+(((6;;;239))) say companion tone relief
 (((6;;;240))) sniff round suddenly mind dart away energy determination show
 (((6;;;241))) scent appear hot nose grind tug leash try break run
-(((6;;;242))) gleam holmes s eye think near end journey
-(((6;;;243))) course run elm come broderick nelson s large timber yard past white eagle tavern
+(((6;;;242))) gleam holmes eye think near end journey
+(((6;;;243))) course run elm come broderick nelson large timber yard past white eagle tavern
 (((6;;;244))) dog frantic excitement turn gate enclosure sawyer work
 (((6;;;245))) dog race sawdust shaving alley round passage wood pile finally triumphant yelp spring large barrel stand hand trolley bring
 (((6;;;246))) loll tongue blink eye toby stand cask look sign appreciation
@@ -1274,7 +1274,7 @@
 (((7;;;6))) main scent suppose
 (((7;;;7))) yes
 (((7;;;8))) fortunately distance
-(((7;;;9))) evidently puzzle dog corner knight s place different trail run opposite direction
+(((7;;;9))) evidently puzzle dog corner knight place different trail run opposite direction
 (((7;;;10))) take wrong
 (((7;;;11))) remain follow
 (((7;;;12))) difficulty
@@ -1283,8 +1283,8 @@
 (((7;;;15))) think
 (((7;;;16))) notice keep pavement barrel pass roadway
 (((7;;;17))) true scent
-(((7;;;18))) tend river run belmont place prince s street
-(((7;;;19))) end broad street run right water s edge small wooden wharf
+(((7;;;18))) tend river run belmont place prince street
+(((7;;;19))) end broad street run right water edge small wooden wharf
 (((7;;;20))) toby lead edge stand whine look dark current
 (((7;;;21))) luck say holmes
 (((7;;;22))) take boat
@@ -1300,46 +1300,46 @@
 (((7;;;32))) fear preconcerted management
 (((7;;;33))) approach door house open little curly head lad come run follow stoutish red face woman large sponge hand
 (((7;;;34))) come wash jack shout
-(((7;;;35))) come young imp father come home find like will let hear
+(((7;;;35))) come young imp father come home find like let hear
 (((7;;;36))) dear little chap say holmes strategically
 (((7;;;37))) rosy cheek young rascal jack like youth ponder moment
-(((7;;;38))) have like shillin say
-(((7;;;39))) like good have like shillin good prodigy answer think
+(((7;;;38))) like shillin say
+(((7;;;39))) like good like shillin good prodigy answer think
 (((7;;;40))) catch fine child mrs
 (((7;;;41))) smith lor bless sir forward
 (((7;;;42))) get manage specially man away day time
 (((7;;;43))) away say holmes disappoint voice
 (((7;;;44))) sorry want speak mr smith
-(((7;;;45))) s away yesterday mornin sir truth tell beginnin feel frighten
+(((7;;;45))) away yesterday mornin sir truth tell beginnin feel frighten
 (((7;;;46))) boat sir maybe serve
 (((7;;;47))) want hire steam launch
 (((7;;;48))) bless sir steam launch go
-(((7;;;49))) s puzzle know ain t coal woolwich
-(((7;;;50))) have away barge have ha think nothin time job take far gravesend doin ha stay
+(((7;;;49))) puzzle know coal woolwich
+(((7;;;50))) away barge ha think nothin time job take far gravesend doin ha stay
 (((7;;;51))) good steam launch coal buy wharf river
-(((7;;;52))) sir weren t way
-(((7;;;53))) time have hear price charge odd bag
-(((7;;;54))) don t like wooden leg man wi ugly face outlandish talk
+(((7;;;52))) sir way
+(((7;;;53))) time hear price charge odd bag
+(((7;;;54))) like wooden leg man wi ugly face outlandish talk
 (((7;;;55))) want knockin wooden leg man say holmes bland surprise
-(((7;;;56))) yes sir brown monkey face chap s call n old man
-(((7;;;57))) rouse yesternight s man know comin steam launch
-(((7;;;58))) tell straight sir don t feel easy mind
+(((7;;;56))) yes sir brown monkey face chap call n old man
+(((7;;;57))) rouse yesternight man know comin steam launch
+(((7;;;58))) tell straight sir feel easy mind
 (((7;;;59))) dear mrs
 (((7;;;60))) smith say holmes shrug shoulder frighten
-(((7;;;61))) possibly tell wooden leg man come night don t understand sure
+(((7;;;61))) possibly tell wooden leg man come night understand sure
 (((7;;;62))) voice sir
 (((7;;;63))) know voice kind o thick foggy
 (((7;;;64))) tap winder
 (((7;;;65))) leg matey say time turn guard
-(((7;;;66))) old man wake jim s eldest away go word
+(((7;;;66))) old man wake jim eldest away go word
 (((7;;;67))) hear wooden leg clackin stone
-(((7;;;68))) wooden leg man couldn t sure sir
-(((7;;;69))) didn t hear
+(((7;;;68))) wooden leg man sure sir
+(((7;;;69))) hear
 (((7;;;70))) sorry mrs
 (((7;;;71))) smith want steam launch hear good report let _aurora_ sir
-(((7;;;72))) ah s old green launch yellow line broad beam
-(((7;;;73))) s trim little thing river
-(((7;;;74))) s fresh paint black red streak
+(((7;;;72))) ah old green launch yellow line broad beam
+(((7;;;73))) trim little thing river
+(((7;;;74))) fresh paint black red streak
 (((7;;;75))) thank
 (((7;;;76))) hope hear soon mr smith
 (((7;;;77))) go river _aurora_ shall let know uneasy
@@ -1366,14 +1366,14 @@
 (((7;;;98))) fancy work go far
 (((7;;;99))) advertise ask information wharfingers bad bad man know chase hot heel country
 (((7;;;100))) likely leave long think perfectly safe hurry
-(((7;;;101))) jones s energy use view case sure push daily press runaway think wrong scent
+(((7;;;101))) jones energy use view case sure push daily press runaway think wrong scent
 (((7;;;102))) ask land near millbank penitentiary
-(((7;;;103))) hansom drive home breakfast hour s sleep
+(((7;;;103))) hansom drive home breakfast hour sleep
 (((7;;;104))) card afoot night
 (((7;;;105))) stop telegraph office cabby toby use
 (((7;;;106))) pull great peter street post office holmes despatch wire
 (((7;;;107))) think ask resume journey
-(((7;;;108))) sure don t know
+(((7;;;108))) sure know
 (((7;;;109))) remember baker street division detective police force employ jefferson hope case say laugh
 (((7;;;110))) case invaluable
 (((7;;;111))) fail resource shall try
@@ -1396,22 +1396,22 @@
 (((7;;;128))) good ham egg
 (((7;;;129))) take paper read short notice head mysterious business upper norwood
 (((7;;;130))) o clock night say _standard_ mr bartholomew sholto pondicherry lodge upper norwood find dead room circumstance point foul play
-(((7;;;131))) far learn actual trace violence find mr sholto s person valuable collection indian gem decease gentleman inherit father carry
+(((7;;;131))) far learn actual trace violence find mr sholto person valuable collection indian gem decease gentleman inherit father carry
 (((7;;;132))) discovery mr sherlock holmes dr watson call house mr thaddeus sholto brother decease
 (((7;;;133))) singular piece good fortune mr athelney jones know member detective police force happen norwood police station grind half hour alarm
 (((7;;;134))) train experience faculty direct detection criminal gratify result brother thaddeus sholto arrest housekeeper mrs
 (((7;;;135))) bernstone indian butler name lal rao porter gatekeeper name mcmurdo
-(((7;;;136))) certain thief thief acquaint house mr jones s know technical knowledge power minute observation enable prove conclusively miscreant enter door window way roof build trap door room communicate body find
+(((7;;;136))) certain thief thief acquaint house mr jones know technical knowledge power minute observation enable prove conclusively miscreant enter door window way roof build trap door room communicate body find
 (((7;;;137))) fact clearly prove conclusively mere haphazard burglary
 (((7;;;138))) prompt energetic action officer law show great advantage presence occasion single vigorous masterful mind
 (((7;;;139))) think supply argument wish detective decentralise bring close effective touch case duty investigate
-(((7;;;140))) isn t gorgeous say holmes grin coffee cup
+(((7;;;140))) gorgeous say holmes grin coffee cup
 (((7;;;141))) think think close shave arrest crime
-(((7;;;142))) wouldn t answer safety happen attack energy
+(((7;;;142))) answer safety happen attack energy
 (((7;;;143))) moment loud ring bell hear mrs
 (((7;;;144))) hudson landlady raise voice wail expostulation dismay
 (((7;;;145))) heaven holmes say half rise believe
-(((7;;;146))) s bad
+(((7;;;146))) bad
 (((7;;;147))) unofficial force baker street irregular
 (((7;;;148))) speak come swift patter naked foot stair clatter high voice rush dozen dirty rag little street arab
 (((7;;;149))) discipline despite tumultuous entry instantly draw line stand face expectant face
@@ -1424,12 +1424,12 @@
 (((7;;;156))) hear instruction
 (((7;;;157))) want find whereabouts steam launch call _aurora_ owner mordecai smith black red streak funnel black white band
 (((7;;;158))) river
-(((7;;;159))) want boy mordecai smith s land stage opposite millbank boat come
+(((7;;;159))) want boy mordecai smith land stage opposite millbank boat come
 (((7;;;160))) divide bank thoroughly
 (((7;;;161))) let know moment news
 (((7;;;162))) clear yes guv say wiggins
 (((7;;;163))) old scale pay guinea boy find boat
-(((7;;;164))) s day advance
+(((7;;;164))) day advance
 (((7;;;165))) hand shilling away buzz stair see moment late stream street
 (((7;;;166))) launch water find say holmes rise table light pipe
 (((7;;;167))) overhear
@@ -1461,7 +1461,7 @@
 (((7;;;193))) volume gazetteer publish
 (((7;;;194))) look late authority
 (((7;;;195))) andaman island situate 340 mile north sumatra bay bengal
-(((7;;;196))) hum hum s moist climate coral reef shark port blair convict barrack rutland island cottonwoods ah
+(((7;;;196))) hum hum moist climate coral reef shark port blair convict barrack rutland island cottonwoods ah
 (((7;;;197))) aborigine andaman island claim distinction small race earth anthropologist prefer bushman africa digger indian america terra del fuegians
 (((7;;;198))) average height foot grow adult find small
 (((7;;;199))) fierce morose intractable people capable form devote friendship confidence gain
@@ -1494,7 +1494,7 @@
 (((8;;;9))) wiggins report
 (((8;;;10))) say trace find launch
 (((8;;;11))) provoke check hour importance
-(((8;;;12))) perfectly fresh ready night s outing
+(((8;;;12))) perfectly fresh ready night outing
 (((8;;;13))) wait
 (((8;;;14))) message come absence delay cause
 (((8;;;15))) remain guard
@@ -1509,13 +1509,13 @@
 (((8;;;24))) woman entirely trust good
 (((8;;;25))) pause argue atrocious sentiment
 (((8;;;26))) shall hour remark
-(((8;;;27))) right good luck cross river return toby don t think likely shall use
-(((8;;;28))) take mongrel accordingly leave half sovereign old naturalist s pinchin lane
-(((8;;;29))) camberwell find miss morstan little weary night s adventure eager hear news
+(((8;;;27))) right good luck cross river return toby think likely shall use
+(((8;;;28))) take mongrel accordingly leave half sovereign old naturalist pinchin lane
+(((8;;;29))) camberwell find miss morstan little weary night adventure eager hear news
 (((8;;;30))) mrs
 (((8;;;31))) forrester curiosity
 (((8;;;32))) tell suppress dreadful part tragedy
-(((8;;;33))) speak mr sholto s death say exact manner method
+(((8;;;33))) speak mr sholto death say exact manner method
 (((8;;;34))) omission startle amaze
 (((8;;;35))) romance cry mrs
 (((8;;;36))) forrester
@@ -1523,27 +1523,27 @@
 (((8;;;38))) place conventional dragon wicked earl
 (((8;;;39))) knight errants rescue add miss morstan bright glance
 (((8;;;40))) mary fortune depend issue search
-(((8;;;41))) don t think nearly excite
+(((8;;;41))) think nearly excite
 (((8;;;42))) imagine rich world foot send little thrill joy heart notice show sign elation prospect
 (((8;;;43))) contrary give toss proud head mat take small interest
 (((8;;;44))) mr thaddeus sholto anxious say
 (((8;;;45))) consequence think behave kindly honourably
 (((8;;;46))) duty clear dreadful unfounded charge
 (((8;;;47))) even leave camberwell dark time reach home
-(((8;;;48))) companion s book pipe lie chair disappear
+(((8;;;48))) companion book pipe lie chair disappear
 (((8;;;49))) look hope see note
 (((8;;;50))) suppose mr sherlock holmes go say mrs
 (((8;;;51))) hudson come low blind
 (((8;;;52))) sir
 (((8;;;53))) go room sir
 (((8;;;54))) know sir sink voice impressive whisper afraid health mrs
-(((8;;;55))) hudson s strange sir
+(((8;;;55))) hudson strange sir
 (((8;;;56))) go walk walk weary sound footstep
 (((8;;;57))) hear talk mutter time bell ring come stairhead mrs
 (((8;;;58))) hudson slam room hear walk away
-(((8;;;59))) hope s go ill sir
-(((8;;;60))) venture cool medicine turn sir look don t know get room
-(((8;;;61))) don t think cause uneasy mrs
+(((8;;;59))) hope go ill sir
+(((8;;;60))) venture cool medicine turn sir look know get room
+(((8;;;61))) think cause uneasy mrs
 (((8;;;62))) hudson answer
 (((8;;;63))) see like
 (((8;;;64))) small mat mind make restless
@@ -1599,19 +1599,19 @@
 (((8;;;114))) wonder fresh clue stereotype form police blunder
 (((8;;;115))) toss paper table moment eye catch advertisement agony column
 (((8;;;116))) run way lose
-(((8;;;117))) mordecai smith boatman son jim leave smith s wharf o clock tuesday morning steam launch _aurora_ black red stripe funnel black white band sum pound pay information mrs
-(((8;;;118))) smith smith s wharf 221_b_ baker street whereabouts say mordecai smith launch _aurora_
-(((8;;;119))) clearly holmes s
+(((8;;;117))) mordecai smith boatman son jim leave smith wharf o clock tuesday morning steam launch _aurora_ black red stripe funnel black white band sum pound pay information mrs
+(((8;;;118))) smith smith wharf 221_b_ baker street whereabouts say mordecai smith launch _aurora_
+(((8;;;119))) clearly holmes
 (((8;;;120))) baker street address prove
 (((8;;;121))) strike ingenious read fugitive see natural anxiety wife miss husband
 (((8;;;122))) long day
 (((8;;;123))) time knock come door sharp step pass street imagine holmes return answer advertisement
 (((8;;;124))) try read thought wander strange quest ill assorted villainous pair pursue
-(((8;;;125))) wonder radical flaw companion s reason
+(((8;;;125))) wonder radical flaw companion reason
 (((8;;;126))) suffer huge self deception possible nimble speculative mind build wild theory faulty premise know wrong keen reasoner occasionally deceive
 (((8;;;127))) likely think fall error refinement logic preference subtle bizarre explanation plain commonplace lie ready hand
 (((8;;;128))) hand see evidence hear reason deduction
-(((8;;;129))) look long chain curious circumstance trivial tend direction disguise holmes s explanation incorrect true theory equally _outré_ startle
+(((8;;;129))) look long chain curious circumstance trivial tend direction disguise holmes explanation incorrect true theory equally _outré_ startle
 (((8;;;130))) o clock afternoon loud peal bell authoritative voice hall surprise person mr athelney jones show
 (((8;;;131))) different brusque masterful professor common sense take case confidently upper norwood
 (((8;;;132))) expression downcast bear meek apologetic
@@ -1620,22 +1620,22 @@
 (((8;;;135))) yes sure
 (((8;;;136))) care wait
 (((8;;;137))) chair try cigar
-(((8;;;138))) thank don t mind say mop face red bandanna handkerchief
+(((8;;;138))) thank mind say mop face red bandanna handkerchief
 (((8;;;139))) whiskey soda half glass
 (((8;;;140))) hot time year good deal worry try
 (((8;;;141))) know theory norwood case remember express
 (((8;;;142))) oblige reconsider
 (((8;;;143))) net draw tightly round mr sholto sir pop go hole middle
 (((8;;;144))) able prove alibi shake
-(((8;;;145))) time leave brother s room sight
+(((8;;;145))) time leave brother room sight
 (((8;;;146))) climb roof trap door
-(((8;;;147))) s dark case professional credit stake
+(((8;;;147))) dark case professional credit stake
 (((8;;;148))) glad little assistance
 (((8;;;149))) need help say
 (((8;;;150))) friend mr sherlock holmes wonderful man sir say husky confidential voice
-(((8;;;151))) s man beat
+(((8;;;151))) man beat
 (((8;;;152))) know young man good case see case throw light
-(((8;;;153))) irregular method little quick jump theory think promise officer don t care know
+(((8;;;153))) irregular method little quick jump theory think promise officer care know
 (((8;;;154))) wire morning understand get clue sholto business
 (((8;;;155))) message
 (((8;;;156))) take telegram pocket hand
@@ -1665,7 +1665,7 @@
 (((8;;;180))) tell message
 (((8;;;181))) tell say
 (((8;;;182))) tell act
-(((8;;;183))) mordecai smith s boat yes
+(((8;;;183))) mordecai smith boat yes
 (((8;;;184))) know
 (((8;;;185))) know man
 (((8;;;186))) know treasure
@@ -1673,9 +1673,9 @@
 (((8;;;188))) tell shall let know
 (((8;;;189))) tell repeat petulant obstinacy old man
 (((8;;;190))) wait
-(((8;;;191))) ain t goin lose day
-(((8;;;192))) mr holmes ain t mr holmes find
-(((8;;;193))) don t care look win t tell word
+(((8;;;191))) goin lose day
+(((8;;;192))) mr holmes mr holmes find
+(((8;;;193))) care look tell word
 (((8;;;194))) shuffle door athelney jones get
 (((8;;;195))) wait bite friend say
 (((8;;;196))) important information walk
@@ -1687,7 +1687,7 @@
 (((8;;;202))) sit sofa long wait
 (((8;;;203))) come sullenly seat face rest hand
 (((8;;;204))) jones resume cigar talk
-(((8;;;205))) suddenly holmes s voice break
+(((8;;;205))) suddenly holmes voice break
 (((8;;;206))) think offer cigar say
 (((8;;;207))) start chair
 (((8;;;208))) holmes sit close air quiet amusement
@@ -1699,7 +1699,7 @@
 (((8;;;214))) actor rare
 (((8;;;215))) proper workhouse cough weak leg worth pound week
 (((8;;;216))) think know glint eye
-(((8;;;217))) didn t away easily
+(((8;;;217))) away easily
 (((8;;;218))) work day say light cigar
 (((8;;;219))) good criminal class begin know especially friend take publish case war path simple disguise like
 (((8;;;220))) get wire yes bring
@@ -1729,7 +1729,7 @@
 (((8;;;244))) know like work detail case
 (((8;;;245))) objection have unofficial interview room long efficiently guard master situation
 (((8;;;246))) proof existence jonathan small
-(((8;;;247))) catch don t refuse interview
+(((8;;;247))) catch refuse interview
 (((8;;;248))) understand perfectly
 (((8;;;249))) insist dine
 (((8;;;250))) ready half hour
@@ -1742,7 +1742,7 @@
 (((9;;;4))) speak quick succession subject miracle play mediæval pottery stradivarius violin buddhism ceylon war ship future handle special study
 (((9;;;5))) bright humour mark reaction black depression precede day
 (((9;;;6))) athelney jones prove sociable soul hour relaxation face dinner air _bon vivant_
-(((9;;;7))) feel elate think near end task catch holmes s gaiety
+(((9;;;7))) feel elate think near end task catch holmes gaiety
 (((9;;;8))) allude dinner cause bring
 (((9;;;9))) cloth clear holmes glance watch fill glass port
 (((9;;;10))) bumper say success little expedition
@@ -1760,7 +1760,7 @@
 (((9;;;22))) man rudder tend engine burly police inspector forward
 (((9;;;23))) ask jones
 (((9;;;24))) tower
-(((9;;;25))) tell stop opposite jacobson s yard
+(((9;;;25))) tell stop opposite jacobson yard
 (((9;;;26))) craft evidently fast
 (((9;;;27))) shoot past long line load barge stationary
 (((9;;;28))) holmes smile satisfaction overhaul river steamer leave
@@ -1778,7 +1778,7 @@
 (((9;;;40))) hardly scuttle hide trace remain possible hypothesis fail
 (((9;;;41))) know man small certain degree low cunning think capable nature delicate finesse
 (((9;;;42))) usually product high education
-(((9;;;43))) reflect certainly london time evidence maintain continual watch pondicherry lodge hardly leave moment s notice need little time day arrange affair
+(((9;;;43))) reflect certainly london time evidence maintain continual watch pondicherry lodge hardly leave moment notice need little time day arrange affair
 (((9;;;44))) balance probability rate
 (((9;;;45))) little weak say
 (((9;;;46))) probable arrange affair set expedition
@@ -1805,18 +1805,18 @@
 (((9;;;67))) simple
 (((9;;;68))) simple thing extremely liable overlook
 (((9;;;69))) determine act idea
-(((9;;;70))) start harmless seaman s rig inquire yard river
-(((9;;;71))) draw blank 16 jacobson s learn _aurora_ hand day ago wooden leg man trivial direction rudder
-(((9;;;72))) ain t naught amiss rudder say foreman
+(((9;;;70))) start harmless seaman rig inquire yard river
+(((9;;;71))) draw blank 16 jacobson learn _aurora_ hand day ago wooden leg man trivial direction rudder
+(((9;;;72))) naught amiss rudder say foreman
 (((9;;;73))) lie red streak
 (((9;;;74))) moment come mordecai smith miss owner bad liquor
 (((9;;;75))) course know bellow launch
-(((9;;;76))) want night o clock say o clock sharp mind gentleman win t keep wait
+(((9;;;76))) want night o clock say o clock sharp mind gentleman keep wait
 (((9;;;77))) evidently pay flush money chuck shilling man
 (((9;;;78))) follow distance subside ale house go yard happen pick boy way station sentry launch
-(((9;;;79))) stand water s edge wave handkerchief start
+(((9;;;79))) stand water edge wave handkerchief start
 (((9;;;80))) shall lie stream strange thing man treasure
-(((9;;;81))) plan neatly right man say jones affair hand body police jacobson s yard arrest come
+(((9;;;81))) plan neatly right man say jones affair hand body police jacobson yard arrest come
 (((9;;;82))) man small pretty shrewd fellow
 (((9;;;83))) send scout ahead suspicious lie snug week
 (((9;;;84))) stick mordecai smith lead hide place say
@@ -1826,9 +1826,9 @@
 (((9;;;88))) think possible course good
 (((9;;;89))) conversation proceed shoot long series bridge spin thames
 (((9;;;90))) pass city ray sun gild cross summit st
-(((9;;;91))) paul s
+(((9;;;91))) paul
 (((9;;;92))) twilight reach tower
-(((9;;;93))) jacobson s yard say holmes point bristle mast rig surrey
+(((9;;;93))) jacobson yard say holmes point bristle mast rig surrey
 (((9;;;94))) cruise gently cover string lighter
 (((9;;;95))) take pair night glass pocket gaze time shore
 (((9;;;96))) sentry post remark sign handkerchief
@@ -1893,7 +1893,7 @@
 (((9;;;155))) man stern crouch deck arm move busy look measure glance distance separate
 (((9;;;156))) near come near
 (((9;;;157))) jones yell stop
-(((9;;;158))) boat s length boat fly tremendous pace
+(((9;;;158))) boat length boat fly tremendous pace
 (((9;;;159))) clear reach river bark level melancholy plumstead marsh
 (((9;;;160))) hail man stern spring deck shake clinch fist curse high crack voice
 (((9;;;161))) good size powerful man stand poise leg astride thigh downwards wooden stump right
@@ -1904,7 +1904,7 @@
 (((9;;;166))) see feature deeply mark bestiality cruelty
 (((9;;;167))) small eye glow burn sombre light thick lip writhe tooth grin chatter half animal fury
 (((9;;;168))) fire raise hand say holmes quietly
-(((9;;;169))) boat s length time touch quarry
+(((9;;;169))) boat length time touch quarry
 (((9;;;170))) stand white man leg far apart shriek curse unhallowed dwarf hideous face strong yellow tooth gnash light lantern
 (((9;;;171))) clear view
 (((9;;;172))) look pluck cover short round piece wood like school ruler clap lip
@@ -1942,7 +1942,7 @@
 (((10;;;7))) look gleam like humour eye
 (((10;;;8))) jonathan small say holmes light cigar sorry come
 (((10;;;9))) sir answer frankly
-(((10;;;10))) don t believe swing job
+(((10;;;10))) believe swing job
 (((10;;;11))) word book raise hand mr sholto
 (((10;;;12))) little hell hound tonga shoot curse dart
 (((10;;;13))) sir
@@ -1956,7 +1956,7 @@
 (((10;;;21))) good defence simple truth
 (((10;;;22))) old major swing light heart
 (((10;;;23))) think knife smoke cigar
-(((10;;;24))) s curse hard lag young sholto quarrel
+(((10;;;24))) curse hard lag young sholto quarrel
 (((10;;;25))) charge mr athelney jones scotland yard
 (((10;;;26))) go bring room shall ask true account mat
 (((10;;;27))) clean breast hope use
@@ -1964,9 +1964,9 @@
 (((10;;;29))) sir
 (((10;;;30))) get turn life see grin head shoulder climb window
 (((10;;;31))) fairly shake sir
-(((10;;;32))) have half kill tonga scramble
+(((10;;;32))) half kill tonga scramble
 (((10;;;33))) come leave club dart tell dare help track keep tell
-(((10;;;34))) don t feel malice
+(((10;;;34))) feel malice
 (((10;;;35))) queer thing add bitter smile fair claim nigh half million money spend half life build breakwater andamans like spend half dig drain dartmoor
 (((10;;;36))) evil day clap eye merchant achmet agra treasure bring curse man own
 (((10;;;37))) bring murder major sholto bring fear guilt mean slavery life
@@ -1974,7 +1974,7 @@
 (((10;;;39))) family party remark
 (((10;;;40))) think shall pull flask holmes
 (((10;;;41))) think congratulate
-(((10;;;42))) pity didn t alive choice
+(((10;;;42))) pity alive choice
 (((10;;;43))) holmes confess cut fine
 (((10;;;44))) overhaul
 (((10;;;45))) end say holmes
@@ -1987,7 +1987,7 @@
 (((10;;;52))) wrong shall wrong come
 (((10;;;53))) pretty quick catch man quick condemn
 (((10;;;54))) amuse notice consequential jones begin air strength capture
-(((10;;;55))) slight smile play sherlock holmes s face speech lose
+(((10;;;55))) slight smile play sherlock holmes face speech lose
 (((10;;;56))) vauxhall bridge presently say jones shall land dr watson treasure box
 (((10;;;57))) need hardly tell take grave responsibility
 (((10;;;58))) irregular course agreement agreement
@@ -2002,8 +2002,8 @@
 (((10;;;67))) bring box baker street room
 (((10;;;68))) find way station
 (((10;;;69))) land vauxhall heavy iron box bluff genial inspector companion
-(((10;;;70))) quarter hour s drive bring mrs
-(((10;;;71))) cecil forrester s
+(((10;;;70))) quarter hour drive bring mrs
+(((10;;;71))) cecil forrester
 (((10;;;72))) servant surprise late visitor
 (((10;;;73))) mrs
 (((10;;;74))) cecil forrester even explain likely late
@@ -2021,7 +2021,7 @@
 (((10;;;86))) glance iron box
 (((10;;;87))) treasure ask coolly
 (((10;;;88))) yes great agra treasure
-(((10;;;89))) half half thaddeus sholto s
+(((10;;;89))) half half thaddeus sholto
 (((10;;;90))) couple thousand
 (((10;;;91))) think annuity thousand pound
 (((10;;;92))) rich young lady england
@@ -2031,7 +2031,7 @@
 (((10;;;96))) world follow clue tax analytic genius
 (((10;;;97))) nearly lose moment
 (((10;;;98))) pray sit tell dr watson say
-(((10;;;99))) narrate briefly occur see holmes s new method search discovery _aurora_ appearance athelney jones expedition even wild chase thames
+(((10;;;99))) narrate briefly occur see holmes new method search discovery _aurora_ appearance athelney jones expedition even wild chase thames
 (((10;;;100))) listen part lip shine eye recital adventure
 (((10;;;101))) speak dart narrowly miss turn white fear faint
 (((10;;;102))) say hasten pour water
@@ -2051,7 +2051,7 @@
 (((10;;;116))) box value
 (((10;;;117))) key small throw thames answer
 (((10;;;118))) borrow mrs
-(((10;;;119))) forrester s poker
+(((10;;;119))) forrester poker
 (((10;;;120))) thick broad hasp work image sit buddha
 (((10;;;121))) thrust end poker twist outward lever
 (((10;;;122))) hasp spring open loud snap
@@ -2080,25 +2080,25 @@
 (((11;;;1))) face cloud show box
 (((11;;;2))) go reward say gloomily
 (((11;;;3))) money pay
-(((11;;;4))) night s work worth tenner sam brown treasure
+(((11;;;4))) night work worth tenner sam brown treasure
 (((11;;;5))) mr thaddeus sholto rich man say
 (((11;;;6))) reward treasure
 (((11;;;7))) inspector shake head despondently
-(((11;;;8))) s bad job repeat mr athelney jones think
+(((11;;;8))) bad job repeat mr athelney jones think
 (((11;;;9))) forecast prove correct detective look blank get baker street show box
 (((11;;;10))) arrive holmes prisoner change plan far report station way
 (((11;;;11))) companion lounge arm chair usual listless expression small sit stolidly opposite wooden leg cock sound
 (((11;;;12))) exhibit box lean chair laugh aloud
 (((11;;;13))) small say athelney jones angrily
 (((11;;;14))) yes away shall lie hand cry exultantly
-(((11;;;15))) treasure t loot will darn good care
+(((11;;;15))) treasure loot darn good care
 (((11;;;16))) tell live man right man andaman convict barrack
 (((11;;;17))) know use know
 (((11;;;18))) act
-(((11;;;19))) s sign
+(((11;;;19))) sign
 (((11;;;20))) know throw treasure thames let kith kin sholto morstan
 (((11;;;21))) rich achmet
-(((11;;;22))) will find treasure key little tonga
+(((11;;;22))) find treasure key little tonga
 (((11;;;23))) see launch catch loot away safe place
 (((11;;;24))) rupee journey
 (((11;;;25))) deceive small say athelney jones sternly
@@ -2108,13 +2108,13 @@
 (((11;;;29))) scatter mile hard job
 (((11;;;30))) go heart
 (((11;;;31))) half mad come
-(((11;;;32))) s good grieve
-(((11;;;33))) have up life have down have learn cry spill milk
+(((11;;;32))) good grieve
+(((11;;;33))) up life down learn cry spill milk
 (((11;;;34))) mat small say detective
 (((11;;;35))) help justice instead thwart way good chance trial
 (((11;;;36))) justice snarl ex convict
 (((11;;;37))) pretty justice loot justice earn look earn long year fever ride swamp day work mangrove tree night chain filthy convict hut bite mosquito rack ague bully curse black face policeman love white man
-(((11;;;38))) earn agra treasure talk justice bear feel pay price enjoy swing score time tonga s dart hide live convict s cell feel man ease palace money
+(((11;;;38))) earn agra treasure talk justice bear feel pay price enjoy swing score time tonga dart hide live convict cell feel man ease palace money
 (((11;;;39))) small drop mask stoicism come wild whirl word eye blaze handcuff clank impassioned movement hand
 (((11;;;40))) understand see fury passion man groundless unnatural terror possess major sholto learn injure convict track
 (((11;;;41))) forget know say holmes quietly
@@ -2123,14 +2123,14 @@
 (((11;;;44))) bear grudge
 (((11;;;45))) fair board
 (((11;;;46))) want hear story wish hold
-(((11;;;47))) god s truth word
-(((11;;;48))) thank glass will lip spin-dry
+(((11;;;47))) god truth word
+(((11;;;48))) thank glass lip spin-dry
 (((11;;;49))) worcestershire man bear near pershore
 (((11;;;50))) dare find heap small live look
 (((11;;;51))) think take look round truth credit family doubt glad
 (((11;;;52))) steady chapel go folk small farmer know respect country bite rover
-(((11;;;53))) eighteen give trouble get mess girl take queen s shilling join 3rd buff start india
-(((11;;;54))) wasn t destine soldier
+(((11;;;53))) eighteen give trouble get mess girl take queen shilling join 3rd buff start india
+(((11;;;54))) destine soldier
 (((11;;;55))) get past goose step learn handle musket fool swim ganges
 (((11;;;56))) luckily company sergeant john holder water time fine swimmer service
 (((11;;;57))) crocodile take half way nip right leg clean surgeon knee
@@ -2139,12 +2139,12 @@
 (((11;;;60))) imagine pretty luck time useless cripple 20 year
 (((11;;;61))) misfortune soon prove bless disguise
 (((11;;;62))) man name abel white come indigo planter want overseer look coolie work
-(((11;;;63))) happen friend colonel s take interest accident
+(((11;;;63))) happen friend colonel take interest accident
 (((11;;;64))) long story short colonel recommend strongly post work horseback leg great obstacle knee leave good grip saddle
 (((11;;;65))) ride plantation eye man work report idler
 (((11;;;66))) pay fair comfortable quarter altogether content spend remainder life indigo plant
 (((11;;;67))) mr abel white kind man drop little shanty smoke pipe white folk feel heart warm home
-(((11;;;68))) luck s way long
+(((11;;;68))) luck way long
 (((11;;;69))) suddenly note warn great mutiny break
 (((11;;;70))) month india lie peaceful appearance surrey kent thousand black devil let loose country perfect hell
 (((11;;;71))) course know gentleman deal like read line
@@ -2157,9 +2157,9 @@
 (((11;;;78))) course stick dawson wife book work manage
 (((11;;;79))) fine day crash come
 (((11;;;80))) away distant plantation ride slowly home even eye fall huddle steep nullah
-(((11;;;81))) ride cold strike heart find dawson s wife cut ribbon half eat jackal native dog
+(((11;;;81))) ride cold strike heart find dawson wife cut ribbon half eat jackal native dog
 (((11;;;82))) little road dawson lie face dead revolver hand sepoys lie
-(((11;;;83))) rein horse wonder way turn moment see thick smoke curl abel white s bungalow flame begin burst roof
+(((11;;;83))) rein horse wonder way turn moment see thick smoke curl abel white bungalow flame begin burst roof
 (((11;;;84))) know employer good throw life away meddle mat
 (((11;;;85))) stand hundred black fiend red coat back dance howl round burn house
 (((11;;;86))) point couple bullet sing past head break away paddy field find late night safe wall agra
@@ -2177,7 +2177,7 @@
 (((11;;;98))) city agra great place swarm fanatic fierce devil worshipper sort
 (((11;;;99))) handful man lose narrow wind street
 (((11;;;100))) leader move river take position old fort agra
-(((11;;;101))) don t know gentleman read hear old fort
+(((11;;;101))) know gentleman read hear old fort
 (((11;;;102))) queer place queer rum corner
 (((11;;;103))) enormous size
 (((11;;;104))) think enclosure acre acre
@@ -2210,11 +2210,11 @@
 (((11;;;131))) think fellow league rebel begin assault
 (((11;;;132))) door hand sepoys place fall woman child treat cawnpore
 (((11;;;133))) maybe gentleman think make case word think feel point knife throat open mouth intention give scream alarm main guard
-(((11;;;134))) man hold know thought brace whisper don t noise
+(((11;;;134))) man hold know thought brace whisper noise
 (((11;;;135))) fort safe
 (((11;;;136))) rebel dog river
 (((11;;;137))) ring truth say know raise voice dead man
-(((11;;;138))) read fellow s brown eye
+(((11;;;138))) read fellow brown eye
 (((11;;;139))) wait silence want
 (((11;;;140))) listen sahib say tall fierce pair call abdullah khan
 (((11;;;141))) silence forever
@@ -2245,8 +2245,8 @@
 (((11;;;166))) hearken
 (((11;;;167))) rajah northern province wealth land small
 (((11;;;168))) come father set low nature hoard gold spend
-(((11;;;169))) trouble break friend lion tiger sepoy company s raj
-(((11;;;170))) soon white man s day come land hear death overthrow
+(((11;;;169))) trouble break friend lion tiger sepoy company raj
+(((11;;;170))) soon white man day come land hear death overthrow
 (((11;;;171))) careful man plan come half treasure leave
 (((11;;;172))) gold silver keep vault palace precious stone choice pearl iron box send trusty servant guise merchant fort agra lie land peace
 (((11;;;173))) rebel win money company conquer jewel save
@@ -2263,7 +2263,7 @@
 (((11;;;184))) mind
 (((11;;;185))) abdullah khan think hesitate press mat closely
 (((11;;;186))) consider sahib say man take commandant hang shoot jewel take government man rupee good
-(((11;;;187))) take rest jewel company s coffer
+(((11;;;187))) take rest jewel company coffer
 (((11;;;188))) rich man great chief
 (((11;;;189))) know mat cut man
 (((11;;;190))) good purpose sahib look enemy
@@ -2359,7 +2359,7 @@
 (((11;;;280))) carry box hall bury body certain brick good preserve wall hollow treasure
 (((11;;;281))) careful note place day draw plan sign swear act advantage
 (((11;;;282))) oath hand heart swear break
-(((11;;;283))) s use tell gentleman come indian mutiny
+(((11;;;283))) use tell gentleman come indian mutiny
 (((11;;;284))) wilson take delhi sir colin relieve lucknow business break
 (((11;;;285))) fresh troop come pour nana sahib scarce frontier
 (((11;;;286))) fly column colonel greathed come round agra clear pandies away
@@ -2395,8 +2395,8 @@
 (((11;;;316))) major sholto captain morstan lieutenant bromley brown command native troop surgeon prison official crafty old hand play nice sly safe game
 (((11;;;317))) snug little party
 (((11;;;318))) thing soon strike soldier lose civilian win
-(((11;;;319))) mind don t unfair
-(((11;;;320))) prison chap little play card andamans know s game point play pass time throw card
+(((11;;;319))) mind unfair
+(((11;;;320))) prison chap little play card andamans know game point play pass time throw card
 (((11;;;321))) night night soldier get poor man poor get keen play
 (((11;;;322))) major sholto hard hit
 (((11;;;323))) pay note gold soon come note hand big sum
@@ -2406,11 +2406,11 @@
 (((11;;;327))) sit hut captain morstan come stumble way quarter
 (((11;;;328))) bosom friend far apart
 (((11;;;329))) major rave loss
-(((11;;;330))) s morstan say pass hut
+(((11;;;330))) morstan say pass hut
 (((11;;;331))) shall send paper
 (((11;;;332))) ruin man
 (((11;;;333))) nonsense old chap say slap shoulder
-(((11;;;334))) have nasty facer hear set think
+(((11;;;334))) nasty facer hear set think
 (((11;;;335))) couple day late major sholto stroll beach take chance speak
 (((11;;;336))) wish advice major say
 (((11;;;337))) small ask take cheroot lip
@@ -2435,7 +2435,7 @@
 (((11;;;356))) want let captain morstan hear story lip small say
 (((11;;;357))) repeat tell
 (((11;;;358))) ring true eh say
-(((11;;;359))) s good act captain morstan nod
+(((11;;;359))) good act captain morstan nod
 (((11;;;360))) look small say major
 (((11;;;361))) talk friend come conclusion secret hardly government mat private concern course power dispose think good
 (((11;;;362))) question price ask incline look agree term
@@ -2460,7 +2460,7 @@
 (((11;;;381))) morstan say small man word
 (((11;;;382))) flinch friend
 (((11;;;383))) think trust
-(((11;;;384))) s dirty business answer
+(((11;;;384))) dirty business answer
 (((11;;;385))) money save commission handsomely
 (((11;;;386))) small say major suppose try meet
 (((11;;;387))) course test truth story
@@ -2475,11 +2475,11 @@
 (((11;;;396))) provide officer chart agra fort mark place wall treasure hide
 (((11;;;397))) major sholto india test story
 (((11;;;398))) find box leave send small yacht provision voyage lie rutland island way finally return duty
-(((11;;;399))) captain morstan apply leave absence meet agra final division treasure take major s share
+(((11;;;399))) captain morstan apply leave absence meet agra final division treasure take major share
 (((11;;;400))) seal solemn oath mind think lip utter
 (((11;;;401))) sit night paper ink morning chart ready sign sign abdullah akbar mahomet
 (((11;;;402))) gentleman weary long story know friend mr jones impatient safely stow chokey
-(((11;;;403))) will short
+(((11;;;403))) short
 (((11;;;404))) villain sholto go india come
 (((11;;;405))) captain morstan show list passenger mail boat shortly
 (((11;;;406))) uncle die leave fortune leave army stoop treat man treat
@@ -2531,32 +2531,32 @@
 (((11;;;452))) time kill sleep
 (((11;;;453))) year ago find england
 (((11;;;454))) great difficulty find sholto live set work discover realise treasure
-(((11;;;455))) friend help name don t want hole soon find jewel
+(((11;;;455))) friend help name want hole soon find jewel
 (((11;;;456))) try way pretty sly prize fighter son khitmutgar guard
 (((11;;;457))) day get word die
 (((11;;;458))) hurry garden mad slip clutch like look window see lie bed son
-(((11;;;459))) have come take chance look jaw drop know go
+(((11;;;459))) come take chance look jaw drop know go
 (((11;;;460))) get room night search paper record hide jewel
 (((11;;;461))) line come away bitter savage man
 (((11;;;462))) leave bethink meet sikh friend satisfaction know leave mark hatred scrawl sign chart pin bosom
 (((11;;;463))) take grave token man rob befooled
 (((11;;;464))) earn live time exhibit poor tonga fair place black cannibal
-(((11;;;465))) eat raw meat dance war dance hatful penny day s work
+(((11;;;465))) eat raw meat dance war dance hatful penny day work
 (((11;;;466))) hear news pondicherry lodge year news hear hunt treasure
 (((11;;;467))) come wait long
 (((11;;;468))) treasure find
-(((11;;;469))) house mr bartholomew sholto s chemical laboratory
+(((11;;;469))) house mr bartholomew sholto chemical laboratory
 (((11;;;470))) come look place wooden leg way
-(((11;;;471))) learn trap door roof mr sholto s supper hour
+(((11;;;471))) learn trap door roof mr sholto supper hour
 (((11;;;472))) manage thing easily tonga
 (((11;;;473))) bring long rope wind round waist
 (((11;;;474))) climb like cat soon way roof ill luck bartholomew sholto room cost
 (((11;;;475))) tonga think clever kill come rope find strut proud peacock
-(((11;;;476))) surprise rope s end curse little blood thirsty imp
+(((11;;;476))) surprise rope end curse little blood thirsty imp
 (((11;;;477))) take treasure box let slide have leave sign table jewel come right
 (((11;;;478))) tonga pull rope close window way come
-(((11;;;479))) don t know tell
-(((11;;;480))) hear waterman speak speed smith s launch _aurora_ think handy craft escape
+(((11;;;479))) know tell
+(((11;;;480))) hear waterman speak speed smith launch _aurora_ think handy craft escape
 (((11;;;481))) engage old smith big sum get safe ship
 (((11;;;482))) know doubt screw loose secret
 (((11;;;483))) truth tell gentleman amuse good turn believe good defence hold let world know badly serve major sholto innocent death son
@@ -2578,7 +2578,7 @@
 (((11;;;499))) good night
 (((11;;;500))) good night gentleman say jonathan small
 (((11;;;501))) small remark wary jones leave room
-(((11;;;502))) will particular care don t club wooden leg gentleman andaman isle
+(((11;;;502))) particular care club wooden leg gentleman andaman isle
 (((11;;;503))) end little drama remark set time smoke silence
 (((11;;;504))) fear investigation shall chance study method
 (((11;;;505))) miss morstan honour accept husband prospective

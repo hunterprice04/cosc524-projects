@@ -9,7 +9,7 @@
 (((0;;;8))) watson holmes sit give sign occupation
 (((0;;;9))) know believe eye head
 (((0;;;10))) polish silver plate coffee pot say
-(((0;;;11))) tell watson visitor s stick unfortunate miss notion errand accidental souvenir importance
+(((0;;;11))) tell watson visitor stick unfortunate miss notion errand accidental souvenir importance
 (((0;;;12))) let hear reconstruct man examination
 (((0;;;13))) think say follow far method companion dr mortimer successful elderly medical man esteem know mark appreciation
 (((0;;;14))) good say holmes
@@ -58,7 +58,7 @@
 (((0;;;57))) leave year ago date stick
 (((0;;;58))) grave middle age family practitioner vanish thin air dear watson emerge young fellow thirty amiable unambitious absent mind possessor favourite dog describe roughly large terrier small mastiff
 (((0;;;59))) laugh incredulously sherlock holmes lean settee blow little waver ring smoke ceil
-(((0;;;60))) mean check say difficult find particular man s age professional career
+(((0;;;60))) mean check say difficult find particular man age professional career
 (((0;;;61))) small medical shelf take medical directory turn
 (((0;;;62))) mortimers visitor
 (((0;;;63))) read record aloud
@@ -75,27 +75,27 @@
 (((0;;;74))) experience amiable man world receive testimonial unambitious abandon london career country absent mind leaf stick visit card wait hour room
 (((0;;;75))) dog habit carry stick master
 (((0;;;76))) heavy stick dog hold tightly middle mark tooth plainly visible
-(((0;;;77))) dog s jaw show space mark broad opinion terrier broad mastiff
+(((0;;;77))) dog jaw show space mark broad opinion terrier broad mastiff
 (((0;;;78))) yes jove _is_ curly haired spaniel
 (((0;;;79))) rise pace room speak
 (((0;;;80))) halt recess window
 (((0;;;81))) ring conviction voice glance surprise
 (((0;;;82))) dear fellow possibly sure simple reason dog door step ring owner
-(((0;;;83))) don t beg watson
+(((0;;;83))) beg watson
 (((0;;;84))) professional brother presence assistance
 (((0;;;85))) dramatic moment fate watson hear step stair walk life know good ill
 (((0;;;86))) dr james mortimer man science ask sherlock holmes specialist crime come appearance visitor surprise expect typical country practitioner
 (((0;;;87))) tall thin man long nose like beak jut keen grey eye set closely sparkle brightly pair gold rim glass
 (((0;;;88))) clothe professional slovenly fashion frock coat dingy trouser fray
 (((0;;;89))) young long bow walk forward thrust head general air peer benevolence
-(((0;;;90))) enter eye fall stick holmes s hand run exclamation joy
+(((0;;;90))) enter eye fall stick holmes hand run exclamation joy
 (((0;;;91))) glad say
 (((0;;;92))) sure leave ship office
 (((0;;;93))) lose stick world
 (((0;;;94))) presentation say holmes
 (((0;;;95))) yes sir
 (((0;;;96))) charing cross hospital friend occasion marriage
-(((0;;;97))) dear dear s bad say holmes shake head
+(((0;;;97))) dear dear bad say holmes shake head
 (((0;;;98))) dr mortimer blink glass mild astonishment
 (((0;;;99))) bad disarrange little deduction
 (((0;;;100))) marriage yes sir
@@ -163,11 +163,11 @@
 (((1;;;33))) come pass michaelmas hugo idle wicked companion steal farm carry maiden father brother home know
 (((1;;;34))) bring hall maiden place upper chamber hugo friend sit long carouse nightly custom
 (((1;;;35))) poor lass upstairs like wit turn sing shout terrible oath come word hugo baskerville wine blast man say
-(((1;;;36))) stress fear daunt brave active man aid growth ivy cover cover south wall come eave homeward moor league betwixt hall father s farm
+(((1;;;36))) stress fear daunt brave active man aid growth ivy cover cover south wall come eave homeward moor league betwixt hall father farm
 (((1;;;37))) chance little time late hugo leave guest carry food drink bad thing perchance captive find cage bird escape
 (((1;;;38))) hath devil rush stair dine hall spring great table flagon trenchers fly cry aloud company night render body soul power evil overtake wench
 (((1;;;39))) reveller stand aghast fury man wicked drunken rest cry hound
-(((1;;;40))) whereat hugo run house cry groom saddle mare unkennel pack give hound kerchief maid s swing line cry moonlight moor
+(((1;;;40))) whereat hugo run house cry groom saddle mare unkennel pack give hound kerchief maid swing line cry moonlight moor
 (((1;;;41))) space reveller stand agape unable understand haste
 (((1;;;42))) anon bemuse wit awake nature deed like moorland
 (((1;;;43))) uproar call pistol horse flask wine
@@ -178,7 +178,7 @@
 (((1;;;48))) see say hugo baskerville pass black mare run mute hound hell god forbid heel
 (((1;;;49))) drunken squire curse shepherd ride onward
 (((1;;;50))) soon skin turn cold come gallop moor black mare dabble white froth go past trail bridle saddle
-(((1;;;51))) reveller ride close great fear follow moor right glad turn horse s head
+(((1;;;51))) reveller ride close great fear follow moor right glad turn horse head
 (((1;;;52))) ride slowly fashion come hound
 (((1;;;53))) know valour breed whimper cluster head deep dip goyal moor slink away start hackle stare eye gaze narrow valley
 (((1;;;54))) company come halt sober man guess start
@@ -215,7 +215,7 @@
 (((1;;;85))) reason suspect foul play imagine death natural cause
 (((1;;;86))) sir charles widower man say way eccentric habit mind
 (((1;;;87))) spite considerable wealth simple personal taste indoor servant baskerville hall consist marry couple name barrymore husband act butler wife housekeeper
-(((1;;;88))) evidence corroborate friend tend sir charles s health time impair point especially affection heart manifest change colour breathlessness acute attack nervous depression
+(((1;;;88))) evidence corroborate friend tend sir charles health time impair point especially affection heart manifest change colour breathlessness acute attack nervous depression
 (((1;;;89))) dr james mortimer friend medical attendant decease give evidence effect
 (((1;;;90))) fact case simple
 (((1;;;91))) sir charles baskerville habit night go bed walk famous yew alley baskerville hall
@@ -224,18 +224,18 @@
 (((1;;;94))) night go usual nocturnal walk course habit smoke cigar
 (((1;;;95))) return
 (((1;;;96))) o clock barrymore find hall door open alarm light lantern go search master
-(((1;;;97))) day wet sir charles s footmark easily trace alley
+(((1;;;97))) day wet sir charles footmark easily trace alley
 (((1;;;98))) halfway walk gate lead moor
 (((1;;;99))) indication sir charles stand little time
 (((1;;;100))) proceed alley far end body discover
-(((1;;;101))) fact explain statement barrymore master s footprint alter character time pass moor gate appear onward walk toe
+(((1;;;101))) fact explain statement barrymore master footprint alter character time pass moor gate appear onward walk toe
 (((1;;;102))) murphy gipsy horse dealer moor great distance time appear confession bad drink
 (((1;;;103))) declare hear cry unable state direction come
-(((1;;;104))) sign violence discover sir charles s person doctor s evidence point incredible facial distortion great dr mortimer refuse believe friend patient lie explain symptom unusual case dyspnœa death cardiac exhaustion
-(((1;;;105))) explanation bear post mortem examination show long stand organic disease coroner s jury return verdict accordance medical evidence
-(((1;;;106))) obviously utmost importance sir charles s heir settle hall continue good work sadly interrupt
+(((1;;;104))) sign violence discover sir charles person doctor evidence point incredible facial distortion great dr mortimer refuse believe friend patient lie explain symptom unusual case dyspnœa death cardiac exhaustion
+(((1;;;105))) explanation bear post mortem examination show long stand organic disease coroner jury return verdict accordance medical evidence
+(((1;;;106))) obviously utmost importance sir charles heir settle hall continue good work sadly interrupt
 (((1;;;107))) prosaic find coroner finally end romantic story whisper connection affair difficult find tenant baskerville hall
-(((1;;;108))) understand kin mr henry baskerville alive son sir charles baskerville s young brother
+(((1;;;108))) understand kin mr henry baskerville alive son sir charles baskerville young brother
 (((1;;;109))) young man hear america inquiry institute view inform good fortune
 (((1;;;110))) dr mortimer refolded paper replace pocket
 (((1;;;111))) public fact mr holmes connection death sir charles baskerville
@@ -245,7 +245,7 @@
 (((1;;;115))) let private one
 (((1;;;116))) lean finger tip assume impassive judicial expression
 (((1;;;117))) say dr mortimer begin sign strong emotion tell confide
-(((1;;;118))) motive withhold coroner s inquiry man science shrink place public position indorse popular superstition
+(((1;;;118))) motive withhold coroner inquiry man science shrink place public position indorse popular superstition
 (((1;;;119))) motive baskerville hall paper say certainly remain untenanted increase grim reputation
 (((1;;;120))) reason think justify tell know practical good result reason perfectly frank
 (((1;;;121))) moor sparsely inhabit live near throw
@@ -253,7 +253,7 @@
 (((1;;;123))) exception mr frankland lafter hall mr stapleton naturalist man education mile
 (((1;;;124))) sir charles retire man chance illness bring community interest science keep
 (((1;;;125))) bring scientific information south africa charm even spend discuss comparative anatomy bushman hottentot
-(((1;;;126))) month increasingly plain sir charles s nervous system strain break point
+(((1;;;126))) month increasingly plain sir charles nervous system strain break point
 (((1;;;127))) take legend read exceedingly heart walk ground induce moor night
 (((1;;;128))) incredible appear mr holmes honestly convince dreadful fate overhang family certainly record able ancestor encourage
 (((1;;;129))) idea ghastly presence constantly haunt occasion ask medical journey night see strange creature hear bay hound
@@ -271,7 +271,7 @@
 (((1;;;141))) think month distraction town send new man
 (((1;;;142))) mr stapleton mutual friend concern state health opinion
 (((1;;;143))) instant come terrible catastrophe
-(((1;;;144))) night sir charles s death barrymore butler discovery send perkins groom horseback sit late able reach baskerville hall hour event
+(((1;;;144))) night sir charles death barrymore butler discovery send perkins groom horseback sit late able reach baskerville hall hour event
 (((1;;;145))) check corroborate fact mention inquest
 (((1;;;146))) follow footstep yew alley see spot moor gate wait remark change shape print point note footstep save barrymore soft gravel finally carefully examine body touch arrival
 (((1;;;147))) sir charles lie face arm finger dig grind feature convulse strong emotion extent hardly swear identity
@@ -281,14 +281,14 @@
 (((1;;;151))) observe
 (((1;;;152))) little distance fresh clear
 (((1;;;153))) footprint footprint
-(((1;;;154))) man s woman s dr mortimer look strangely instant voice sink whisper answer
+(((1;;;154))) man woman dr mortimer look strangely instant voice sink whisper answer
 (((1;;;155))) mr holmes footprint gigantic hound
 (((2;;;0))) problem confess word shudder pass
-(((2;;;1))) thrill doctor s voice show deeply move tell
+(((2;;;1))) thrill doctor voice show deeply move tell
 (((2;;;2))) holmes lean forward excitement eye hard spin-dry glitter shoot keenly interest
 (((2;;;3))) see clearly
 (((2;;;4))) say use see mark yard body give think
-(((2;;;5))) don t suppose know legend
+(((2;;;5))) suppose know legend
 (((2;;;6))) sheep dog moor doubt sheep dog
 (((2;;;7))) large enormous
 (((2;;;8))) approach body
@@ -335,16 +335,16 @@
 (((2;;;49))) hitherto confine investigation world say
 (((2;;;50))) modest way combat evil father evil ambitious task
 (((2;;;51))) admit footmark material
-(((2;;;52))) original hound material tug man s throat diabolical
+(((2;;;52))) original hound material tug man throat diabolical
 (((2;;;53))) go supernaturalists
 (((2;;;54))) dr mortimer tell
-(((2;;;55))) hold view come consult tell breath useless investigate sir charles s death desire
+(((2;;;55))) hold view come consult tell breath useless investigate sir charles death desire
 (((2;;;56))) desire
 (((2;;;57))) assist advise sir henry baskerville arrive waterloo station dr mortimer look watch exactly hour quarter
 (((2;;;58))) heir yes
 (((2;;;59))) death sir charles inquire young gentleman find farm canada
 (((2;;;60))) account reach excellent fellow way
-(((2;;;61))) speak medical man trustee executor sir charles s
+(((2;;;61))) speak medical man trustee executor sir charles
 (((2;;;62))) claimant presume
 (((2;;;63))) kinsman able trace rodger baskerville young brother poor sir charles old
 (((2;;;64))) 2 brother die young father lad henry
@@ -376,7 +376,7 @@
 (((2;;;90))) scribble appointment shirt cuff hurry strange peer absent mind fashion
 (((2;;;91))) holmes stop head stair
 (((2;;;92))) question dr mortimer
-(((2;;;93))) sir charles baskerville s death people see apparition moor people
+(((2;;;93))) sir charles baskerville death people see apparition moor people
 (((2;;;94))) hear
 (((2;;;95))) thank
 (((2;;;96))) good morning
@@ -384,7 +384,7 @@
 (((2;;;98))) go watson help
 (((2;;;99))) dear fellow hour action turn aid
 (((2;;;100))) splendid unique point view
-(((2;;;101))) pass bradley s ask send pound strong shag tobacco thank
+(((2;;;101))) pass bradley ask send pound strong shag tobacco thank
 (((2;;;102))) convenient return even
 (((2;;;103))) glad compare impression interest problem submit morning
 (((2;;;104))) know seclusion solitude necessary friend hour intense mental concentration weigh particle evidence construct alternative theory balance mind point essential immaterial
@@ -395,7 +395,7 @@
 (((2;;;109))) haze vague vision holmes dress gown coil armchair black clay pipe lip
 (((2;;;110))) roll paper lie
 (((2;;;111))) catch cold watson say
-(((2;;;112))) s poisonous atmosphere
+(((2;;;112))) poisonous atmosphere
 (((2;;;113))) suppose _is_ pretty thick mention
 (((2;;;114))) thick intolerable
 (((2;;;115))) open window club day perceive
@@ -411,7 +411,7 @@
 (((2;;;125))) contrary devonshire
 (((2;;;126))) spirit exactly
 (((2;;;127))) body remain armchair regret observe consume absence large pot coffee incredible tobacco
-(((2;;;128))) leave send stamford s ordnance map portion moor spirit hover day
+(((2;;;128))) leave send stamford ordnance map portion moor spirit hover day
 (((2;;;129))) flat find way
 (((2;;;130))) large scale map presume large
 (((2;;;131))) unroll section hold knee
@@ -430,10 +430,10 @@
 (((2;;;144))) wild place
 (((2;;;145))) yes set worthy
 (((2;;;146))) devil desire hand affair man incline supernatural explanation
-(((2;;;147))) devil s agent flesh blood question wait outset
-(((2;;;148))) crime commit 2 crime commit course dr mortimer s surmise correct deal force outside ordinary law nature end investigation
+(((2;;;147))) devil agent flesh blood question wait outset
+(((2;;;148))) crime commit 2 crime commit course dr mortimer surmise correct deal force outside ordinary law nature end investigation
 (((2;;;149))) bind exhaust hypothesis fall
-(((2;;;150))) think will shut window don t mind
+(((2;;;150))) think shut window mind
 (((2;;;151))) singular thing find concentrate atmosphere help concentration think
 (((2;;;152))) push length get box think logical outcome conviction
 (((2;;;153))) turn case mind yes think good deal course day
@@ -448,7 +448,7 @@
 (((2;;;162))) indication man craze fear begin run
 (((2;;;163))) presume cause fear come moor
 (((2;;;164))) probable man lose wit run _from_ house instead
-(((2;;;165))) gipsy s evidence take true run cry help direction help likely
+(((2;;;165))) gipsy evidence take true run cry help direction help likely
 (((2;;;166))) wait night wait yew alley house think wait man elderly infirm
 (((2;;;167))) understand take even stroll grind damp night inclement
 (((2;;;168))) natural stand minute dr mortimer practical sense give credit deduce cigar ash go even
@@ -465,7 +465,7 @@
 (((3;;;3))) wear ruddy tint tweed suit weather beat appearance spend time open air steady eye quiet assurance bear indicate gentleman
 (((3;;;4))) sir henry baskerville say dr mortimer
 (((3;;;5))) yes say strange thing mr sherlock holmes friend propose come round morning come account
-(((3;;;6))) understand think little puzzle have morning want think able
+(((3;;;6))) understand think little puzzle morning want think able
 (((3;;;7))) pray seat sir henry
 (((3;;;8))) understand remarkable experience arrive london importance mr holmes
 (((3;;;9))) joke like
@@ -490,20 +490,20 @@
 (((3;;;28))) shall share knowledge leave room sir henry
 (((3;;;29))) promise say sherlock holmes
 (((3;;;30))) confine present permission interest document post yesterday even
-(((3;;;31))) yesterday s _times_ watson corner
+(((3;;;31))) yesterday _times_ watson corner
 (((3;;;32))) trouble inside page lead article glance swiftly run eye column
 (((3;;;33))) capital article free trade
 (((3;;;34))) permit extract
 (((3;;;35))) cajole imagine special trade industry encourage protective tariff stand reason legislation long run away wealth country diminish value import low general condition life island
 (((3;;;36))) think watson cry holmes high glee rub hand satisfaction
-(((3;;;37))) don t think admirable sentiment dr mortimer look holmes air professional interest sir henry baskerville turn pair puzzle dark eye
-(((3;;;38))) don t know tariff thing kind say have get bite trail far note concern
+(((3;;;37))) think admirable sentiment dr mortimer look holmes air professional interest sir henry baskerville turn pair puzzle dark eye
+(((3;;;38))) know tariff thing kind say get bite trail far note concern
 (((3;;;39))) contrary think particularly hot trail sir henry
 (((3;;;40))) watson know method fear grasp significance sentence
 (((3;;;41))) confess connection
 (((3;;;42))) dear watson close connection extract
 (((3;;;43))) life reason value away
-(((3;;;44))) don t word take thunder right isn t smart cry sir henry
+(((3;;;44))) word take thunder right smart cry sir henry
 (((3;;;45))) possible doubt remain settle fact away cut piece
 (((3;;;46))) mr holmes exceed imagine say dr mortimer gaze friend amazement
 (((3;;;47))) understand say word newspaper add come lead article remarkable thing know
@@ -514,7 +514,7 @@
 (((3;;;52))) difference eye leaded bourgeois type _times_ article slovenly print even half penny paper negro esquimau
 (((3;;;53))) detection type elementary branch knowledge special expert crime confess young confuse _leeds mercury_ _western morning news_
 (((3;;;54))) _times_ leader entirely distinctive word take
-(((3;;;55))) yesterday strong probability find word yesterday s issue
+(((3;;;55))) yesterday strong probability find word yesterday issue
 (((3;;;56))) far follow mr holmes say sir henry baskerville cut message scissor nail scissor say holmes
 (((3;;;57))) short bladed scissor cutter snip away
 (((3;;;58))) cut message pair short bladed scissor paste paste gum say holmes
@@ -540,7 +540,7 @@
 (((3;;;78))) private pen ink bottle seldom allow state combination rare
 (((3;;;79))) know hotel ink hotel pen rare
 (((3;;;80))) yes little hesitation say examine waste paper basket hotel charing cross find remain mutilate _times_ leader lie hand straight person send singular message
-(((3;;;81))) halloa halloa s carefully examine foolscap word paste hold inch eye
+(((3;;;81))) halloa halloa carefully examine foolscap word paste hold inch eye
 (((3;;;82))) say throw
 (((3;;;83))) blank half sheet paper water mark
 (((3;;;84))) think draw curious letter sir henry interest happen london mr holmes
@@ -550,7 +550,7 @@
 (((3;;;88))) report mat depend think worth report
 (((3;;;89))) think ordinary routine life worth report
 (((3;;;90))) sir henry smile
-(((3;;;91))) don t know british life spend nearly time state canada
+(((3;;;91))) know british life spend nearly time state canada
 (((3;;;92))) hope lose boot ordinary routine life
 (((3;;;93))) lose boot dear sir cry dr mortimer mislay
 (((3;;;94))) find return hotel
@@ -566,7 +566,7 @@
 (((3;;;104))) squire dress get little careless way west
 (((3;;;105))) thing buy brown boot give dollar steal foot
 (((3;;;106))) singularly useless thing steal say sherlock holmes
-(((3;;;107))) confess share dr mortimer s belief long miss boot find
+(((3;;;107))) confess share dr mortimer belief long miss boot find
 (((3;;;108))) gentleman say baronet decision speak little know
 (((3;;;109))) time keep promise give account drive
 (((3;;;110))) request reasonable holmes answer
@@ -574,12 +574,12 @@
 (((3;;;112))) encourage scientific friend draw paper pocket present case morning
 (((3;;;113))) sir henry baskerville listen deep attention occasional exclamation surprise
 (((3;;;114))) come inheritance vengeance say long narrative finish
-(((3;;;115))) course have hear hound nursery
-(((3;;;116))) s pet story family think take seriously
-(((3;;;117))) uncle s death boil head t clear
-(((3;;;118))) don t mind s case policeman clergyman
+(((3;;;115))) course hear hound nursery
+(((3;;;116))) pet story family think take seriously
+(((3;;;117))) uncle death boil head clear
+(((3;;;118))) mind case policeman clergyman
 (((3;;;119))) precisely
-(((3;;;120))) s affair letter hotel
+(((3;;;120))) affair letter hotel
 (((3;;;121))) suppose fit place
 (((3;;;122))) know go moor say dr mortimer
 (((3;;;123))) say holmes ill dispose warn danger
@@ -594,15 +594,15 @@
 (((3;;;132))) dark brow knit face flush dusky red speak
 (((3;;;133))) evident fiery temper baskervilles extinct representative
 (((3;;;134))) say hardly time think tell
-(((3;;;135))) s big thing man understand decide sit
+(((3;;;135))) big thing man understand decide sit
 (((3;;;136))) like quiet hour mind
-(((3;;;137))) look mr holmes s half past go right away hotel
+(((3;;;137))) look mr holmes half past go right away hotel
 (((3;;;138))) suppose friend dr watson come round lunch
-(((3;;;139))) will able tell clearly thing strike
+(((3;;;139))) able tell clearly thing strike
 (((3;;;140))) convenient watson perfectly
 (((3;;;141))) expect
-(((3;;;142))) shall cab call have prefer walk affair flurried
-(((3;;;143))) will join walk pleasure say companion
+(((3;;;142))) shall cab call prefer walk affair flurried
+(((3;;;143))) join walk pleasure say companion
 (((3;;;144))) meet o clock
 (((3;;;145))) au revoir good morning hear step visitor descend stair bang door
 (((3;;;146))) instant holmes change languid dreamer man action
@@ -616,7 +616,7 @@
 (((3;;;154))) keep yard follow oxford street regent street
 (((3;;;155))) friend stop stare shop window holmes
 (((3;;;156))) instant give little cry satisfaction follow direction eager eye see hansom cab man inside halt street proceed slowly onward
-(((3;;;157))) s man watson come will good look
+(((3;;;157))) man watson come good look
 (((3;;;158))) instant aware bushy black beard pair pierce eye turn window cab
 (((3;;;159))) instantly trapdoor fly scream driver cab fly madly regent street
 (((3;;;160))) holmes look eagerly round sight
@@ -648,7 +648,7 @@
 (((3;;;186))) object follow say holmes
 (((3;;;187))) shadow depart return
 (((3;;;188))) card hand play decision
-(((3;;;189))) swear man s face cab swear beard
+(((3;;;189))) swear man face cab swear beard
 (((3;;;190))) gather probability false
 (((3;;;191))) clever man delicate errand use beard save conceal feature
 (((3;;;192))) come watson turn district messenger office warmly greet manager
@@ -712,28 +712,28 @@
 (((4;;;25))) face flush anger hold old dusty boot hand
 (((4;;;26))) furious hardly articulate speak broad western dialect hear morning
 (((4;;;27))) play sucker hotel cry
-(((4;;;28))) will find have start monkey wrong man careful
-(((4;;;29))) thunder chap t find miss boot trouble
-(((4;;;30))) joke good mr holmes have get bite mark time
+(((4;;;28))) find start monkey wrong man careful
+(((4;;;29))) thunder chap find miss boot trouble
+(((4;;;30))) joke good mr holmes get bite mark time
 (((4;;;31))) look boot yes sir mean find
 (((4;;;32))) surely say new brown boot sir
-(((4;;;33))) s old black
-(((4;;;34))) don t mean s mean
+(((4;;;33))) old black
+(((4;;;34))) mean mean
 (((4;;;35))) pair world new brown old black patent leather wear
 (((4;;;36))) night take brown one today sneak black
-(((4;;;37))) get speak man don t stand stare agitate german waiter appear scene
+(((4;;;37))) get speak man stand stare agitate german waiter appear scene
 (((4;;;38))) sir inquiry hotel hear word
-(((4;;;39))) boot come sundown will manager tell right straight hotel
+(((4;;;39))) boot come sundown manager tell right straight hotel
 (((4;;;40))) shall find sir promise little patience find
-(((4;;;41))) mind s thing will lose den thief
-(((4;;;42))) mr holmes will excuse trouble trifle think s worth trouble
+(((4;;;41))) mind thing lose den thief
+(((4;;;42))) mr holmes excuse trouble trifle think worth trouble
 (((4;;;43))) look
-(((4;;;44))) explain don t attempt explain
+(((4;;;44))) explain attempt explain
 (((4;;;45))) mad queer thing happen
 (((4;;;46))) queer say holmes thoughtfully
-(((4;;;47))) don t profess understand
+(((4;;;47))) profess understand
 (((4;;;48))) case complex sir henry
-(((4;;;49))) take conjunction uncle s death sure case capital importance handle cut deep
+(((4;;;49))) take conjunction uncle death sure case capital importance handle cut deep
 (((4;;;50))) hold thread hand odd guide truth
 (((4;;;51))) waste time follow wrong soon late come right
 (((4;;;52))) pleasant luncheon little say business bring
@@ -746,7 +746,7 @@
 (((4;;;59))) know dr mortimer follow morning house dr mortimer start violently
 (((4;;;60))) follow unfortunately tell
 (((4;;;61))) neighbour acquaintance dartmoor man black beard let yes
-(((4;;;62))) barrymore sir charles s butler man black beard
+(((4;;;62))) barrymore sir charles butler man black beard
 (((4;;;63))) ha barrymore charge hall
 (((4;;;64))) good ascertain possibility london
 (((4;;;65))) telegraph form
@@ -756,13 +756,13 @@
 (((4;;;69))) good send 2 wire postmaster grimpen telegram mr barrymore deliver hand
 (((4;;;70))) absent return wire sir henry baskerville northumberland hotel
 (((4;;;71))) let know even barrymore post devonshire
-(((4;;;72))) s say baskerville
+(((4;;;72))) say baskerville
 (((4;;;73))) way dr mortimer barrymore son old caretaker dead
 (((4;;;74))) look hall generation
 (((4;;;75))) far know wife respectable couple county
-(((4;;;76))) time say baskerville s clear long family hall people mighty fine home
+(((4;;;76))) time say baskerville clear long family hall people mighty fine home
 (((4;;;77))) true
-(((4;;;78))) barrymore profit sir charles s ask holmes
+(((4;;;78))) barrymore profit sir charles ask holmes
 (((4;;;79))) wife pound
 (((4;;;80))) ha know receive yes sir charles fond talk provision
 (((4;;;81))) interest
@@ -776,20 +776,20 @@
 (((4;;;89))) total value estate close million
 (((4;;;90))) dear stake man play desperate game
 (((4;;;91))) question dr mortimer
-(((4;;;92))) suppose happen young friend forgive unpleasant hypothesis inherit estate rodger baskerville sir charles s young brother die unmarried estate descend desmonds distant cousin
+(((4;;;92))) suppose happen young friend forgive unpleasant hypothesis inherit estate rodger baskerville sir charles young brother die unmarried estate descend desmonds distant cousin
 (((4;;;93))) james desmond elderly clergyman westmoreland
 (((4;;;94))) thank
 (((4;;;95))) detail great interest
 (((4;;;96))) meet mr james desmond yes come visit sir charles
 (((4;;;97))) man venerable appearance saintly life
 (((4;;;98))) remember refuse accept settlement sir charles press
-(((4;;;99))) man simple taste heir sir charles s thousand
+(((4;;;99))) man simple taste heir sir charles thousand
 (((4;;;100))) heir estate entail
 (((4;;;101))) heir money will present owner course like
 (((4;;;102))) sir henry mr holmes
-(((4;;;103))) have time yesterday learn matter stand
+(((4;;;103))) time yesterday learn matter stand
 (((4;;;104))) case feel money title estate
-(((4;;;105))) poor uncle s idea
+(((4;;;105))) poor uncle idea
 (((4;;;106))) owner go restore glory baskervilles money property house land dollar
 (((4;;;107))) sir henry mind advisability go devonshire delay
 (((4;;;108))) provision
@@ -807,7 +807,7 @@
 (((4;;;120))) proposition take completely surprise time answer baskerville seize hand wring heartily
 (((4;;;121))) real kind dr watson say
 (((4;;;122))) know mat
-(((4;;;123))) come baskerville hall will forget
+(((4;;;123))) come baskerville hall forget
 (((4;;;124))) promise adventure fascination compliment word holmes eagerness baronet hail companion
 (((4;;;125))) come pleasure say
 (((4;;;126))) know employ time good
@@ -826,7 +826,7 @@
 (((4;;;139))) case waiter place lunch
 (((4;;;140))) german send profess know mat inquiry clear
 (((4;;;141))) item add constant apparently purposeless series small mystery succeed rapidly
-(((4;;;142))) set aside grim story sir charles s death line inexplicable incident limit day include receipt print letter black beard spy hansom loss new brown boot loss old black boot return new brown boot
+(((4;;;142))) set aside grim story sir charles death line inexplicable incident limit day include receipt print letter black beard spy hansom loss new brown boot loss old black boot return new brown boot
 (((4;;;143))) holmes sit silence cab drive baker street know draw brow keen face mind like busy endeavour frame scheme strange apparently disconnect episode fit
 (((4;;;144))) afternoon late even sit lose tobacco think
 (((4;;;145))) dinner telegram hand
@@ -844,18 +844,18 @@
 (((4;;;157))) ring bell prove satisfactory answer door open rough look fellow enter evidently man
 (((4;;;158))) get message head office gent address inquire
 (((4;;;159))) 2704 say
-(((4;;;160))) have drive cab seven year word complaint
+(((4;;;160))) drive cab seven year word complaint
 (((4;;;161))) come straight yard ask face
 (((4;;;162))) world good man say holmes
 (((4;;;163))) contrary half sovereign clear answer question
-(((4;;;164))) have good day mistake say cabman grin
+(((4;;;164))) good day mistake say cabman grin
 (((4;;;165))) want ask sir address case want
 (((4;;;166))) john clayton 3 turpey street borough
-(((4;;;167))) cab shipley s yard near waterloo station
+(((4;;;167))) cab shipley yard near waterloo station
 (((4;;;168))) sherlock holmes note
 (((4;;;169))) clayton tell fare come watch house o clock morning follow gentleman regent street
 (((4;;;170))) man look surprise little embarrass
-(((4;;;171))) s good tell thing know say
+(((4;;;171))) good tell thing know say
 (((4;;;172))) truth gentleman tell detective
 (((4;;;173))) good fellow business find pretty bad position try hide
 (((4;;;174))) fare tell detective yes
@@ -864,13 +864,13 @@
 (((4;;;177))) holmes cast swift glance triumph
 (((4;;;178))) oh mention imprudent
 (((4;;;179))) mention say cabman mr sherlock holmes
-(((4;;;180))) see friend completely take aback cabman s reply
+(((4;;;180))) see friend completely take aback cabman reply
 (((4;;;181))) instant sit silent amazement
 (((4;;;182))) burst hearty laugh
 (((4;;;183))) touch watson undeniable touch say
 (((4;;;184))) feel foil quick supple
 (((4;;;185))) get home prettily time
-(((4;;;186))) sherlock holmes yes sir gentleman s
+(((4;;;186))) sherlock holmes yes sir gentleman
 (((4;;;187))) excellent tell pick occur
 (((4;;;188))) hail half past trafalgar square
 (((4;;;189))) say detective offer guinea exactly want day ask question
@@ -878,7 +878,7 @@
 (((4;;;191))) drive northumberland hotel wait gentleman come take cab rank
 (((4;;;192))) follow cab pull near
 (((4;;;193))) door say holmes
-(((4;;;194))) couldn t sure dare fare know
+(((4;;;194))) sure dare fare know
 (((4;;;195))) pull halfway street wait hour half
 (((4;;;196))) gentleman pass walk follow baker street know say holmes
 (((4;;;197))) get quarter regent street
@@ -886,26 +886,26 @@
 (((4;;;199))) whip mare minute
 (((4;;;200))) pay guinea like good away go station
 (((4;;;201))) leave turn round say interest know drive mr sherlock holmes
-(((4;;;202))) s come know
+(((4;;;202))) come know
 (((4;;;203))) see go station
 (((4;;;204))) describe mr sherlock holmes cabman scratch head
-(((4;;;205))) wasn t altogether easy gentleman describe
-(((4;;;206))) have year age middle height inch short sir
+(((4;;;205))) altogether easy gentleman describe
+(((4;;;206))) year age middle height inch short sir
 (((4;;;207))) dress like toff black beard cut square end pale face
-(((4;;;208))) don t know
-(((4;;;209))) colour eye t
+(((4;;;208))) know
+(((4;;;209))) colour eye
 (((4;;;210))) remember sir
 (((4;;;211))) half sovereign
-(((4;;;212))) s wait bring information
+(((4;;;212))) wait bring information
 (((4;;;213))) good night good night sir thank john clayton depart chuckle holmes turn shrug shoulder rueful smile
 (((4;;;214))) snap go thread end begin say
 (((4;;;215))) cunning rascal know numb know sir henry baskerville consult spot regent street conjecture get numb cab lie hand driver send audacious message
 (((4;;;216))) tell watson time get foeman worthy steel
-(((4;;;217))) have checkmate london
+(((4;;;217))) checkmate london
 (((4;;;218))) wish good luck devonshire
-(((4;;;219))) be easy mind
+(((4;;;219))) easy mind
 (((4;;;220))) send
-(((4;;;221))) s ugly business watson ugly dangerous business like
+(((4;;;221))) ugly business watson ugly dangerous business like
 (((4;;;222))) yes dear fellow laugh word shall glad safe sound baker street
 (((5;;;0))) baskerville hall sir henry baskerville dr mortimer ready appoint day start arrange devonshire
 (((5;;;1))) mr sherlock holmes drive station give part injunction advice
@@ -931,7 +931,7 @@
 (((5;;;21))) certainly
 (((5;;;22))) revolver near night day relax precaution
 (((5;;;23))) friend secure class carriage wait platform
-(((5;;;24))) news kind say dr mortimer answer friend s question
+(((5;;;24))) news kind say dr mortimer answer friend question
 (((5;;;25))) swear thing shadow day
 (((5;;;26))) go keep sharp watch escape notice
 (((5;;;27))) keep presume yesterday afternoon
@@ -946,17 +946,17 @@
 (((5;;;36))) good bye add train begin glide platform
 (((5;;;37))) bear mind sir henry phrase queer old legend dr mortimer read avoid moor hour darkness power evil exalt
 (((5;;;38))) look platform leave far see tall austere figure holmes stand motionless gaze
-(((5;;;39))) journey swift pleasant spend make intimate acquaintance companion play dr mortimer s spaniel
+(((5;;;39))) journey swift pleasant spend make intimate acquaintance companion play dr mortimer spaniel
 (((5;;;40))) hour brown earth ruddy brick change granite red cow graze hedge field lush grass luxuriant vegetation speak rich damp climate
 (((5;;;41))) young baskerville stare eagerly window cry aloud delight recognize familiar feature devon scenery
-(((5;;;42))) have good world leave dr watson say see place compare
+(((5;;;42))) good world leave dr watson say see place compare
 (((5;;;43))) see devonshire man swear county remark
 (((5;;;44))) depend breed man county say dr mortimer
 (((5;;;45))) glance friend reveal round head celt carry inside celtic enthusiasm power attachment
-(((5;;;46))) poor sir charles s head rare type half gaelic half ivernian characteristic
-(((5;;;47))) young see baskerville hall boy teen time father s death see hall live little cottage south coast
+(((5;;;46))) poor sir charles head rare type half gaelic half ivernian characteristic
+(((5;;;47))) young see baskerville hall boy teen time father death see hall live little cottage south coast
 (((5;;;48))) go straight friend america
-(((5;;;49))) tell new dr watson be keen possible moor
+(((5;;;49))) tell new dr watson keen possible moor
 (((5;;;50))) wish easily grant sight moor say dr mortimer point carriage window
 (((5;;;51))) green square field low curve wood rise distance grey melancholy hill strange jag summit dim vague distance like fantastic landscape dream
 (((5;;;52))) baskerville sit long time eye fix read eager face mean sight strange spot man blood hold sway long leave mark deep
@@ -969,7 +969,7 @@
 (((5;;;59))) sweet simple country spot surprise observe gate stand soldierly man dark uniform lean short rifle glance keenly pass
 (((5;;;60))) coachman hard face gnarl little fellow salute sir henry baskerville minute fly swiftly broad white road
 (((5;;;61))) roll pasture land curve upward old gabled house peep amid thick green foliage peaceful sunlit countryside rise dark even sky long gloomy curve moor break jag sinister hill
-(((5;;;62))) wagonette swing round road curve upward deep lane wear century wheel high bank heavy drip moss fleshy hart s tongue fern
+(((5;;;62))) wagonette swing round road curve upward deep lane wear century wheel high bank heavy drip moss fleshy hart tongue fern
 (((5;;;63))) bronze bracken mottle bramble gleam light sink sun
 (((5;;;64))) steadily rise pass narrow granite bridge skirt noisy stream gush swiftly foam roar amid grey boulder
 (((5;;;65))) road stream wind valley dense scrub oak fir
@@ -982,12 +982,12 @@
 (((5;;;72))) watch road travel
 (((5;;;73))) perkins ask dr mortimer
 (((5;;;74))) driver half turn seat
-(((5;;;75))) s convict escape princetown sir
-(((5;;;76))) s day warder watch road station have sight
-(((5;;;77))) farmer don t like sir s fact
+(((5;;;75))) convict escape princetown sir
+(((5;;;76))) day warder watch road station sight
+(((5;;;77))) farmer like sir fact
 (((5;;;78))) understand pound information
 (((5;;;79))) yes sir chance pound poor thing compare chance have throat cut
-(((5;;;80))) isn t like ordinary convict
+(((5;;;80))) like ordinary convict
 (((5;;;81))) man stick
 (((5;;;82))) selden notting hill murderer
 (((5;;;83))) remember case holmes take interest account peculiar ferocity crime wanton brutality mark action assassin
@@ -1007,15 +1007,15 @@
 (((5;;;97))) baskerville hall say
 (((5;;;98))) master rise stare flush cheek shine eye
 (((5;;;99))) minute late reach lodge gate maze fantastic tracery work iron weather bite pillar blotched lichen surmount boar head baskervilles
-(((5;;;100))) lodge ruin black granite bare rib rafter face new build half construct fruit sir charles s south african gold
+(((5;;;100))) lodge ruin black granite bare rib rafter face new build half construct fruit sir charles south african gold
 (((5;;;101))) gateway pass avenue wheel hush amid leaf old tree shoot branch sombre tunnel head
 (((5;;;102))) baskerville shudder look long dark drive house glimmer like ghost far end
 (((5;;;103))) ask low voice
 (((5;;;104))) yew alley
 (((5;;;105))) young heir glance round gloomy face
-(((5;;;106))) s wonder uncle feel trouble come place say
-(((5;;;107))) s scare man
-(((5;;;108))) will row electric lamp inside month win t know thousand candle power swan edison right hall door
+(((5;;;106))) wonder uncle feel trouble come place say
+(((5;;;107))) scare man
+(((5;;;108))) row electric lamp inside month know thousand candle power swan edison right hall door
 (((5;;;109))) avenue open broad expanse turf house lie
 (((5;;;110))) fade light centre heavy block build porch project
 (((5;;;111))) drape ivy patch clip bare window coat arm break dark veil
@@ -1025,7 +1025,7 @@
 (((5;;;115))) welcome sir henry welcome baskerville hall tall man step shadow porch open door wagonette
 (((5;;;116))) figure woman silhouette yellow light hall
 (((5;;;117))) come help man hand bag
-(((5;;;118))) don t mind drive straight home sir henry say dr mortimer
+(((5;;;118))) mind drive straight home sir henry say dr mortimer
 (((5;;;119))) wife expect
 (((5;;;120))) surely stay dinner
 (((5;;;121))) shall probably find work await
@@ -1036,7 +1036,7 @@
 (((5;;;126))) great old fashion fireplace high iron dog log fire crackle snap
 (((5;;;127))) sir henry hold hand numb long drive
 (((5;;;128))) gaze round high thin window old stain glass oak panel stag head coat arm wall dim sombre subdue light central lamp
-(((5;;;129))) s imagine say sir henry
+(((5;;;129))) imagine say sir henry
 (((5;;;130))) picture old family home think hall year people live
 (((5;;;131))) strike solemn think
 (((5;;;132))) see dark face light boyish enthusiasm gaze
@@ -1051,27 +1051,27 @@
 (((5;;;141))) naturally wish company need change household
 (((5;;;142))) mean wife wish leave convenient sir
 (((5;;;143))) family generation sorry begin life break old family connection
-(((5;;;144))) discern sign emotion butler s white face
+(((5;;;144))) discern sign emotion butler white face
 (((5;;;145))) feel sir wife
 (((5;;;146))) tell truth sir attach sir charles death give shock surrounding painful
 (((5;;;147))) fear shall easy mind baskerville hall
 (((5;;;148))) intend doubt sir shall succeed establish business
-(((5;;;149))) sir charles s generosity give mean
+(((5;;;149))) sir charles generosity give mean
 (((5;;;150))) sir good room
 (((5;;;151))) square balustraded gallery run round old hall approach double stair
 (((5;;;152))) central point long corridor extend length build bedroom open
-(((5;;;153))) wing baskerville s door
+(((5;;;153))) wing baskerville door
 (((5;;;154))) room appear modern central house bright paper numerous candle remove sombre impression arrival leave mind
 (((5;;;155))) dine room open hall place shadow gloom
 (((5;;;156))) long chamber step separate dais family sit low portion reserve dependent
-(((5;;;157))) end minstrel s gallery overlook
+(((5;;;157))) end minstrel gallery overlook
 (((5;;;158))) black beam shoot head smoke darken ceil
-(((5;;;159))) row flare torch light colour rude hilarity old time banquet soften black clothe gentleman sit little circle light throw shade lamp s voice hush s spirit subdue
+(((5;;;159))) row flare torch light colour rude hilarity old time banquet soften black clothe gentleman sit little circle light throw shade lamp voice hush spirit subdue
 (((5;;;160))) dim line ancestor variety dress elizabethan knight buck regency stare daunt silent company
 (((5;;;161))) talk little glad meal able retire modern billiard room smoke cigarette
-(((5;;;162))) word isn t cheerful place say sir henry
+(((5;;;162))) word cheerful place say sir henry
 (((5;;;163))) suppose tone feel bite picture present
-(((5;;;164))) don t wonder uncle get little jumpy live house
+(((5;;;164))) wonder uncle get little jumpy live house
 (((5;;;165))) suit retire early tonight thing cheerful morning
 (((5;;;166))) draw aside curtain go bed look window
 (((5;;;167))) open grassy space lie hall door
@@ -1098,7 +1098,7 @@
 (((6;;;9))) hear distinctly sure sob woman
 (((6;;;10))) ask right away
 (((6;;;11))) ring bell ask barrymore account experience
-(((6;;;12))) pallid feature butler turn shade pale listen master s question
+(((6;;;12))) pallid feature butler turn shade pale listen master question
 (((6;;;13))) woman house sir henry answer
 (((6;;;14))) scullery maid sleep wing
 (((6;;;15))) wife answer sound come
@@ -1109,10 +1109,10 @@
 (((6;;;20))) weep night husband know
 (((6;;;21))) take obvious risk discovery declare
 (((6;;;22))) weep bitterly round pale face handsome black beard man gather atmosphere mystery gloom
-(((6;;;23))) discover body sir charles word circumstance lead old man s death
+(((6;;;23))) discover body sir charles word circumstance lead old man death
 (((6;;;24))) possible barrymore see cab regent street beard
 (((6;;;25))) cabman describe somewhat short man impression easily erroneous
-(((6;;;26))) settle point forever obviously thing grimpen postmaster find test telegram place barrymore s hand
+(((6;;;26))) settle point forever obviously thing grimpen postmaster find test telegram place barrymore hand
 (((6;;;27))) answer report sherlock holmes
 (((6;;;28))) sir henry numerous paper examine breakfast time propitious excursion
 (((6;;;29))) pleasant walk mile edge moor lead small grey hamlet large building prove inn house dr mortimer stand high rest
@@ -1122,11 +1122,11 @@
 (((6;;;33))) james deliver telegram mr barrymore hall week yes father deliver
 (((6;;;34))) hand ask
 (((6;;;35))) loft time hand give mrs
-(((6;;;36))) barrymore s hand promise deliver
+(((6;;;36))) barrymore hand promise deliver
 (((6;;;37))) mr barrymore sir tell loft
-(((6;;;38))) didn t know loft surely wife ought know say postmaster testily
-(((6;;;39))) didn t telegram mistake mr barrymore complain
-(((6;;;40))) hopeless pursue inquiry far clear spite holmes s ruse proof barrymore london time
+(((6;;;38))) know loft surely wife ought know say postmaster testily
+(((6;;;39))) telegram mistake mr barrymore complain
+(((6;;;40))) hopeless pursue inquiry far clear spite holmes ruse proof barrymore london time
 (((6;;;41))) suppose suppose man see sir charles alive dog new heir return england
 (((6;;;42))) agent sinister design interest persecute baskerville family think strange warn clip lead article _times_
 (((6;;;43))) work possibly bend counteract scheme conceivable motive suggest sir henry family scare away comfortable permanent home secure barrymores
@@ -1178,11 +1178,11 @@
 (((6;;;89))) distant rise float grey plume smoke
 (((6;;;90))) moderate walk moor path bring merripit house say
 (((6;;;91))) spare hour pleasure introduce sister
-(((6;;;92))) think sir henry s
+(((6;;;92))) think sir henry
 (((6;;;93))) remember pile paper bill study table litter
 (((6;;;94))) certain help
 (((6;;;95))) holmes expressly say study neighbour moor
-(((6;;;96))) accept stapleton s invitation turn path
+(((6;;;96))) accept stapleton invitation turn path
 (((6;;;97))) wonderful place moor say look round undulate down long green roller crest jag granite foam fantastic surge
 (((6;;;98))) tire moor
 (((6;;;99))) think wonderful secret contain
@@ -1206,18 +1206,18 @@
 (((6;;;117))) find way heart return alive
 (((6;;;118))) george miserable pony brown roll toss green sedge
 (((6;;;119))) long agonise writhe neck shoot upward dreadful cry echo moor
-(((6;;;120))) turn cold horror companion s nerve strong
-(((6;;;121))) s go say
+(((6;;;120))) turn cold horror companion nerve strong
+(((6;;;121))) go say
 (((6;;;122))) mire
 (((6;;;123))) day way go spin-dry weather know difference mire clutch
-(((6;;;124))) s bad place great grimpen mire
+(((6;;;124))) bad place great grimpen mire
 (((6;;;125))) penetrate yes path active man
 (((6;;;126))) find
 (((6;;;127))) wish horrible place hill island cut side impassable mire crawl round course year
 (((6;;;128))) rare plant butterfly wit reach
 (((6;;;129))) shall try luck day
 (((6;;;130))) look surprise face
-(((6;;;131))) god s sake idea mind say
+(((6;;;131))) god sake idea mind say
 (((6;;;132))) blood head
 (((6;;;133))) assure chance come alive
 (((6;;;134))) remember certain complex landmark able
@@ -1228,19 +1228,19 @@
 (((6;;;139))) stapleton look curious expression face
 (((6;;;140))) queer place moor say
 (((6;;;141))) peasant hound baskervilles call prey
-(((6;;;142))) have hear twice loud
+(((6;;;142))) hear twice loud
 (((6;;;143))) look round chill fear heart huge swell plain mottle green patch rush
 (((6;;;144))) stir vast expanse save pair raven croak loudly tor
 (((6;;;145))) educate man
-(((6;;;146))) don t believe nonsense say
+(((6;;;146))) believe nonsense say
 (((6;;;147))) think cause strange sound bog queer noise
-(((6;;;148))) s mud settle water rise
+(((6;;;148))) mud settle water rise
 (((6;;;149))) live voice
 (((6;;;150))) hear bittern boom
-(((6;;;151))) s rare bird practically extinct england thing possible moor
+(((6;;;151))) rare bird practically extinct england thing possible moor
 (((6;;;152))) yes surprise learn hear cry bittern
-(((6;;;153))) s weird strange thing hear life
-(((6;;;154))) yes s uncanny place altogether
+(((6;;;153))) weird strange thing hear life
+(((6;;;154))) yes uncanny place altogether
 (((6;;;155))) look hillside yonder
 (((6;;;156))) steep slope cover grey circular ring stone score
 (((6;;;157))) sheep pen home worthy ancestor
@@ -1273,12 +1273,12 @@
 (((6;;;184))) ask
 (((6;;;185))) explain
 (((6;;;186))) speak low eager voice curious lisp utterance
-(((6;;;187))) god s sake ask
+(((6;;;187))) god sake ask
 (((6;;;188))) set foot moor
 (((6;;;189))) come
 (((6;;;190))) man man cry
 (((6;;;191))) tell warn good london start tonight away place cost hush brother come word say
-(((6;;;192))) mind get orchid mare s tail yonder rich orchid moor course late beauty place
+(((6;;;192))) mind get orchid mare tail yonder rich orchid moor course late beauty place
 (((6;;;193))) stapleton abandon chase come breathe hard flush exertion
 (((6;;;194))) halloa beryl say tone greet altogether cordial
 (((6;;;195))) jack hot
@@ -1306,7 +1306,7 @@
 (((6;;;217))) manage fairly happy beryl happy say ring conviction word
 (((6;;;218))) school say stapleton
 (((6;;;219))) north country
-(((6;;;220))) work man temperament mechanical uninteresting privilege live youth help mould young mind impress s character ideal dear
+(((6;;;220))) work man temperament mechanical uninteresting privilege live youth help mould young mind impress character ideal dear
 (((6;;;221))) fate
 (((6;;;222))) epidemic break school boy die
 (((6;;;223))) recover blow capital irretrievably swallow
@@ -1334,10 +1334,10 @@
 (((6;;;245))) stop brother miss
 (((6;;;246))) want sorry stupid mistake think sir henry
 (((6;;;247))) forget word say application
-(((6;;;248))) t forget miss stapleton say
-(((6;;;249))) sir henry s friend welfare close concern
+(((6;;;248))) forget miss stapleton say
+(((6;;;249))) sir henry friend welfare close concern
 (((6;;;250))) tell eager sir henry return london
-(((6;;;251))) woman s whim dr watson
+(((6;;;251))) woman whim dr watson
 (((6;;;252))) know good understand reason
 (((6;;;253))) remember thrill voice
 (((6;;;254))) remember look eye
@@ -1355,7 +1355,7 @@
 (((6;;;266))) influence sir henry away place fatal family
 (((6;;;267))) world wide
 (((6;;;268))) wish live place danger _is_ place danger
-(((6;;;269))) sir henry s nature
+(((6;;;269))) sir henry nature
 (((6;;;270))) fear definite information impossible
 (((6;;;271))) definite know definite
 (((6;;;272))) ask question miss stapleton
@@ -1369,7 +1369,7 @@
 (((7;;;1))) page miss exactly write feeling suspicion moment accurately memory clear tragic event possibly
 (((7;;;2))) baskerville hall october 13th
 (((7;;;3))) dear holmes previous letter telegram keep pretty date occur god forsake corner world
-(((7;;;4))) long stay spirit moor sink s soul vastness grim charm
+(((7;;;4))) long stay spirit moor sink soul vastness grim charm
 (((7;;;5))) bosom leave trace modern england hand conscious home work prehistoric people
 (((7;;;6))) side walk house forget folk grave huge monolith suppose mark temple
 (((7;;;7))) look grey stone hut scar hillside leave age skin clothe hairy man crawl low door fit flint tip arrow string bow feel presence natural
@@ -1422,7 +1422,7 @@
 (((7;;;54))) popularity soon suffer carry order letter
 (((7;;;55))) day thursday exact dr mortimer lunch
 (((7;;;56))) excavate barrow long get prehistoric skull fill great joy
-(((7;;;57))) single mind enthusiast stapletons come good doctor take yew alley sir henry s request exactly occur fatal night
+(((7;;;57))) single mind enthusiast stapletons come good doctor take yew alley sir henry request exactly occur fatal night
 (((7;;;58))) long dismal walk yew alley high wall clip hedge narrow band grass
 (((7;;;59))) far end old tumble summer house
 (((7;;;60))) halfway moor gate old gentleman leave cigar ash
@@ -1438,7 +1438,7 @@
 (((7;;;70))) passion british law spend large fortune litigation
 (((7;;;71))) fight mere pleasure fight equally ready question wonder find costly amusement
 (((7;;;72))) shut right way defy parish open
-(((7;;;73))) hand tear man s gate declare path exist time immemorial defy owner prosecute trespass
+(((7;;;73))) hand tear man gate declare path exist time immemorial defy owner prosecute trespass
 (((7;;;74))) learn old manorial communal right apply knowledge favour villager fernworthy periodically carry triumph village street burn effigy accord late exploit
 (((7;;;75))) say seven lawsuit hand present probably swallow remainder fortune draw sting leave harmless future
 (((7;;;76))) apart law kindly good natured person mention particular send description people surround
@@ -1464,7 +1464,7 @@
 (((7;;;96))) tell night hear sob bitterly observe trace tear face
 (((7;;;97))) deep sorrow gnaw heart
 (((7;;;98))) wonder guilty memory haunt suspect barrymore domestic tyrant
-(((7;;;99))) feel singular questionable man s character adventure night bring suspicion head
+(((7;;;99))) feel singular questionable man character adventure night bring suspicion head
 (((7;;;100))) small mat
 (((7;;;101))) aware sound sleeper guard house slumber light
 (((7;;;102))) night morning arouse stealthy step pass room
@@ -1507,7 +1507,7 @@
 (((8;;;14))) man strike look fellow equip steal heart country girl theory support
 (((8;;;15))) open door hear return room mean go clandestine appointment
 (((8;;;16))) reason morning tell direction suspicion result show unfounded
-(((8;;;17))) true explanation barrymore s movement feel responsibility keep explain bear
+(((8;;;17))) true explanation barrymore movement feel responsibility keep explain bear
 (((8;;;18))) interview baronet study breakfast tell see
 (((8;;;19))) surprise expect
 (((8;;;20))) know barrymore walk night mind speak say
@@ -1520,7 +1520,7 @@
 (((8;;;27))) shall
 (((8;;;28))) surely hear
 (((8;;;29))) man deaf case chance
-(((8;;;30))) will sit room tonight wait pass
+(((8;;;30))) sit room tonight wait pass
 (((8;;;31))) sir henry rub hand pleasure evident hail adventure relief somewhat quiet life moor
 (((8;;;32))) baronet communication architect prepare plan sir charles contractor london expect great change begin soon
 (((8;;;33))) decorator furnishers plymouth evident friend large idea mean spare pain expense restore grandeur family
@@ -1569,30 +1569,30 @@
 (((8;;;76))) scene mean imagine stapleton abuse sir henry offer explanation angry refuse accept
 (((8;;;77))) lady stand haughty silence
 (((8;;;78))) finally stapleton turn heel beckon peremptory way sister irresolute glance sir henry walk brother
-(((8;;;79))) naturalist s angry gesture show lady include displeasure
+(((8;;;79))) naturalist angry gesture show lady include displeasure
 (((8;;;80))) baronet stand minute look walk slowly way come head hang picture dejection
-(((8;;;81))) mean imagine deeply ashamed witness intimate scene friend s knowledge
+(((8;;;81))) mean imagine deeply ashamed witness intimate scene friend knowledge
 (((8;;;82))) run hill meet baronet
-(((8;;;83))) face flush anger brow wrinkle like wit s end
+(((8;;;83))) face flush anger brow wrinkle like wit end
 (((8;;;84))) halloa watson drop say
-(((8;;;85))) don t mean come spite explain find impossible remain follow witness occur
+(((8;;;85))) mean come spite explain find impossible remain follow witness occur
 (((8;;;86))) instant eye blaze frankness disarm anger break rueful laugh
 (((8;;;87))) think middle prairie fairly safe place man private say thunder countryside woo mighty poor woo engage seat hill
 (((8;;;88))) row eh brother
 (((8;;;89))) come yes
-(((8;;;90))) strike crazy brother t
+(((8;;;90))) strike crazy brother
 (((8;;;91))) dare
 (((8;;;92))) think sane today ought straitjacket
-(((8;;;93))) s mat have live near week watson
+(((8;;;93))) mat live near week watson
 (((8;;;94))) tell straight prevent make good husband woman love
-(((8;;;95))) t object worldly position
+(((8;;;95))) object worldly position
 (((8;;;96))) hurt man woman life know
 (((8;;;97))) let touch tip finger
 (((8;;;98))) deal
-(((8;;;99))) tell watson have know week feel happy will swear
-(((8;;;100))) s light woman s eye speak loud word
+(((8;;;99))) tell watson know week feel happy swear
+(((8;;;100))) light woman eye speak loud word
 (((8;;;101))) let today time see chance have word
-(((8;;;102))) glad meet love talk wouldn t let talk stop
+(((8;;;102))) glad meet love talk let talk stop
 (((8;;;103))) keep come place danger happy leave
 (((8;;;104))) tell see hurry leave want way work arrange
 (((8;;;105))) offer word marry answer come brother run face like madman
@@ -1601,13 +1601,13 @@
 (((8;;;108))) tell feeling sister ashamed hope honour wife
 (((8;;;109))) mat good lose temper answer hotly consider stand
 (((8;;;110))) end go see badly puzzle man county
-(((8;;;111))) tell mean watson will owe hope pay
+(((8;;;111))) tell mean watson owe hope pay
 (((8;;;112))) try explanation completely puzzle
-(((8;;;113))) friend s title fortune age character appearance favour know dark fate run family
-(((8;;;114))) advance reject brusquely reference lady s wish lady accept situation protest amaze
+(((8;;;113))) friend title fortune age character appearance favour know dark fate run family
+(((8;;;114))) advance reject brusquely reference lady wish lady accept situation protest amaze
 (((8;;;115))) conjecture set rest visit stapleton afternoon
 (((8;;;116))) come offer apology rudeness morning long private interview sir henry study upshot conversation breach heal dine merripit house friday sign
-(((8;;;117))) don t isn t crazy man say sir henry t forget look eye run morning allow man handsome apology
+(((8;;;117))) crazy man say sir henry forget look eye run morning allow man handsome apology
 (((8;;;118))) explanation conduct sister life say
 (((8;;;119))) natural glad understand value
 (((8;;;120))) accord account lonely man companion think lose terrible
@@ -1615,16 +1615,16 @@
 (((8;;;122))) sorry pass recognize foolish selfish imagine hold beautiful woman like sister life
 (((8;;;123))) leave neighbour like
 (((8;;;124))) case blow time prepare meet
-(((8;;;125))) withdraw opposition promise month let mat rest content cultivate lady s friendship time claim love
+(((8;;;125))) withdraw opposition promise month let mat rest content cultivate lady friendship time claim love
 (((8;;;126))) promise mat rest
 (((8;;;127))) small mystery clear
 (((8;;;128))) touch bog flounder
-(((8;;;129))) know stapleton look disfavour sister s suitor suitor eligible sir henry
+(((8;;;129))) know stapleton look disfavour sister suitor suitor eligible sir henry
 (((8;;;130))) pass thread extricate tangle skein mystery sob night tear stain face mrs
 (((8;;;131))) barrymore secret journey butler western lattice window
 (((8;;;132))) congratulate dear holmes tell disappoint agent regret confidence show send
-(((8;;;133))) thing night s work thoroughly clear
-(((8;;;134))) say night s work truth night work draw entirely blank
+(((8;;;133))) thing night work thoroughly clear
+(((8;;;134))) say night work truth night work draw entirely blank
 (((8;;;135))) sit sir henry room nearly o clock morning sound sort hear chime clock stair
 (((8;;;136))) melancholy vigil end fall asleep chair
 (((8;;;137))) fortunately discourage determine try
@@ -1655,7 +1655,7 @@
 (((8;;;162))) come lie window fellow look helpless way wring hand like extremity doubt misery
 (((8;;;163))) harm sir
 (((8;;;164))) hold candle window
-(((8;;;165))) hold candle window don t ask sir henry don t ask word sir secret tell
+(((8;;;165))) hold candle window ask sir henry ask word sir secret tell
 (((8;;;166))) concern try
 (((8;;;167))) sudden idea occur take candle tremble hand butler
 (((8;;;168))) hold signal say
@@ -1665,7 +1665,7 @@
 (((8;;;172))) give cry exultation tiny pinpoint yellow light suddenly transfix dark veil glow steadily centre black square frame window
 (((8;;;173))) cry
 (((8;;;174))) sir butler break assure sir light window watson cry baronet
-(((8;;;175))) move rascal deny signal come speak confederate yonder conspiracy go man s face openly defiant
+(((8;;;175))) move rascal deny signal come speak confederate yonder conspiracy go man face openly defiant
 (((8;;;176))) business
 (((8;;;177))) tell
 (((8;;;178))) leave employment right away
@@ -1673,7 +1673,7 @@
 (((8;;;180))) disgrace
 (((8;;;181))) thunder ashamed
 (((8;;;182))) family live year roof find deep dark plot
-(((8;;;183))) sir woman s voice mrs
+(((8;;;183))) sir woman voice mrs
 (((8;;;184))) barrymore pale horror strike husband stand door
 (((8;;;185))) bulky figure shawl skirt comic intensity feel face
 (((8;;;186))) eliza
@@ -1685,14 +1685,14 @@
 (((8;;;192))) let perish gate
 (((8;;;193))) light signal food ready light yonder spot bring
 (((8;;;194))) brother escape convict sir selden criminal
-(((8;;;195))) s truth sir say barrymore
+(((8;;;195))) truth sir say barrymore
 (((8;;;196))) say secret tell
 (((8;;;197))) hear plot
 (((8;;;198))) explanation stealthy expedition night light window
 (((8;;;199))) sir henry stare woman amazement
 (((8;;;200))) possible stolidly respectable person blood notorious criminal country yes sir selden young brother
 (((8;;;201))) humour lad give way come think world pleasure like
-(((8;;;202))) grow old meet wicked companion devil enter break mother s heart drag dirt
+(((8;;;202))) grow old meet wicked companion devil enter break mother heart drag dirt
 (((8;;;203))) crime crime sink low low mercy god snatch scaffold sir little curly head boy nurse play old sister
 (((8;;;204))) break prison sir
 (((8;;;205))) know refuse help
@@ -1701,7 +1701,7 @@
 (((8;;;208))) 2 night sure put light window answer husband take bread meat
 (((8;;;209))) day hope go long desert
 (((8;;;210))) truth honest christian woman blame mat lie husband sake
-(((8;;;211))) woman s word come intense earnestness carry conviction
+(((8;;;211))) woman word come intense earnestness carry conviction
 (((8;;;212))) true barrymore yes sir henry
 (((8;;;213))) word
 (((8;;;214))) blame stand wife
@@ -1741,8 +1741,8 @@
 (((8;;;248))) come wind silence night long deep mutter rise howl sad moan die away
 (((8;;;249))) sound air throb strident wild menace
 (((8;;;250))) baronet catch sleeve face glimmer white darkness
-(((8;;;251))) god s watson don t know
-(((8;;;252))) s sound moor
+(((8;;;251))) god watson know
+(((8;;;252))) sound moor
 (((8;;;253))) hear
 (((8;;;254))) die away absolute silence close
 (((8;;;255))) stand strain ear come
@@ -1758,23 +1758,23 @@
 (((8;;;265))) hound say come mile away yonder think
 (((8;;;266))) hard come
 (((8;;;267))) rise fall wind
-(((8;;;268))) isn t direction great grimpen mire yes
-(((8;;;269))) come watson didn t think cry hound child
+(((8;;;268))) direction great grimpen mire yes
+(((8;;;269))) come watson think cry hound child
 (((8;;;270))) need fear speak truth
 (((8;;;271))) stapleton hear
 (((8;;;272))) say call strange bird
 (((8;;;273))) hound
-(((8;;;274))) god truth story possible danger dark cause don t believe watson
+(((8;;;274))) god truth story possible danger dark cause believe watson
 (((8;;;275))) thing laugh london stand darkness moor hear cry
 (((8;;;276))) uncle footprint hound lie
 (((8;;;277))) fit
-(((8;;;278))) don t think coward watson sound freeze blood
+(((8;;;278))) think coward watson sound freeze blood
 (((8;;;279))) feel hand cold block marble
-(((8;;;280))) will right tomorrow
-(((8;;;281))) don t think will cry head
+(((8;;;280))) right tomorrow
+(((8;;;281))) think cry head
 (((8;;;282))) advise shall turn thunder come man
 (((8;;;283))) convict hell hound likely
-(((8;;;284))) come will fiend pit loose moor
+(((8;;;284))) come fiend pit loose moor
 (((8;;;285))) stumble slowly darkness black loom craggy hill yellow speck light burn steadily
 (((8;;;286))) deceptive distance light pitch dark night glimmer far away horizon yard
 (((8;;;287))) come know close
@@ -1817,7 +1817,7 @@
 (((8;;;324))) cry surprise point baronet instant turn grasp arm man go
 (((8;;;325))) sharp pinnacle granite cut low edge moon peak bear trace silent motionless figure
 (((8;;;326))) wish direction search tor distance away
-(((8;;;327))) baronet s nerve quiver cry recall dark story family mood fresh adventure
+(((8;;;327))) baronet nerve quiver cry recall dark story family mood fresh adventure
 (((8;;;328))) see lonely man tor feel thrill strange presence command attitude give
 (((8;;;329))) warder doubt say
 (((8;;;330))) moor thick fellow escape
@@ -1878,19 +1878,19 @@
 (((9;;;44))) time surprise hear gentleman come morning learn chase selden
 (((9;;;45))) poor fellow fight put track
 (((9;;;46))) tell free different thing say baronet tell wife tell force help
-(((9;;;47))) didn t think take advantage sir henry didn t
+(((9;;;47))) think take advantage sir henry
 (((9;;;48))) man public danger
 (((9;;;49))) lonely house scatter moor fellow stick
 (((9;;;50))) want glimpse face
-(((9;;;51))) look mr stapleton s house example defend
-(((9;;;52))) s safety lock key
-(((9;;;53))) will break house sir
+(((9;;;51))) look mr stapleton house example defend
+(((9;;;52))) safety lock key
+(((9;;;53))) break house sir
 (((9;;;54))) solemn word
 (((9;;;55))) trouble country
 (((9;;;56))) assure sir henry day necessary arrangement way south america
-(((9;;;57))) god s sake sir beg let police know moor
+(((9;;;57))) god sake sir beg let police know moor
 (((9;;;58))) give chase lie quiet ship ready
-(((9;;;59))) t tell get wife trouble
+(((9;;;59))) tell get wife trouble
 (((9;;;60))) beg sir police
 (((9;;;61))) watson shrug shoulder
 (((9;;;62))) safely country relieve tax payer burden
@@ -1899,27 +1899,27 @@
 (((9;;;65))) commit crime hide
 (((9;;;66))) true say sir henry
 (((9;;;67))) barrymore god bless sir thank heart kill poor wife take
-(((9;;;68))) guess aid abet felony watson hear don t feel man end
+(((9;;;68))) guess aid abet felony watson hear feel man end
 (((9;;;69))) right barrymore
 (((9;;;70))) break word gratitude man turn hesitate come
-(((9;;;71))) have kind sir like good return
+(((9;;;71))) kind sir like good return
 (((9;;;72))) know sir henry say long inquest find
-(((9;;;73))) have breathe word mortal man
-(((9;;;74))) s poor sir charles s death
+(((9;;;73))) breathe word mortal man
+(((9;;;74))) poor sir charles death
 (((9;;;75))) baronet foot
-(((9;;;76))) know die sir don t know
+(((9;;;76))) know die sir know
 (((9;;;77))) know gate hour
 (((9;;;78))) meet woman
 (((9;;;79))) meet woman yes sir
-(((9;;;80))) woman s t sir initial
+(((9;;;80))) woman sir initial
 (((9;;;81))) initial l
 (((9;;;82))) l
 (((9;;;83))) know barrymore sir henry uncle letter morning
 (((9;;;84))) usually great letter public man know kind heart trouble glad turn
 (((9;;;85))) morning chance letter take notice
-(((9;;;86))) coombe tracey address woman s hand
+(((9;;;86))) coombe tracey address woman hand
 (((9;;;87))) sir think mat wife
-(((9;;;88))) week ago clean sir charles s study touch death find ash burn letter grate
+(((9;;;88))) week ago clean sir charles study touch death find ash burn letter grate
 (((9;;;89))) great char piece little slip end page hang write read grey black grind
 (((9;;;90))) postscript end letter say gentleman burn letter gate o clock
 (((9;;;91))) beneath sign initial l
@@ -1930,11 +1930,11 @@
 (((9;;;96))) idea l
 (((9;;;97))) l
 (((9;;;98))) sir
-(((9;;;99))) expect lie hand lady know sir charles s death
+(((9;;;99))) expect lie hand lady know sir charles death
 (((9;;;100))) understand barrymore come conceal important information
 (((9;;;101))) sir immediately trouble come
 (((9;;;102))) sir fond sir charles consider
-(((9;;;103))) rake couldn t help poor master s carefully s lady case
+(((9;;;103))) rake help poor master carefully lady case
 (((9;;;104))) good think injure reputation sir think good come
 (((9;;;105))) kind feel treat unfairly tell know mat
 (((9;;;106))) good barrymore
@@ -1949,7 +1949,7 @@
 (((9;;;115))) think let holmes know
 (((9;;;116))) clue seek
 (((9;;;117))) mistake bring
-(((9;;;118))) go room draw report morning s conversation holmes
+(((9;;;118))) go room draw report morning conversation holmes
 (((9;;;119))) evident busy late note baker street short comment information supply hardly reference mission
 (((9;;;120))) doubt blackmail case absorb faculty
 (((9;;;121))) new factor surely arrest attention renew interest
@@ -1977,13 +1977,13 @@
 (((9;;;143))) l
 (((9;;;144))) think minute
 (((9;;;145))) say
-(((9;;;146))) gipsy labour folk t answer farmer gentry initial
+(((9;;;146))) gipsy labour folk answer farmer gentry initial
 (((9;;;147))) wait bite add pause
 (((9;;;148))) laura lyons initial l
 (((9;;;149))) l
 (((9;;;150))) life coombe tracey
 (((9;;;151))) ask
-(((9;;;152))) frankland s daughter
+(((9;;;152))) frankland daughter
 (((9;;;153))) old frankland crank exactly
 (((9;;;154))) marry artist name lyons come sketch moor
 (((9;;;155))) prove blackguard desert
@@ -1999,32 +1999,32 @@
 (((9;;;165))) want know object inquiry manage satisfy curiosity tell reason confidence
 (((9;;;166))) tomorrow morning shall find way coombe tracey mrs
 (((9;;;167))) laura lyons equivocal reputation long step clear incident chain mystery
-(((9;;;168))) certainly develop wisdom serpent mortimer press question inconvenient extent ask casually type frankland s skull belong hear craniology rest drive
+(((9;;;168))) certainly develop wisdom serpent mortimer press question inconvenient extent ask casually type frankland skull belong hear craniology rest drive
 (((9;;;169))) live year sherlock holmes
 (((9;;;170))) incident record tempestuous melancholy day
 (((9;;;171))) conversation barrymore give strong card play time
 (((9;;;172))) mortimer stay dinner baronet play écarté
 (((9;;;173))) butler bring coffee library take chance ask question
-(((9;;;174))) say precious relation depart lurk yonder don t know sir
-(((9;;;175))) hope heaven go bring trouble have hear leave food day ago
+(((9;;;174))) say precious relation depart lurk yonder know sir
+(((9;;;175))) hope heaven go bring trouble hear leave food day ago
 (((9;;;176))) sir food go go way
 (((9;;;177))) certainly think sir man take
 (((9;;;178))) sit coffee cup halfway lip stare barrymore
 (((9;;;179))) know man yes sir man moor
 (((9;;;180))) see sir
 (((9;;;181))) know selden tell sir week ago
-(((9;;;182))) s hide s convict far
-(((9;;;183))) don t like dr watson tell straight sir don t like
+(((9;;;182))) hide convict far
+(((9;;;183))) like dr watson tell straight sir like
 (((9;;;184))) speak sudden passion earnestness
 (((9;;;185))) listen barrymore interest mat master
 (((9;;;186))) come object help
-(((9;;;187))) tell frankly don t like
+(((9;;;187))) tell frankly like
 (((9;;;188))) barrymore hesitate moment regret outburst find difficult express feeling word
-(((9;;;189))) s goings sir cry wave hand rain lash window face moor
-(((9;;;190))) s foul play s black villainy brew will swear glad sir sir henry way london alarm look sir charles s death bad coroner say
+(((9;;;189))) goings sir cry wave hand rain lash window face moor
+(((9;;;190))) foul play black villainy brew swear glad sir sir henry way london alarm look sir charles death bad coroner say
 (((9;;;191))) look noise moor night
-(((9;;;192))) s man cross sundown pay
-(((9;;;193))) look strange hide yonder watch wait s wait mean mean good baskerville glad shall quit day sir henry s new servant ready hall
+(((9;;;192))) man cross sundown pay
+(((9;;;193))) look strange hide yonder watch wait wait mean mean good baskerville glad shall quit day sir henry new servant ready hall
 (((9;;;194))) strange say
 (((9;;;195))) tell selden find hide see twice deep give away
 (((9;;;196))) think police soon find lie
@@ -2068,7 +2068,7 @@
 (((10;;;27))) owe friend
 (((10;;;28))) late sir charles baskerville kind heart starve father care
 (((10;;;29))) late sir charles baskerville come
-(((10;;;30))) freckle start lady s face
+(((10;;;30))) freckle start lady face
 (((10;;;31))) tell ask finger play nervously stop typewriter
 (((10;;;32))) know say owe great deal kindness
 (((10;;;33))) able support largely interest take unhappy situation
@@ -2078,23 +2078,23 @@
 (((10;;;37))) good ask mat pass outside control
 (((10;;;38))) silent face pale
 (((10;;;39))) look reckless defiant manner
-(((10;;;40))) will answer say
+(((10;;;40))) answer say
 (((10;;;41))) question correspond sir charles certainly write twice acknowledge delicacy generosity
 (((10;;;42))) date letter
 (((10;;;43))) meet yes twice come coombe tracey
 (((10;;;44))) retire man prefer good stealth
 (((10;;;45))) see seldom write seldom know affair able help meet difficulty utmost readiness
 (((10;;;46))) gentleman know sad history unite help
-(((10;;;47))) mr stapleton neighbour intimate friend sir charles s
+(((10;;;47))) mr stapleton neighbour intimate friend sir charles
 (((10;;;48))) exceedingly kind sir charles learn affair
-(((10;;;49))) know sir charles baskerville stapleton almoner occasion lady s statement bear impress truth
+(((10;;;49))) know sir charles baskerville stapleton almoner occasion lady statement bear impress truth
 (((10;;;50))) write sir charles ask meet continue
 (((10;;;51))) mrs
 (((10;;;52))) lyons flush anger
 (((10;;;53))) sir extraordinary question
 (((10;;;54))) sorry madam repeat
 (((10;;;55))) answer certainly
-(((10;;;56))) day sir charles s death flush fade instant deathly face
+(((10;;;56))) day sir charles death flush fade instant deathly face
 (((10;;;57))) spin-dry lip speak see hear
 (((10;;;58))) surely memory deceive say
 (((10;;;59))) quote passage letter
@@ -2111,7 +2111,7 @@
 (((10;;;70))) believe interview gain help ask meet
 (((10;;;71))) hour learn go london day away month
 (((10;;;72))) reason early
-(((10;;;73))) rendezvous garden instead visit house think woman hour bachelor s house happen go
+(((10;;;73))) rendezvous garden instead visit house think woman hour bachelor house happen go
 (((10;;;74))) mrs
 (((10;;;75))) lyons swear hold sacred
 (((10;;;76))) go
@@ -2140,22 +2140,22 @@
 (((10;;;99))) law day face possibility force live
 (((10;;;100))) time write letter sir charles learn prospect regain freedom certain expense meet
 (((10;;;101))) mean peace mind happiness self respect
-(((10;;;102))) know sir charles s generosity think hear story lip help
+(((10;;;102))) know sir charles generosity think hear story lip help
 (((10;;;103))) receive help interval source
 (((10;;;104))) write sir charles explain see death paper morning
-(((10;;;105))) woman s story hang coherently question unable shake
+(((10;;;105))) woman story hang coherently question unable shake
 (((10;;;106))) check find institute divorce proceeding husband time tragedy
 (((10;;;107))) unlikely dare baskerville hall trap necessary return coombe tracey early hour morning
 (((10;;;108))) excursion keep secret
 (((10;;;109))) probability tell truth truth
 (((10;;;110))) come away baffle dishearten
 (((10;;;111))) reach dead wall build path try object mission
-(((10;;;112))) think lady s face manner feel hold
+(((10;;;112))) think lady face manner feel hold
 (((10;;;113))) turn pale fight admission force reticent time tragedy surely explanation innocent believe
 (((10;;;114))) moment proceed far direction turn clue seek stone hut moor
 (((10;;;115))) vague direction
 (((10;;;116))) realise drive note hill hill show trace ancient people
-(((10;;;117))) barrymore s indication strange live abandon hut hundred scatter length breadth moor
+(((10;;;117))) barrymore indication strange live abandon hut hundred scatter length breadth moor
 (((10;;;118))) experience guide show man stand summit black tor
 (((10;;;119))) centre search
 (((10;;;120))) explore hut moor light right
@@ -2173,14 +2173,14 @@
 (((10;;;132))) great day sir red letter day life cry chuckle
 (((10;;;133))) bring double event
 (((10;;;134))) mean teach part law law man fear invoke
-(((10;;;135))) establish right way centre old middleton s park slap sir yard door
-(((10;;;136))) think will teach magnate ride roughshod right commoner confound have close wood fernworthy folk picnic
+(((10;;;135))) establish right way centre old middleton park slap sir yard door
+(((10;;;136))) think teach magnate ride roughshod right commoner confound close wood fernworthy folk picnic
 (((10;;;137))) infernal people think right property swarm like paper bottle
 (((10;;;138))) case decide dr watson favour
-(((10;;;139))) haven t day sir john morland trespass shoot warren
+(((10;;;139))) day sir john morland trespass shoot warren
 (((10;;;140))) earth look book sir
 (((10;;;141))) repay read frankland _v_
-(((10;;;142))) morland court queen s bench
+(((10;;;142))) morland court queen bench
 (((10;;;143))) cost 200 get verdict
 (((10;;;144))) good sir
 (((10;;;145))) proud interest mat
@@ -2198,21 +2198,21 @@
 (((10;;;157))) see contrary nature old sinner understand strong sign interest sure way stop confidence
 (((10;;;158))) poach case doubt say indifferent manner
 (((10;;;159))) ha ha boy important mat convict moor stare
-(((10;;;160))) don t mean know say
+(((10;;;160))) mean know say
 (((10;;;161))) know exactly sure help police lie hand
 (((10;;;162))) strike way catch man find get food trace certainly get uncomfortably near truth
 (((10;;;163))) doubt say know moor know see eye messenger take food
 (((10;;;164))) heart sink barrymore
 (((10;;;165))) thing power spiteful old busybody
 (((10;;;166))) remark take weight mind
-(((10;;;167))) will surprise hear food take child
+(((10;;;167))) surprise hear food take child
 (((10;;;168))) day telescope roof
 (((10;;;169))) pass path hour go convict luck suppress appearance interest
 (((10;;;170))) child barrymore say unknown supply boy
-(((10;;;171))) track convict s frankland stumble
+(((10;;;171))) track convict frankland stumble
 (((10;;;172))) knowledge save long weary hunt
 (((10;;;173))) incredulity indifference evidently strong card
-(((10;;;174))) likely son moorland shepherd take father s dinner
+(((10;;;174))) likely son moorland shepherd take father dinner
 (((10;;;175))) appearance opposition strike fire old autocrat
 (((10;;;176))) eye look malignantly grey whisker bristle like angry cat
 (((10;;;177))) sir say point wide stretch moor
@@ -2319,7 +2319,7 @@
 (((11;;;21))) see light flash lens
 (((11;;;22))) rise peep hut
 (((11;;;23))) ha cartwright bring supply
-(((11;;;24))) s paper coombe tracey yes
+(((11;;;24))) paper coombe tracey yes
 (((11;;;25))) mrs
 (((11;;;26))) laura lyons exactly
 (((11;;;27))) research evidently run parallel line unite result expect shall fairly knowledge case
@@ -2341,9 +2341,9 @@
 (((11;;;43))) report dear fellow thumb assure
 (((11;;;44))) excellent arrangement delay day way
 (((11;;;45))) compliment exceedingly zeal intelligence show extraordinarily difficult case
-(((11;;;46))) raw deception practise warmth holmes s praise drive anger mind
+(((11;;;46))) raw deception practise warmth holmes praise drive anger mind
 (((11;;;47))) feel heart right say good purpose know moor
-(((11;;;48))) s good say see shadow rise face
+(((11;;;48))) good say see shadow rise face
 (((11;;;49))) tell result visit mrs
 (((11;;;50))) laura lyons difficult guess go aware person coombe tracey service mat
 (((11;;;51))) fact go today exceedingly probable go tomorrow
@@ -2359,7 +2359,7 @@
 (((11;;;61))) put powerful weapon hand
 (((11;;;62))) use detach wife wife give information return give
 (((11;;;63))) lady pass miss stapleton reality wife
-(((11;;;64))) good heaven holmes sure permit sir henry fall love sir henry s fall love harm sir henry
+(((11;;;64))) good heaven holmes sure permit sir henry fall love sir henry fall love harm sir henry
 (((11;;;65))) take particular care sir henry love observe
 (((11;;;66))) repeat lady wife sister
 (((11;;;67))) elaborate deception foresee useful character free woman
@@ -2384,12 +2384,12 @@
 (((11;;;86))) case stapleton unmarried man count doubt wife
 (((11;;;87))) undeceive find lady service
 (((11;;;88))) duty tomorrow
-(((11;;;89))) don t think watson away charge long place baskerville hall
+(((11;;;89))) think watson away charge long place baskerville hall
 (((11;;;90))) red streak fade away west night settle moor
 (((11;;;91))) faint star gleam violet sky
 (((11;;;92))) question holmes say rise
 (((11;;;93))) surely need secrecy
-(((11;;;94))) mean holmes s voice sink answer murder watson refine cold blood deliberate murder
+(((11;;;94))) mean holmes voice sink answer murder watson refine cold blood deliberate murder
 (((11;;;95))) ask particular
 (((11;;;96))) net close sir henry help mercy
 (((11;;;97))) danger threaten
@@ -2418,7 +2418,7 @@
 (((11;;;120))) beat watson
 (((11;;;121))) late
 (((11;;;122))) surely fool hold hand
-(((11;;;123))) watson come abandon charge heaven bad happen will avenge blindly run gloom blunder boulder force way gorse bush pant hill rush slope head direction dreadful sound come
+(((11;;;123))) watson come abandon charge heaven bad happen avenge blindly run gloom blunder boulder force way gorse bush pant hill rush slope head direction dreadful sound come
 (((11;;;124))) rise holmes look eagerly round shadow thick moor move dreary face
 (((11;;;125))) hark low moan fall ear
 (((11;;;126))) leave ridge rock end sheer cliff overlook stone strew slope
@@ -2465,11 +2465,11 @@
 (((11;;;167))) instant clear
 (((11;;;168))) remember baronet tell hand old wardrobe barrymore
 (((11;;;169))) barrymore pass order help selden escape
-(((11;;;170))) boot shirt cap sir henry s
+(((11;;;170))) boot shirt cap sir henry
 (((11;;;171))) tragedy black man deserve death law country
 (((11;;;172))) tell holmes mat stand heart bubble thankfulness joy
-(((11;;;173))) clothe poor devil s death say
-(((11;;;174))) clear hound lie article sir henry s boot abstract hotel probability run man
+(((11;;;173))) clothe poor devil death say
+(((11;;;174))) clear hound lie article sir henry boot abstract hotel probability run man
 (((11;;;175))) singular thing come selden darkness know hound trail hear
 (((11;;;176))) hear hound moor work hard man like convict paroxysm terror risk recapture scream wildly help
 (((11;;;177))) cry run long way know animal track
@@ -2478,18 +2478,18 @@
 (((11;;;180))) suppose run loose moor
 (((11;;;181))) stapleton let reason think sir henry
 (((11;;;182))) difficulty formidable think shall shortly explanation remain forever mystery
-(((11;;;183))) question shall poor wretch s body leave fox raven
+(((11;;;183))) question shall poor wretch body leave fox raven
 (((11;;;184))) suggest hut communicate police
 (((11;;;185))) exactly
 (((11;;;186))) doubt carry far
-(((11;;;187))) halloa watson s s man s wonderful audacious word suspicion word plan crumble grind
+(((11;;;187))) halloa watson man wonderful audacious word suspicion word plan crumble grind
 (((11;;;188))) figure approach moor see dull red glow cigar
 (((11;;;189))) moon shine distinguish dapper shape jaunty walk naturalist
 (((11;;;190))) stop see come
-(((11;;;191))) dr watson s man expect moor time night
-(((11;;;192))) dear s somebody hurt don t tell friend sir henry hurry past stoop dead man
+(((11;;;191))) dr watson man expect moor time night
+(((11;;;192))) dear somebody hurt tell friend sir henry hurry past stoop dead man
 (((11;;;193))) hear sharp intake breath cigar fall finger
-(((11;;;194))) s stammer
+(((11;;;194))) stammer
 (((11;;;195))) selden man escape princetown
 (((11;;;196))) stapleton turn ghastly face supreme effort overcome amazement disappointment
 (((11;;;197))) look sharply holmes
@@ -2501,12 +2501,12 @@
 (((11;;;203))) sir henry particular help ask
 (((11;;;204))) suggest come
 (((11;;;205))) come surprise naturally alarm safety hear cry moor
-(((11;;;206))) way eye dart face holmes s hear cry say holmes
+(((11;;;206))) way eye dart face holmes hear cry say holmes
 (((11;;;207))) mean oh know story peasant tell phantom hound
 (((11;;;208))) say hear night moor
 (((11;;;209))) wonder evidence sound tonight
 (((11;;;210))) hear kind say
-(((11;;;211))) theory poor fellow s death doubt anxiety exposure drive head
+(((11;;;211))) theory poor fellow death doubt anxiety exposure drive head
 (((11;;;212))) rush moor crazy state eventually fall break neck
 (((11;;;213))) reasonable theory say stapleton give sigh take indicate relief
 (((11;;;214))) think mr sherlock holmes friend bow compliment
@@ -2514,7 +2514,7 @@
 (((11;;;216))) expect part dr watson come
 (((11;;;217))) time tragedy
 (((11;;;218))) yes
-(((11;;;219))) doubt friend s explanation cover fact
+(((11;;;219))) doubt friend explanation cover fact
 (((11;;;220))) unpleasant remembrance london tomorrow
 (((11;;;221))) oh return tomorrow intention
 (((11;;;222))) hope visit cast light occurrence puzzle holmes shrug shoulder
@@ -2527,7 +2527,7 @@
 (((11;;;229))) suggest carry poor fellow house sister fright feel justify
 (((11;;;230))) think face safe morning
 (((11;;;231))) arrange
-(((11;;;232))) resist stapleton s offer hospitality holmes set baskerville hall leave naturalist return
+(((11;;;232))) resist stapleton offer hospitality holmes set baskerville hall leave naturalist return
 (((11;;;233))) look see figure move slowly away broad moor black smudge silver slope show man lie come horribly end
 (((11;;;234))) close grip say holmes walk moor
 (((11;;;235))) nerve fellow pull face paralyze shock find wrong man fall victim plot
@@ -2538,19 +2538,19 @@
 (((11;;;240))) like clever criminal confident cleverness imagine completely deceive
 (((11;;;241))) arrest dear watson bear man action
 (((11;;;242))) instinct energetic
-(((11;;;243))) suppose argument s sake arrest tonight earth good prove
-(((11;;;244))) s devilish cunning act human agent evidence drag great dog light day help put rope round neck master
+(((11;;;243))) suppose argument sake arrest tonight earth good prove
+(((11;;;244))) devilish cunning act human agent evidence drag great dog light day help put rope round neck master
 (((11;;;245))) surely case
 (((11;;;246))) shadow surmise conjecture
 (((11;;;247))) laugh court come story evidence
-(((11;;;248))) sir charles s death
+(((11;;;248))) sir charles death
 (((11;;;249))) find dead mark
 (((11;;;250))) know die sheer fright know frighten stolid juryman know sign hound mark fang course know hound bite dead body sir charles dead brute overtake
 (((11;;;251))) prove position
 (((11;;;252))) tonight good tonight
-(((11;;;253))) direct connection hound man s death
+(((11;;;253))) direct connection hound man death
 (((11;;;254))) see hound
-(((11;;;255))) hear prove run man s trail
+(((11;;;255))) hear prove run man trail
 (((11;;;256))) complete absence motive
 (((11;;;257))) dear fellow reconcile fact case present worth run risk order establish
 (((11;;;258))) propose great hope mrs
@@ -2561,7 +2561,7 @@
 (((11;;;263))) come yes reason concealment
 (((11;;;264))) word watson
 (((11;;;265))) hound sir henry
-(((11;;;266))) let think selden s death stapleton believe
+(((11;;;266))) let think selden death stapleton believe
 (((11;;;267))) good nerve ordeal undergo tomorrow engage remember report aright dine people
 (((11;;;268))) excuse
 (((11;;;269))) easily arrange
@@ -2573,27 +2573,27 @@
 (((12;;;4))) unmitigated relief weep bitterly apron
 (((12;;;5))) world man violence half animal half demon remain little wilful boy girlhood child cling hand
 (((12;;;6))) evil man woman mourn
-(((12;;;7))) have mope house day watson go morning say baronet
+(((12;;;7))) mope house day watson go morning say baronet
 (((12;;;8))) guess credit keep promise
-(((12;;;9))) hadn t swear lively even message stapleton ask
+(((12;;;9))) swear lively even message stapleton ask
 (((12;;;10))) doubt lively even say holmes drily
-(((12;;;11))) way don t suppose appreciate mourn have break neck sir henry open eye
+(((12;;;11))) way suppose appreciate mourn have break neck sir henry open eye
 (((12;;;12))) poor wretch dress clothe
 (((12;;;13))) fear servant give trouble police
 (((12;;;14))) unlikely
 (((12;;;15))) mark far know
-(((12;;;16))) s lucky fact s lucky wrong law mat
+(((12;;;16))) lucky fact lucky wrong law mat
 (((12;;;17))) sure conscientious detective duty arrest household
-(((12;;;18))) watson s report incriminate document
+(((12;;;18))) watson report incriminate document
 (((12;;;19))) case ask baronet
-(((12;;;20))) tangle don t know watson wise come
+(((12;;;20))) tangle know watson wise come
 (((12;;;21))) think shall position situation clear long
 (((12;;;22))) exceedingly difficult complicate business
 (((12;;;23))) point want light come
-(((12;;;24))) have experience watson doubt tell
+(((12;;;24))) experience watson doubt tell
 (((12;;;25))) hear hound moor swear superstition
 (((12;;;26))) dog west know hear
-(((12;;;27))) muzzle chain will ready swear great detective time
+(((12;;;27))) muzzle chain ready swear great detective time
 (((12;;;28))) think muzzle chain right help
 (((12;;;29))) tell
 (((12;;;30))) good ask blindly ask reason
@@ -2605,13 +2605,13 @@
 (((12;;;36))) look repress internal emotion
 (((12;;;37))) feature compose eye shine amuse exultation
 (((12;;;38))) excuse admiration connoisseur say wave hand line portrait cover opposite wall
-(((12;;;39))) watson win t allow know art mere jealousy view subject differ
+(((12;;;39))) watson allow know art mere jealousy view subject differ
 (((12;;;40))) fine series portrait
-(((12;;;41))) be glad hear say sir henry glance surprise friend
-(((12;;;42))) don t pretend know thing have good judge horse steer picture
-(((12;;;43))) didn t know find time thing
+(((12;;;41))) glad hear say sir henry glance surprise friend
+(((12;;;42))) pretend know thing good judge horse steer picture
+(((12;;;43))) know find time thing
 (((12;;;44))) know good
-(((12;;;45))) s kneller will swear lady blue silk yonder stout gentleman wig ought reynolds
+(((12;;;45))) kneller swear lady blue silk yonder stout gentleman wig ought reynolds
 (((12;;;46))) family portrait presume
 (((12;;;47))) know name barrymore coach think lesson fairly
 (((12;;;48))) gentleman telescope rear admiral baskerville serve rodney west indies
@@ -2622,7 +2622,7 @@
 (((12;;;53))) gaze interest surprise portrait
 (((12;;;54))) dear say holmes quiet meek mannered man dare lurk devil eye
 (((12;;;55))) picture robust ruffianly person
-(((12;;;56))) s doubt authenticity date 1647 canvas
+(((12;;;56))) doubt authenticity date 1647 canvas
 (((12;;;57))) holmes say little picture old roysterer fascination eye continually fix supper
 (((12;;;58))) late sir henry go room able follow trend thought
 (((12;;;59))) lead banquet hall bedroom candle hand hold time stain portrait wall
@@ -2650,10 +2650,10 @@
 (((12;;;81))) betimes morning holmes afoot early see dress come drive
 (((12;;;82))) yes day today remark rub hand joy action
 (((12;;;83))) net place drag begin
-(((12;;;84))) will know day catch big lean jaw pike get mesh
+(((12;;;84))) know day catch big lean jaw pike get mesh
 (((12;;;85))) moor send report grimpen princetown death selden
 (((12;;;86))) think promise trouble mat
-(((12;;;87))) communicate faithful cartwright certainly pine away door hut dog master s grave set mind rest safety
+(((12;;;87))) communicate faithful cartwright certainly pine away door hut dog master grave set mind rest safety
 (((12;;;88))) sir henry
 (((12;;;89))) ah good morning holmes say baronet
 (((12;;;90))) look like general plan battle chief staff
@@ -2665,7 +2665,7 @@
 (((12;;;96))) hospitable people sure glad
 (((12;;;97))) fear watson london
 (((12;;;98))) london yes think useful present juncture
-(((12;;;99))) baronet s face perceptibly lengthen
+(((12;;;99))) baronet face perceptibly lengthen
 (((12;;;100))) hope go business
 (((12;;;101))) hall moor pleasant place
 (((12;;;102))) dear fellow trust implicitly exactly tell
@@ -2673,7 +2673,7 @@
 (((12;;;104))) hope soon return devonshire
 (((12;;;105))) remember message insist
 (((12;;;106))) alternative assure
-(((12;;;107))) see baronet s cloud brow deeply hurt regard desertion
+(((12;;;107))) see baronet cloud brow deeply hurt regard desertion
 (((12;;;108))) desire ask coldly
 (((12;;;109))) immediately breakfast
 (((12;;;110))) drive coombe tracey watson leave thing pledge come
@@ -2681,7 +2681,7 @@
 (((12;;;112))) good mind london say baronet
 (((12;;;113))) stay post duty
 (((12;;;114))) give word tell tell stay
-(((12;;;115))) right will stay
+(((12;;;115))) right stay
 (((12;;;116))) direction wish drive merripit house
 (((12;;;117))) send trap let know intend walk home
 (((12;;;118))) walk moor yes
@@ -2743,7 +2743,7 @@
 (((12;;;174))) vandeleur difficulty recognize know sight
 (((12;;;175))) write description trustworthy witness mr mrs
 (((12;;;176))) vandeleur time keep st
-(((12;;;177))) oliver s private school
+(((12;;;177))) oliver private school
 (((12;;;178))) read doubt identity people
 (((12;;;179))) glance look set rigid face desperate woman
 (((12;;;180))) mr holmes say man offer marriage condition divorce husband
@@ -2783,8 +2783,8 @@
 (((12;;;214))) big thing year say holmes
 (((12;;;215))) hour need think start
 (((12;;;216))) think employ get dinner lestrade london fog throat give breath pure night air dartmoor
-(((12;;;217))) ah don t suppose forget visit
-(((13;;;0))) hound baskervilles sherlock holmes s defect defect exceedingly loath communicate plan person instant fulfilment
+(((12;;;217))) ah suppose forget visit
+(((13;;;0))) hound baskervilles sherlock holmes defect defect exceedingly loath communicate plan person instant fulfilment
 (((13;;;1))) partly come doubt masterful nature love dominate surprise
 (((13;;;2))) partly professional caution urge chance
 (((13;;;3))) result try act agent assistant
@@ -2793,14 +2793,14 @@
 (((13;;;6))) nerve thrill anticipation cold wind face dark void space narrow road tell moor
 (((13;;;7))) stride horse turn wheel take near supreme adventure
 (((13;;;8))) conversation hamper presence driver hire wagonette force talk trivial matter nerve tense emotion anticipation
-(((13;;;9))) relief unnatural restraint pass frankland s house know draw near hall scene action
+(((13;;;9))) relief unnatural restraint pass frankland house know draw near hall scene action
 (((13;;;10))) drive door get near gate avenue
 (((13;;;11))) wagonette pay order return coombe tracey forthwith start walk merripit house
 (((13;;;12))) arm lestrade little detective smile
 (((13;;;13))) long trouser hip pocket long hip pocket
 (((13;;;14))) good friend ready emergency
 (((13;;;15))) mighty close affair mr holmes
-(((13;;;16))) s game wait game
+(((13;;;16))) game wait game
 (((13;;;17))) word cheerful place say detective shiver glance round gloomy slope hill huge lake fog lie grimpen mire
 (((13;;;18))) light house ahead
 (((13;;;19))) merripit house end journey
@@ -2814,7 +2814,7 @@
 (((13;;;27))) shine brightly certainly dine room
 (((13;;;28))) blind
 (((13;;;29))) know lie land good
-(((13;;;30))) creep forward quietly heaven s sake don t let know watch tiptoe path stoop low wall surround stunt orchard
+(((13;;;30))) creep forward quietly heaven sake let know watch tiptoe path stoop low wall surround stunt orchard
 (((13;;;31))) creep shadow reach point look straight uncurtained window
 (((13;;;32))) man room sir henry stapleton
 (((13;;;33))) sit profile round table
@@ -2833,10 +2833,10 @@
 (((13;;;46))) say great grimpen mire hang dense white fog
 (((13;;;47))) drift slowly direction bank like wall low thick define
 (((13;;;48))) moon shine look like great shimmer ice field head distant tor rock bear surface
-(((13;;;49))) holmes s face turn mutter impatiently watch sluggish drift
-(((13;;;50))) s move watson
+(((13;;;49))) holmes face turn mutter impatiently watch sluggish drift
+(((13;;;50))) move watson
 (((13;;;51))) thing earth disarrange plan
-(((13;;;52))) t long
+(((13;;;52))) long
 (((13;;;53))) o clock
 (((13;;;54))) success life depend come fog path
 (((13;;;55))) night clear fine
@@ -2851,8 +2851,8 @@
 (((13;;;64))) far wall orchard invisible tree stand swirl white vapour
 (((13;;;65))) watch fog wreath come crawl round corner house roll slowly dense bank upper floor roof float like strange ship shadowy sea
 (((13;;;66))) holmes strike hand passionately rock stamp foot impatience
-(((13;;;67))) isn t quarter hour path cover
-(((13;;;68))) half hour win t able hand
+(((13;;;67))) quarter hour path cover
+(((13;;;68))) half hour able hand
 (((13;;;69))) shall far high grind yes think
 (((13;;;70))) fog bank flow onward fall half mile house dense white sea moon silver upper edge sweep slowly inexorably
 (((13;;;71))) go far say holmes
@@ -2867,9 +2867,9 @@
 (((13;;;80))) come swiftly path pass close lie go long slope
 (((13;;;81))) walk glance continually shoulder like man ill ease
 (((13;;;82))) hist cry holmes hear sharp click cock pistol
-(((13;;;83))) look s come thin crisp continuous patter heart crawl bank
+(((13;;;83))) look come thin crisp continuous patter heart crawl bank
 (((13;;;84))) cloud yard lie glare uncertain horror break heart
-(((13;;;85))) holmes s elbow glance instant face
+(((13;;;85))) holmes elbow glance instant face
 (((13;;;86))) pale exultant eye shine brightly moonlight
 (((13;;;87))) suddenly start forward rigid fix stare lip part amazement
 (((13;;;88))) instant lestrade give yell terror throw face downward grind
@@ -2888,17 +2888,17 @@
 (((13;;;101))) reckon fleet foot outpace outpace little professional
 (((13;;;102))) fly track hear scream scream sir henry deep roar hound
 (((13;;;103))) time beast spring victim hurl grind worry throat
-(((13;;;104))) instant holmes empty barrel revolver creature s flank
+(((13;;;104))) instant holmes empty barrel revolver creature flank
 (((13;;;105))) howl agony vicious snap air roll foot paw furiously fall limp
 (((13;;;106))) stoop pant press pistol dreadful shimmer head useless press trigger
 (((13;;;107))) giant hound dead
 (((13;;;108))) sir henry lie insensible fall
 (((13;;;109))) tear away collar holmes breathe prayer gratitude see sign wind rescue time
-(((13;;;110))) friend s eyelid shiver feeble effort
-(((13;;;111))) lestrade thrust brandy flask baronet s tooth frighten eye look
+(((13;;;110))) friend eyelid shiver feeble effort
+(((13;;;111))) lestrade thrust brandy flask baronet tooth frighten eye look
 (((13;;;112))) god whisper
-(((13;;;113))) heaven s s dead say holmes
-(((13;;;114))) have lie family ghost forever
+(((13;;;113))) heaven dead say holmes
+(((13;;;114))) lie family ghost forever
 (((13;;;115))) mere size strength terrible creature lie stretch
 (((13;;;116))) pure bloodhound pure mastiff appear combination gaunt savage large small lioness
 (((13;;;117))) stillness death huge jaw drip bluish flame small deep set cruel eye ring fire
@@ -2921,16 +2921,16 @@
 (((13;;;134))) leave say holmes
 (((13;;;135))) rest work moment importance
 (((13;;;136))) case want man
-(((13;;;137))) s thousand find house continue retrace step swiftly path
+(((13;;;137))) thousand find house continue retrace step swiftly path
 (((13;;;138))) shot tell game
 (((13;;;139))) distance fog deaden
 (((13;;;140))) follow hound certain
-(((13;;;141))) s go time will search house sure
+(((13;;;141))) go time search house sure
 (((13;;;142))) door open rush hurry room room amazement dodder old manservant meet passage
 (((13;;;143))) light save dine room holmes catch lamp leave corner house unexplore
 (((13;;;144))) sign man chase
 (((13;;;145))) upper floor bedroom door lock
-(((13;;;146))) s cry lestrade
+(((13;;;146))) cry lestrade
 (((13;;;147))) hear movement
 (((13;;;148))) open door faint moan rustle come
 (((13;;;149))) holmes strike door lock flat foot fly open
@@ -2977,12 +2977,12 @@
 (((13;;;190))) mercy evident pursuit vain fog lift
 (((13;;;191))) leave lestrade possession house holmes go baronet baskerville hall
 (((13;;;192))) story stapletons long withhold take blow bravely learn truth woman love
-(((13;;;193))) shock night s adventure shatter nerve morning lie delirious high fever care dr mortimer
+(((13;;;193))) shock night adventure shatter nerve morning lie delirious high fever care dr mortimer
 (((13;;;194))) destine travel round world sir henry hale hearty man master ill omened estate
 (((13;;;195))) come rapidly conclusion singular narrative try reader share dark fear vague surmise cloud life long end tragic manner
 (((13;;;196))) morning death hound fog lift guide mrs
 (((13;;;197))) stapleton point find pathway bog
-(((13;;;198))) help realise horror woman s life see eagerness joy lie husband s track
+(((13;;;198))) help realise horror woman life see eagerness joy lie husband track
 (((13;;;199))) leave stand thin peninsula firm peaty soil taper widespread bog
 (((13;;;200))) end small wand plant show path zigzag tuft tuft rush green scummed pit foul quagmire bar way strange
 (((13;;;201))) rank reed lush slimy water plant send odour decay heavy miasmatic vapour face false step plunge thigh deep dark quiver mire shake yard soft undulation foot
@@ -2993,7 +2993,7 @@
 (((13;;;206))) hold old black boot air
 (((13;;;207))) meyers toronto print leather inside
 (((13;;;208))) worth mud bath say
-(((13;;;209))) friend sir henry s miss boot
+(((13;;;209))) friend sir henry miss boot
 (((13;;;210))) throw stapleton flight
 (((13;;;211))) exactly
 (((13;;;212))) retain hand set hound track
@@ -3042,9 +3042,9 @@
 (((14;;;19))) far case hound go course event nearly suggest forget
 (((14;;;20))) inquiry question family portrait lie fellow baskerville
 (((14;;;21))) son rodger baskerville young brother sir charles flee sinister reputation south america say die unmarried
-(((14;;;22))) mat fact marry child fellow real father s
+(((14;;;22))) mat fact marry child fellow real father
 (((14;;;23))) marry beryl garcia beauty costa rica have purloin considerable sum public money change vandeleur flee england establish school east yorkshire
-(((14;;;24))) reason attempt special line business strike acquaintance consumptive tutor voyage home man s ability undertake success
+(((14;;;24))) reason attempt special line business strike acquaintance consumptive tutor voyage home man ability undertake success
 (((14;;;25))) fraser tutor die school begin sink disrepute infamy
 (((14;;;26))) vandeleurs find convenient change stapleton bring remain fortune scheme future taste entomology south england
 (((14;;;27))) learn british museum recognize authority subject vandeleur permanently attach certain moth yorkshire day describe
@@ -3055,7 +3055,7 @@
 (((14;;;32))) mean end estate ready use tool run risk end
 (((14;;;33))) act establish near ancestral home 2 cultivate friendship sir charles baskerville neighbour
 (((14;;;34))) baronet tell family hound prepare way death
-(((14;;;35))) stapleton continue know old man s heart weak shock kill
+(((14;;;35))) stapleton continue know old man heart weak shock kill
 (((14;;;36))) learn dr mortimer
 (((14;;;37))) hear sir charles superstitious take grim legend seriously
 (((14;;;38))) ingenious mind instantly suggest way baronet death hardly possible bring home guilt real murderer
@@ -3087,7 +3087,7 @@
 (((14;;;64))) dog incite master spring wicket gate pursue unfortunate baronet flee scream yew alley
 (((14;;;65))) gloomy tunnel dreadful sight huge black creature flame jaw blaze eye bound victim
 (((14;;;66))) fall dead end alley heart disease terror
-(((14;;;67))) hound keep grassy border baronet run path track man s visible
+(((14;;;67))) hound keep grassy border baronet run path track man visible
 (((14;;;68))) see lie creature probably approach sniff find dead turn away
 (((14;;;69))) leave print actually observe dr mortimer
 (((14;;;70))) hound call hurry away lair grimpen mire mystery leave puzzle authority alarm countryside finally bring case scope observation
@@ -3105,22 +3105,22 @@
 (((14;;;82))) half task successfully accomplish difficult remain
 (((14;;;83))) possible stapleton know existence heir canada
 (((14;;;84))) case soon learn friend dr mortimer tell detail arrival henry baskerville
-(((14;;;85))) stapleton s idea young strange canada possibly death london come devonshire
+(((14;;;85))) stapleton idea young strange canada possibly death london come devonshire
 (((14;;;86))) distrust wife refuse help lie trap old man dare leave long sight fear lose influence
 (((14;;;87))) reason take london
 (((14;;;88))) lodge find mexborough private hotel craven street actually call agent search evidence
 (((14;;;89))) keep wife imprison room disguise beard follow dr mortimer baker street station northumberland hotel
 (((14;;;90))) wife inkling plan fear husband fear found brutal ill treatment dare write warn man know danger
-(((14;;;91))) letter fall stapleton s hand life safe
+(((14;;;91))) letter fall stapleton hand life safe
 (((14;;;92))) eventually know adopt expedient cut word form message address letter disguise hand
 (((14;;;93))) reach baronet give warn danger
-(((14;;;94))) essential stapleton article sir henry s attire case drive use dog mean set track
+(((14;;;94))) essential stapleton article sir henry attire case drive use dog mean set track
 (((14;;;95))) characteristic promptness audacity set doubt boot chamber maid hotel bribe help design
 (((14;;;96))) chance boot procure new useless purpose
 (((14;;;97))) return obtain instructive incident prove conclusively mind deal real hound supposition explain anxiety obtain old boot indifference new
 (((14;;;98))) _outré_ grotesque incident carefully deserve examine point appear complicate case duly consider scientifically handle likely elucidate
 (((14;;;99))) visit friend morning shadow stapleton cab
-(((14;;;100))) knowledge room appearance general conduct incline think stapleton s career crime mean limit single baskerville affair
+(((14;;;100))) knowledge room appearance general conduct incline think stapleton career crime mean limit single baskerville affair
 (((14;;;101))) suggestive year considerable burglary west country criminal arrest
 (((14;;;102))) folkestone court remarkable cold blood pistolling page surprise mask solitary burglar
 (((14;;;103))) doubt stapleton recruit wane resource fashion year desperate dangerous man
@@ -3155,12 +3155,12 @@
 (((14;;;132))) dependent food clean linen
 (((14;;;133))) watch stapleton cartwright frequently watch able hand string
 (((14;;;134))) tell report reach rapidly forward instantly baker street coombe tracey
-(((14;;;135))) great service especially incidentally truthful piece biography stapleton s
+(((14;;;135))) great service especially incidentally truthful piece biography stapleton
 (((14;;;136))) able establish identity man woman know exactly stand
 (((14;;;137))) case considerably complicate incident escape convict relation barrymores
 (((14;;;138))) clear effective way come conclusion observation
 (((14;;;139))) time discover moor complete knowledge business case jury
-(((14;;;140))) stapleton s attempt sir henry night end death unfortunate convict help prove murder man
+(((14;;;140))) stapleton attempt sir henry night end death unfortunate convict help prove murder man
 (((14;;;141))) alternative catch red hand use sir henry apparently unprotected bait
 (((14;;;142))) cost severe shock client succeed complete case drive stapleton destruction
 (((14;;;143))) sir henry expose confess reproach management case mean foresee terrible paralyze spectacle beast present predict fog enable burst short notice
@@ -3178,7 +3178,7 @@
 (((14;;;155))) learn death convict know hound keep outhouse even sir henry come dinner
 (((14;;;156))) tax husband intend crime furious scene follow show time rival love
 (((14;;;157))) fidelity turn instant bitter hatred see betray
-(((14;;;158))) tie chance warn sir henry hope doubt countryside baronet s death curse family certainly win wife accept accomplish fact silent know
+(((14;;;158))) tie chance warn sir henry hope doubt countryside baronet death curse family certainly win wife accept accomplish fact silent know
 (((14;;;159))) fancy case miscalculation doom seal
 (((14;;;160))) woman spanish blood condone injury lightly
 (((14;;;161))) dear watson refer note detail account curious case
@@ -3197,4 +3197,4 @@
 (((14;;;174))) doubt know find way difficulty
 (((14;;;175))) dear watson week severe work even think turn thought pleasant channel
 (((14;;;176))) box _les huguenots_
-(((14;;;177))) hear de reszkes trouble ready half hour stop marcini s little dinner way end
+(((14;;;177))) hear de reszkes trouble ready half hour stop marcini little dinner way end

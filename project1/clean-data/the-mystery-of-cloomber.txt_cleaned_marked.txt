@@ -71,7 +71,7 @@
 (((1;;;40))) evidently individual lamp candle rushlight make careful examination build
 (((1;;;41))) let ilka man blaw ain parritch say seth jamieson doggedly come dead stop
 (((1;;;42))) tae wraith bogle mind tae tak fancy tae cloomber canny tae meddle wi thing
-(((1;;;43))) man cry don t suppose wraith come gig light away yonder avenue gate lamp o gig sure exclaim companion lugubrious voice
+(((1;;;43))) man cry suppose wraith come gig light away yonder avenue gate lamp o gig sure exclaim companion lugubrious voice
 (((1;;;44))) let steer master west speer hail frae
 (((1;;;45))) time night close save single long narrow slit westward
 (((1;;;46))) stumble moor way wigtown road point high stone pillar mark entrance cloomber avenue
@@ -86,9 +86,9 @@
 (((1;;;55))) good even mr mcneil say step forward address wigtown factor slight acquaintance
 (((1;;;56))) small turn face speak show mistake identity tall companion spring show sign violent agitation
 (((1;;;57))) mcneil hear gasp choke voice
-(((1;;;58))) promise mean don t alarm general don t alarm say little fat factor soothe fashion speak frighten child
+(((1;;;58))) promise mean alarm general alarm say little fat factor soothe fashion speak frighten child
 (((1;;;59))) young mr fothergill west branksome bring tonight understand
-(((1;;;60))) neighbour t good opportunity introduce
+(((1;;;60))) neighbour good opportunity introduce
 (((1;;;61))) mr west general heatherstone lease cloomber hall
 (((1;;;62))) hold hand tall man take hesitate half reluctant fashion
 (((1;;;63))) come explain see light window think wrong
@@ -97,12 +97,12 @@
 (((1;;;66))) conclude stretch long tremulous arm turn gig lamp way throw flood light face
 (((1;;;67))) good heaven mcneil cry quiver voice fellow brown chocolate
 (((1;;;68))) englishman
-(((1;;;69))) englishman sir be scotchman bear breed say inclination laugh check new acquaintance obvious terror
+(((1;;;69))) englishman sir scotchman bear breed say inclination laugh check new acquaintance obvious terror
 (((1;;;70))) scotchman eh say sigh relief
 (((1;;;71))) nowadays
 (((1;;;72))) excuse mr
 (((1;;;73))) mr west
-(((1;;;74))) be nervous infernally nervous
+(((1;;;74))) nervous infernally nervous
 (((1;;;75))) come mcneil wigtown hour
 (((1;;;76))) good night gentleman good night clamber place factor crack whip high dog cart clatter away darkness cast brilliant tunnel yellow light rumble wheel die away distance
 (((1;;;77))) think new neighbour jamieson ask long silence
@@ -140,9 +140,9 @@
 (((2;;;25))) column record service capture ghuznee defence jellalabad sobraon 1848 indian mutiny reduction oudh
 (((2;;;26))) time mention dispatch
 (((2;;;27))) think dear cause proud new neighbour
-(((2;;;28))) doesn t mention marry suppose ask esther
+(((2;;;28))) mention marry suppose ask esther
 (((2;;;29))) say father wag white head keen appreciation humour
-(((2;;;30))) doesn t include head dare action dear
+(((2;;;30))) include head dare action dear
 (((2;;;31))) doubt head soon set rest day repair furnish complete occasion ride wigtown meet way carriage bear general heatherstone family new home
 (((2;;;32))) elderly lady wear sickly look opposite sit young fellow age girl appear couple year young
 (((2;;;33))) raise hat pass general shout coachman pull hold hand
@@ -246,23 +246,23 @@
 (((3;;;17))) glad opportunity person say courteously
 (((3;;;18))) wish sister father tell sorry
 (((3;;;19))) think good run house little get near tiffin time
-(((3;;;20))) don t mr west
+(((3;;;20))) mr west
 (((3;;;21))) want word
 (((3;;;22))) miss heatherstone wave hand bright smile trip avenue brother unbolted gate pass close lock outside
-(((3;;;23))) will stroll road objection
+(((3;;;23))) stroll road objection
 (((3;;;24))) manilla
 (((3;;;25))) draw couple cheroot pocket hand
-(((3;;;26))) will find bad say
+(((3;;;26))) find bad say
 (((3;;;27))) connoisseur tobacco india
 (((3;;;28))) hope interfere business come answer glad company
-(((3;;;29))) will tell secret say companion
+(((3;;;29))) tell secret say companion
 (((3;;;30))) time outside ground
 (((3;;;31))) sister answer
-(((3;;;32))) give governor slip day wouldn t half like know
+(((3;;;32))) give governor slip day half like know
 (((3;;;33))) whim entirely
 (((3;;;34))) people whim reason believe solid ground mat little exact
 (((3;;;35))) surely find lonely say
-(((3;;;36))) couldn t manage slip time smoke house yonder branksome
+(((3;;;36))) manage slip time smoke house yonder branksome
 (((3;;;37))) kind answer sparkle eye
 (((3;;;38))) dearly like run
 (((3;;;39))) exception israel stake old coachman gardener soul speak
@@ -272,7 +272,7 @@
 (((3;;;43))) march university school mat
 (((3;;;44))) complete ignoramus clodhopper
 (((3;;;45))) strange doubt
-(((3;;;46))) don t think deserve good fate stop speak face round throw palm forward appeal
+(((3;;;46))) think deserve good fate stop speak face round throw palm forward appeal
 (((3;;;47))) look sun shine face certainly strange bird coop cage
 (((3;;;48))) tall muscular keen dark face sharp finely cut feature step canvas murillo velasquez
 (((3;;;49))) latent energy power firm set mouth square eyebrow pose elastic knit figure
@@ -299,7 +299,7 @@
 (((3;;;70))) real heap coal fire infernal placard father
 (((3;;;71))) shake hand set road come run presently call stop
 (((3;;;72))) think say consider great mystery cloomber
-(((3;;;73))) dare come look private lunatic asylum t blame
+(((3;;;73))) dare come look private lunatic asylum blame
 (((3;;;74))) interest mat feel unfriendly satisfy curiosity promise father silent
 (((3;;;75))) tell know wise
 (((3;;;76))) understand father sane good reason live life
@@ -310,7 +310,7 @@
 (((3;;;81))) afraid bind peace
 (((3;;;82))) dear west say young heatherstone danger father threaten avert human intervention
 (((3;;;83))) real possibly imminent
-(((3;;;84))) don t mean assert supernatural say incredulously
+(((3;;;84))) mean assert supernatural say incredulously
 (((3;;;85))) hardly answer hesitation
 (((3;;;86))) continue say know abuse confidence
 (((3;;;87))) good bye take heel soon sight round curve country road
@@ -405,18 +405,18 @@
 (((4;;;84))) walk good deal night inspect attic right cellar
 (((4;;;85))) large lamp room corridor one order servant light dusk
 (((4;;;86))) surprise manage servant say laugh
-(((4;;;87))) maid part superstitious class imagination easily excite don t understand
+(((4;;;87))) maid part superstitious class imagination easily excite understand
 (((4;;;88))) cook housemaid london way
 (((4;;;89))) pay high scale inconvenience
 (((4;;;90))) israel stake coachman come country stolid honest fellow easily scare
 (((4;;;91))) poor little girl exclaim look slim graceful figure
 (((4;;;92))) atmosphere live
-(((4;;;93))) let rescue win t allow straight ask general hand bad refuse
+(((4;;;93))) let rescue allow straight ask general hand bad refuse
 (((4;;;94))) turn haggard pale think
 (((4;;;95))) heaven sake john cry earnestly kind
 (((4;;;96))) whip away dead night week settle wilderness chance see hear
 (((4;;;97))) forgive venture ground
-(((4;;;98))) don t think hard hearted man remark
+(((4;;;98))) think hard hearted man remark
 (((4;;;99))) see kindly look eye stern face
 (((4;;;100))) kind father answer
 (((4;;;101))) terrible oppose thwart
@@ -455,14 +455,14 @@
 (((5;;;2))) splutter hand twitch throat fury choke
 (((5;;;3))) dare intrude privacy think build fence vermin country congregate round oh near death fine fellow near time come
 (((5;;;4))) look pull squat thick pistol bosom
-(((5;;;5))) pass gap set foot land have let daylight
-(((5;;;6))) will vagabond
+(((5;;;5))) pass gap set foot land let daylight
+(((5;;;6))) vagabond
 (((5;;;7))) know treat gentry sort face black white
 (((5;;;8))) sir say mean harm come know deserve extraordinary outburst
 (((5;;;9))) allow observe cover pistol hand tremulous possible
-(((5;;;10))) don t turn muzzle shall compel self defence strike wrist stick
+(((5;;;10))) turn muzzle shall compel self defence strike wrist stick
 (((5;;;11))) deuce bring ask compose voice put weapon bosom
-(((5;;;12))) t gentleman live quietly come peep pry business look eh daughter come know try squeeze wasn t chance bring
+(((5;;;12))) gentleman live quietly come peep pry business look eh daughter come know try squeeze chance bring
 (((5;;;13))) say boldly chance bring
 (((5;;;14))) opportunity see daughter appreciate noble quality
 (((5;;;15))) engage marry come express intention see
@@ -470,15 +470,15 @@
 (((5;;;17))) english terrier fond nose worm remark
 (((5;;;18))) bring india trot jungle begin sniff imagine worm
 (((5;;;19))) worm turn venomous snake poor doggy play
-(((5;;;20))) think will find somewhat analogous position don t look
-(((5;;;21))) surely don t mean cast aspersion daughter say flush indignation
+(((5;;;20))) think find somewhat analogous position look
+(((5;;;21))) surely mean cast aspersion daughter say flush indignation
 (((5;;;22))) oh gabriel right answer carelessly
 (((5;;;23))) family exactly recommend young fellow marry
 (((5;;;24))) pray inform snug little arrangement afraid sir separate reply feel perfect candour good policy circumstance
 (((5;;;25))) possible mistake
 (((5;;;26))) come final decision implore remember happiness stake
 (((5;;;27))) power divide body soul shall unite
-(((5;;;28))) good fellow say general unkindly tone don t know ask
+(((5;;;28))) good fellow say general unkindly tone know ask
 (((5;;;29))) gulf blood heatherstone bridge
 (((5;;;30))) trace anger vanish manner give place air somewhat contemptuous amusement
 (((5;;;31))) family pride take fire word
@@ -494,7 +494,7 @@
 (((5;;;41))) grind easy assure interest override woman love wife
 (((5;;;42))) objection match surely consent danger trial incur marry gabriel weigh featherweight
 (((5;;;43))) young bantam exclaim old soldier smile warmth
-(((5;;;44))) easy defy danger don t know danger
+(((5;;;44))) easy defy danger know danger
 (((5;;;45))) ask hotly
 (((5;;;46))) earthly peril drive gabriel
 (((5;;;47))) let know test
@@ -502,9 +502,9 @@
 (((5;;;49))) bad use
 (((5;;;50))) go mumble vacant stare eye forget presence
 (((5;;;51))) look west say presently
-(((5;;;52))) will excuse speak hastily little time ago
+(((5;;;52))) excuse speak hastily little time ago
 (((5;;;53))) 2 time occasion apologise offence
-(((5;;;54))) shan t occur
+(((5;;;54))) sha occur
 (((5;;;55))) particular doubt desire complete isolation good reason insist point
 (((5;;;56))) rightly wrongly get head day organise raid ground
 (((5;;;57))) sort occur suppose reckon assistance heart
@@ -558,7 +558,7 @@
 (((6;;;25))) altogether give impression dangerous type tramp fall
 (((6;;;26))) instead reply question eye time silence sullen yellow shoot eye close knife loud snick
 (((6;;;27))) beak say young guess
-(((6;;;28))) chokey paisley chokey wigtown live thunder lie hand will remember corporal rufus smith darn fine country win t man work lie heel have visible mean subsistence
+(((6;;;28))) chokey paisley chokey wigtown live thunder lie hand remember corporal rufus smith darn fine country man work lie heel have visible mean subsistence
 (((6;;;29))) sorry old soldier reduce say
 (((6;;;30))) corp serve h battery royal horse artillery
 (((6;;;31))) bad cess service nigh year age beggarly pension thirty pound beer baccy
@@ -569,16 +569,16 @@
 (((6;;;36))) pass rich man
 (((6;;;37))) fool folk fool taste say draw black pipe pocket stuff tobacco
 (((6;;;38))) know good live cripes shilling pocket like spend shilling spend
-(((6;;;39))) have fight country country darn little
-(((6;;;40))) will rooshians help cross himalayas puzzle afghan british stop em
+(((6;;;39))) fight country country darn little
+(((6;;;40))) rooshians help cross himalayas puzzle afghan british stop em
 (((6;;;41))) secret worth st
 (((6;;;42))) petersburg eh mister ashamed hear old soldier speak jest say sternly
 (((6;;;43))) jest cry great roar oath
-(((6;;;44))) have year ago rooshians game
+(((6;;;44))) year ago rooshians game
 (((6;;;45))) skobeloff good bunch snuff
-(((6;;;46))) want ask have hear quarter man call heatherstone colonel 41st bengali tell wigtown live way
+(((6;;;46))) want ask hear quarter man call heatherstone colonel 41st bengali tell wigtown live way
 (((6;;;47))) life large house yonder say point cloomber tower
-(((6;;;48))) will find avenue gate little way road general isn t fond visitor
+(((6;;;48))) find avenue gate little way road general fond visitor
 (((6;;;49))) speech lose corporal rufus smith instant point gate set hop road
 (((6;;;50))) mode progression singular see right foot grind half dozen stride work hard attain momentum limb get grind astonish speed
 (((6;;;51))) surprise stand roadway gaze hulking figure think suddenly strike result come meet man blunt speech choleric hot head general
@@ -589,11 +589,11 @@
 (((6;;;56))) man stand nonsense
 (((6;;;57))) right
 (((6;;;58))) hard nut crack
-(((6;;;59))) isn t come avenue look gate see general have see attract voice hurry
+(((6;;;59))) come avenue look gate see general have see attract voice hurry
 (((6;;;60))) advance stop time time peer dark shadow throw tree irresolute come
 (((6;;;61))) reconnoiter whisper companion hoarse chuckle
 (((6;;;62))) afraid know afraid
-(((6;;;63))) win t catch trap help old un
+(((6;;;63))) catch trap help old un
 (((6;;;64))) fly em bet suddenly stand tip toe wave hand bar gate shout voice come gallant commandant come coast clear enemy sight
 (((6;;;65))) familiar address effect reassure general come right tell heighten colour temper boil point
 (((6;;;66))) mr west say eye fall
@@ -601,22 +601,22 @@
 (((6;;;68))) find road desire direct show way
 (((6;;;69))) know
 (((6;;;70))) want general ask sternly turn companion
-(((6;;;71))) sir say ex corporal speak whine voice touch moleskin cap humility contrast strangely previous rough independence bear be old gunner queen service sir know hear india think maybe groom gardener place happen vacant
+(((6;;;71))) sir say ex corporal speak whine voice touch moleskin cap humility contrast strangely previous rough independence bear old gunner queen service sir know hear india think maybe groom gardener place happen vacant
 (((6;;;72))) sorry man old soldier answer impressively
-(((6;;;73))) will little help way sir say cringe mendicant
-(((6;;;74))) win t old comrade bad sake rupee sale brigade pass sir 2 take cabul
+(((6;;;73))) little help way sir say cringe mendicant
+(((6;;;74))) old comrade bad sake rupee sale brigade pass sir 2 take cabul
 (((6;;;75))) general heatherstone look keenly supplicant silent appeal
 (((6;;;76))) ghuznee wall shake earthquake find thousand afghan gunshot
-(((6;;;77))) ask will be lie
+(((6;;;77))) ask lie
 (((6;;;78))) go young old live fine bungalow starve roadside
-(((6;;;79))) don t fair
+(((6;;;79))) fair
 (((6;;;80))) impertinent scoundrel say general
 (((6;;;81))) good soldier need ask help
 (((6;;;82))) shall farthing
-(((6;;;83))) word sir cry tramp turn away have tarada pass
+(((6;;;83))) word sir cry tramp turn away tarada pass
 (((6;;;84))) old soldier spring round word pistol shoot
 (((6;;;85))) have ye mean stammer
-(((6;;;86))) have tarada pass sir know man call ghoolab shah
+(((6;;;86))) tarada pass sir know man call ghoolab shah
 (((6;;;87))) hiss undertone malicious grin overspread face speaker
 (((6;;;88))) effect general extraordinary
 (((6;;;89))) fairly stagger gateway yellow countenance blanch livid mottle grey
@@ -625,7 +625,7 @@
 (((6;;;92))) general take long earnest look unkempt wanderer gaze see light recognition spring eye
 (((6;;;93))) god bless soul cry
 (((6;;;94))) corporal rufus smith
-(((6;;;95))) have come say chuckle
+(((6;;;95))) come say chuckle
 (((6;;;96))) wonder long know
 (((6;;;97))) unlock gate hard talk grate
 (((6;;;98))) like minute visitor cell
@@ -635,31 +635,31 @@
 (((6;;;102))) long year corporal answer gruffly
 (((6;;;103))) drink
 (((6;;;104))) draw money lie liquor long last peace life
-(((6;;;105))) be clean tramp partly hope pick price dram partly order look
-(((6;;;106))) will excuse talk private matter west general say look round begin away
-(((6;;;107))) don t leave
+(((6;;;105))) clean tramp partly hope pick price dram partly order look
+(((6;;;106))) excuse talk private matter west general say look round begin away
+(((6;;;107))) leave
 (((6;;;108))) know mat find entirely swim day
 (((6;;;109))) corporal rufus smith look round blank astonishment
 (((6;;;110))) swim say
 (((6;;;111))) voluntarily voluntarily general explain hurriedly sink voice
 (((6;;;112))) neighbour volunteer help case need
 (((6;;;113))) explanation increase big strange surprise
-(((6;;;114))) don t lick cock fight exclaim contemplate admiration
+(((6;;;114))) lick cock fight exclaim contemplate admiration
 (((6;;;115))) hear tell thing
 (((6;;;116))) find corporal smith say tenant cloomber want
 (((6;;;117))) want roof cover clothe wear food eat brandy drink
-(((6;;;118))) will say general slowly
+(((6;;;118))) say general slowly
 (((6;;;119))) look smith discipline
-(((6;;;120))) be general corporal master man
-(((6;;;121))) don t let remind
+(((6;;;120))) general corporal master man
+(((6;;;121))) let remind
 (((6;;;122))) tramp draw height raise right hand palm forward military salute
 (((6;;;123))) gardener rid fellow get
 (((6;;;124))) brandy shall allowance
 (((6;;;125))) deep drinker hall
-(((6;;;126))) don t opium brandy sir ask corporal rufus smith
+(((6;;;126))) opium brandy sir ask corporal rufus smith
 (((6;;;127))) general say firmly
-(((6;;;128))) have get nerve pluck shall
-(((6;;;129))) don t wonder win cross mutiny
+(((6;;;128))) get nerve pluck shall
+(((6;;;129))) wonder win cross mutiny
 (((6;;;130))) listen night night thing take drop cheer heart drive silly
 (((6;;;131))) general heatherstone hand afraid companion
 (((6;;;132))) thank mr west say have show man door
@@ -671,7 +671,7 @@
 (((6;;;138))) associate queer adventure tell day naturally feel sympathy befriend
 (((6;;;139))) tell come word reply
 (((6;;;140))) oh say general carelessly evident expression relief think say old time
-(((6;;;141))) look servant frighten isn t beauty look
+(((6;;;141))) look servant frighten beauty look
 (((6;;;142))) good bye wave hand old man turn away hurry drive unexpected addition household stroll round high black pal peer chink plank see trace mordaunt sister
 (((6;;;143))) bring statement come corporal rufus smith prove begin end
 (((6;;;144))) set soberly order event bring wigtownshire arrival heatherstones cloomber strange incident excite curiosity finally intense interest family briefly touch circumstance bring sister close personal relationship
@@ -681,16 +681,16 @@
 (((6;;;148))) preserve considerable trace israel individuality regard exact record see general heatherstone service
 (((7;;;0))) statement israel stake copy authenticate reverend mathew clark presbyterian minister stoneykirk wigtownshire maister fothergill west meenister maun tell aboot general heatherstone hoose maunna muckle aboot mysel reader wouldna care hear aboot affair
 (((7;;;1))) na sae sure o stake family weel ken respecked baith side o border mony nithsdale annandale gey please hear news o son o archie stake o ecclefechan
-(((7;;;2))) maun e en be tauld mr west sake hope will forget chance hae favour tae ask
-(((7;;;3))) 1 be able tae write mysel feyther send oot scare craw instead o sendin tae school ither hond bring preenciples practice o real kirk o covenant lord praise way twel month factor body maister mcneil cam ower tae street speered want o place coachman gairdner
+(((7;;;2))) maun e en tauld mr west sake hope forget chance hae favour tae ask
+(((7;;;3))) 1 able tae write mysel feyther send oot scare craw instead o sendin tae school ither hond bring preenciples practice o real kirk o covenant lord praise way twel month factor body maister mcneil cam ower tae street speered want o place coachman gairdner
 (((7;;;4))) fall oot chance tae look oot o sort mysel time wasna ower quick let want
 (((7;;;5))) ye tak leave say sharp like
 (((7;;;6))) guid place mony glad o t
 (((7;;;7))) ye want ye come tae office twa morn ain question tae gentleman
 (((7;;;8))) frae close man hard bargain shall profit leetle life lie store o siller
-(((7;;;9))) day come will hantle o factor leave hand o throne shouldna surprise maister mcneil find himsel amang
+(((7;;;9))) day come hantle o factor leave hand o throne shouldna surprise maister mcneil find himsel amang
 (((7;;;10))) weel morn gaed office foond factor lang thin dour man wi grey hair face brown crinkle walnut
-(((7;;;11))) look hard wi pair o een glow like twa spunk say say have bear pairts understan aye say leave
+(((7;;;11))) look hard wi pair o een glow like twa spunk say say bear pairts understan aye say leave
 (((7;;;12))) oot o scotland speers
 (((7;;;13))) twice carlisle fair say man wha love truth ken factor mind gaeing bargain fur twa steer stirk want stockin o drumleugh fairm
 (((7;;;14))) learn frae maister mcneil say general heatherstone nane ither ye canna write
@@ -699,10 +699,10 @@
 (((7;;;17))) tae say turnin tae factor vera man want
 (((7;;;18))) servant spoil noo day say ower muckle eddication
 (((7;;;19))) hae nae doobt stake ye suit
-(((7;;;20))) ye will hae pund month foond shall resairve right o givin ye hoors notice time
+(((7;;;20))) ye hae pund month foond shall resairve right o givin ye hoors notice time
 (((7;;;21))) suit ye vera different frae place say discontent like
 (((7;;;22))) word true auld fairmer scott give pund month parritch twice day
-(((7;;;23))) weel weel say maybe will gie ye rise ye suit
+(((7;;;23))) weel weel say maybe gie ye rise ye suit
 (((7;;;24))) han isel shillin maister mcneil tell custom tae shall expec tae ye cloomber monday
 (((7;;;25))) monday cam roond walk oot tae cloomber great muckle hoose wi hunderd window mair space tae hide awa half parish
 (((7;;;26))) tae gairdening gairden tae work horse take oot o stable frae week end tae week end
@@ -711,15 +711,15 @@
 (((7;;;29))) hadna muckle tae simple folk scarce understand english hardly mair regard ain soul tods moor
 (((7;;;30))) cook say didna think muckle o john knox ither wouldna saxpence tae hear discourse o maister donald mcsnaw o true kirk ken time tae leave tae high judge
 (((7;;;31))) family general leddy maister mordaunt miss gabriel wasna long find wasna exactly
-(((7;;;32))) leddy thin white ghaist time have come find yammerin greetin hersel
-(((7;;;33))) have watch walkin doon wood think nane wringin honds like dement
+(((7;;;32))) leddy thin white ghaist time come find yammerin greetin hersel
+(((7;;;33))) watch walkin doon wood think nane wringin honds like dement
 (((7;;;34))) young gentleman tae sister baith hae trouble mind general maist ithers ane day anither aye wi face dour sad felon feel tow roond neck
 (((7;;;35))) speered o hussy kitchen ken amiss wi family cook answer wasna tae inquire affair o superior naething long work wage
 (((7;;;36))) puir feckless body twa o scarce gie answer tae ceevil question clack lood eneugh mind
 (((7;;;37))) weel week pass month thing grow waur instead o good hall
-(((7;;;38))) general get mair nairvous leddy mair melancholy day wasna quarrel bicker have togither breakfast room tae gang round prune rise tree alongside o window couldna help hearin great pairt o conversation sair grain
+(((7;;;38))) general get mair nairvous leddy mair melancholy day wasna quarrel bicker togither breakfast room tae gang round prune rise tree alongside o window couldna help hearin great pairt o conversation sair grain
 (((7;;;39))) young folk wi speak little go aye talk waefu trial ere aboot fa gather word afeared o
-(((7;;;40))) have hear general mair ance wasna frighted o death danger face wi lang weary waitin uncertainty take strength mettle oot o
+(((7;;;40))) hear general mair ance wasna frighted o death danger face wi lang weary waitin uncertainty take strength mettle oot o
 (((7;;;41))) leddy console tell maybe wasna bad thocht come richt end cheery word clean throwed away
 (((7;;;42))) tae young folk ken weel didna bide groonds awa get chance wi maister fothergill west tae branksome general fu o ain trouble tae ken aboot didna tae pairt o duty coachman gairdner tae mind bairn
 (((7;;;43))) lairnt ye forbid lassie laddie dae sure way o bringin aboot
@@ -729,19 +729,19 @@
 (((7;;;47))) room aye lockit wasna naebody allow tae gang
 (((7;;;48))) mak ain bed red dust himsel wouldna allow o set fut passage lead tae
 (((7;;;49))) nicht walk ower hoose lamp hang room corner pairt dark
-(((7;;;50))) time frae room garret have hear futsteps comin gangin comin gangin doon passage anither frae midnight till cockcraw
-(((7;;;51))) weary wark lie listenin tae clatter wonderin clean daft maybe have lairnt pagan idolatrous trick oot india conscience noo like worm gnaweth dieth
-(((7;;;52))) have ha speered frae wouldna ease speak wi holy donald mcsnaw ha mistake general wasna man have care tae mak mistake wi
+(((7;;;50))) time frae room garret hear futsteps comin gangin comin gangin doon passage anither frae midnight till cockcraw
+(((7;;;51))) weary wark lie listenin tae clatter wonderin clean daft maybe lairnt pagan idolatrous trick oot india conscience noo like worm gnaweth dieth
+(((7;;;52))) ha speered frae wouldna ease speak wi holy donald mcsnaw ha mistake general wasna man care tae mak mistake wi
 (((7;;;53))) ane day workin grass border come say say ye occasion tae fire pistol israel godsakes say siccan thing honds life
-(((7;;;54))) have good begin noo say
+(((7;;;54))) good begin noo say
 (((7;;;55))) man tae ain weepon say
 (((7;;;56))) warrant ye wi guid crab tree cudgel aye answer blithely ony lad border
 (((7;;;57))) lonely hoose say molest rascal
 (((7;;;58))) weel tae ready come
-(((7;;;59))) son mordaunt mr fothergill west branksome come require ought tae able tae bauld face think ye deed sir say feastin aye good fechtin ye will raise pund month will shirk share o
-(((7;;;60))) win t quarrel ower say agree tae extra twal pund year easy bawbees
+(((7;;;59))) son mordaunt mr fothergill west branksome come require ought tae able tae bauld face think ye deed sir say feastin aye good fechtin ye raise pund month shirk share o
+(((7;;;60))) quarrel ower say agree tae extra twal pund year easy bawbees
 (((7;;;61))) far frae tae think evil couldna help surmisin time money lightly pairted wi maybe honestly cam
-(((7;;;62))) be curious pryin mun nature sair puzzle ain mind tae tell general walk aboot nicht keep frae sleep
+(((7;;;62))) curious pryin mun nature sair puzzle ain mind tae tell general walk aboot nicht keep frae sleep
 (((7;;;63))) weel ane day cleanin doon passage e e fall great muckle heap o curtain auld cairpets sic like thing pile away corner vera far frae door o general room
 (((7;;;64))) o sudden thocht come intae heid say tae mysel israel laddie say tae stop ye frae hidin vera nicht seein auld mun doesna ken human e e mair thocht o t mair seemple appear mind tae idea intae instant execution
 (((7;;;65))) nicht cam roond tauld woman folk bad wi jawache gang airly tae room
@@ -749,12 +749,12 @@
 (((7;;;67))) bide quiet mouse general pass road tae bed hoose
 (((7;;;68))) certie wouldna gang wi siller union bank dumfries canna think o t noo withoot feelin cauld way doon
 (((7;;;69))) awfu lyin deid silence waitin waitin wi soond tae break monotony heavy tickin o auld clock doon passage
-(((7;;;70))) look doon corridor way syne have look doon t ither aye come frae wasna lookin
+(((7;;;70))) look doon corridor way syne look doon t ither aye come frae wasna lookin
 (((7;;;71))) cauld sweat broo hairt beatin twice tae ilka tick o clock fear dust frae curtain thing aye gettin doon intae lung dae tae mysel frae coughin
 (((7;;;72))) godsakes wonder hair wasna grey wi go
 (((7;;;73))) wouldna dae lord provost o glasgie
 (((7;;;74))) weel twa o clock mornin maybe little mair thinkin wasna tae onything wasna sorry o sudden soond cam tae ear clear distinct stillness o nicht
-(((7;;;75))) have ask afore noo tae describe soond have aye foond vera easy tae gie clear idea o t unlike soond hearken tae
+(((7;;;75))) ask afore noo tae describe soond aye foond vera easy tae gie clear idea o t unlike soond hearken tae
 (((7;;;76))) shairp ringin clang like cause flippin rim o wineglass far high thin tae kind o splash like tinkle o rain drop intae water butt
 (((7;;;77))) fear sit amang cairpets like puddock gowan leaf listen wi ear
 (((7;;;78))) noo dull tickin o distant clock
@@ -767,12 +767,12 @@
 (((7;;;85))) dress dressin goon wi red smokin cap heid pair o slipper wi heel cut taes turn
 (((7;;;86))) moment cam hold maybe walkin sleep cam glint o licht e en face twistin like man sair distress o mind
 (((7;;;87))) conscience gies shake noo think o tall figure yelley face comin sae solemn silent doon lang lone passage
-(((7;;;88))) haud breath lie close watchin cam tae vera hairt stand breast ting loud clear yaird o cam ringin clangin soond ready hairkened tae
+(((7;;;88))) haud breath lie close watchin cam tae vera hairt stand breast ting loud clear yaird o cam ringin clangin soond aready hairkened tae
 (((7;;;89))) cam frae mair tell cause o t
 (((7;;;90))) ha general sair puzzle tae tell hoo honds baith doon pass
 (((7;;;91))) cam frae direction certainly appear tae tae come frae ower heid siccan thin eerie high pitch uncanny kind o soond wasna easy tae exactly come frae
 (((7;;;92))) general tuk nae heed o t walk soon oot o sicht didna lose minute creepin oot frae hidin place scamperin awa tae room bogie red sea trapesin doon hale nicht wud heid oot tae hae glimpse o
-(((7;;;93))) didna word tae anybody aboot have see mind wudna stay muckle langer cloomber ha
+(((7;;;93))) didna word tae anybody aboot see mind wudna stay muckle langer cloomber ha
 (((7;;;94))) pund month good wage isna tae pay man loss o peace o mind maybe loss o soul weel deil aboot ye canna tell sort o trap lie ye providence strong maybe weel risk
 (((7;;;95))) clear tae general hoose baith curse fit curse fa earn righteous presbyterian wha tread narrow path
 (((7;;;96))) hairt sair young miss gabriel bonnie winsome lassie feel duty tae mysel gang forth lot gang oot o wicked city o plain
@@ -781,18 +781,18 @@
 (((7;;;99))) prove tae ordain instead o say word come frae general himsel
 (((7;;;100))) ane day aboot begin october comin oot o stable giein oat tae horse seed great muckle loon come hoppin ane leg drive mair like big ill faured craw man
 (((7;;;101))) clap een thocht maybe ane rascal maister speakin aboot withoot mair ado fetch oot bite stick intention o tryin limmer heid
-(((7;;;102))) seed comin readin intention frae look maybe frae stick hand pu ed oot lang knife frae pocket swear wi awfu oath didna stan have death o
+(((7;;;102))) seed comin readin intention frae look maybe frae stick hand pu ed oot lang knife frae pocket swear wi awfu oath didna stan death o
 (((7;;;103))) ma conscience word chiel eneugh tae mak hair stand straight heid
 (((7;;;104))) wonder wasna strike deid stand
 (((7;;;105))) standin opposite ither wi knife wi stick general cam drive foond
-(((7;;;106))) tae surprise begin tae talk tae strange have ken day
+(((7;;;106))) tae surprise begin tae talk tae strange ken day
 (((7;;;107))) knife pocket corporal say
 (((7;;;108))) fear turn brain
 (((7;;;109))) blood wound say
-(((7;;;110))) have ha turn brain tae purpose wi muckle stick o hadna draw snickersnee
+(((7;;;110))) ha turn brain tae purpose wi muckle stick o hadna draw snickersnee
 (((7;;;111))) shouldna siccan auld savage premise
 (((7;;;112))) maister frooned look black didna relish advice comin frae source
-(((7;;;113))) turnin tae win t want day israel say guid servant ha naething tae complain wi ye circumstance arise cause tae change arrangement
+(((7;;;113))) turnin tae want day israel say guid servant ha naething tae complain wi ye circumstance arise cause tae change arrangement
 (((7;;;114))) vera guid sir say
 (((7;;;115))) even say shall extra month pay tae mak t ye short notice
 (((7;;;116))) wi go intae hoose follow man ed corporal frae day tae clap een ane ither
@@ -800,8 +800,8 @@
 (((7;;;118))) maister fothergill west say maunna express opeenion tae cam aboot maun confine mysel tae see mysel
 (((7;;;119))) nae doubt reason far frae tae hint guid anes maun happen didna surprise
 (((7;;;120))) expeckit say tae maister donald mcsnaw
-(((7;;;121))) have tauld ye aboot noo havena word tae add tae withdraw
-(((7;;;122))) be muckle obleeged tae maister mathew clairk puttin doon writin ony wish tae speer onything mair o be ken respeckit ecclefechan maister mcneil factor o wigtown aye tell tae foond
+(((7;;;121))) tauld ye aboot noo havena word tae add tae withdraw
+(((7;;;122))) muckle obleeged tae maister mathew clairk puttin doon writin ony wish tae speer onything mair o ken respeckit ecclefechan maister mcneil factor o wigtown aye tell tae foond
 (((7;;;123))) 1 old rascal pay trouble need favour
 (((7;;;124))) jfw
 (((8;;;0))) narrative john easterling frcpedin
@@ -866,7 +866,7 @@
 (((8;;;59))) hear thing certainly bear lucky star observe smile
 (((8;;;60))) mat opinion answer shake head
 (((8;;;61))) death terror come familiar form confess anticipation strange preternatural form death terrible unnerve
-(((8;;;62))) mean say puzzle remark prefer natural death death violence don t mean exactly answer
+(((8;;;62))) mean say puzzle remark prefer natural death death violence mean exactly answer
 (((8;;;63))) familiar cold steel lead afraid
 (((8;;;64))) know odyllic force doctor reply glance sharply sign delirium return
 (((8;;;65))) expression intelligent feverish flush fade cheek
@@ -901,7 +901,7 @@
 (((8;;;94))) excellent model
 (((8;;;95))) grind special interest scene campaign
 (((8;;;96))) pass opposite kalabagh thul valley engage summer 1841 protect convoy keep afridis order
-(((8;;;97))) wasn t sinecure promise
+(((8;;;97))) sinecure promise
 (((8;;;98))) say indicate blood red spot mark pass point scene fight engage
 (((8;;;99))) yes skirmish answer lean forward look red mark
 (((8;;;100))) attack moment fall pillow shoot look horror come face observe enter room
@@ -963,7 +963,7 @@
 (((10;;;15))) know wreck part ask
 (((10;;;16))) lord love ye sir famous place wreck
 (((10;;;17))) bay o king philip rate founder wi hand day o spanish war
-(((10;;;18))) sheet o water bay o luce round corner tell ain tale have gey lot speak
+(((10;;;18))) sheet o water bay o luce round corner tell ain tale gey lot speak
 (((10;;;19))) jedgment day come round water bubble wi numb o folk come frae
 (((10;;;20))) trust wreck say esther earnestly
 (((10;;;21))) old man shake grizzle head look distrustfully hazy horizon
@@ -1046,7 +1046,7 @@
 (((10;;;98))) thirteen cold cow set mortal slip death finger save captain hardy robust man light affair
 (((10;;;99))) take cottage great come branksome give spin-dry clothe lie hand serve beef beer kitchen fire
 (((10;;;100))) captain meadow compress bulky form suit come parlour mix grog give father account disaster
-(((10;;;101))) hadn t sir brave fellow say smile fathom deep time
+(((10;;;101))) sir brave fellow say smile fathom deep time
 (((10;;;102))) _belinda_ leaky old tub insure owner likely break heart
 (((10;;;103))) afraid say father sadly shall passenger
 (((10;;;104))) leave man beach case wash fear hopeless
@@ -1065,9 +1065,9 @@
 (((10;;;117))) obtain complete rig kind hearted fisherman look comfortable jersey grease seaboots favourable specimen shipwreck mariner
 (((10;;;118))) word grateful acknowledgment hospitality draw chair fire warm great brown hand blaze
 (((10;;;119))) have ye think captain meadow ask presently glance superior officer
-(((10;;;120))) didn t warn upshot have nigger board _belinda_ captain lean chair laugh heartily
-(((10;;;121))) didn t tell cry appeal
-(((10;;;122))) didn t tell laugh mat remark petulantly
+(((10;;;120))) warn upshot have nigger board _belinda_ captain lean chair laugh heartily
+(((10;;;121))) tell cry appeal
+(((10;;;122))) tell laugh mat remark petulantly
 (((10;;;123))) lose good sea kit nearly life bargain
 (((10;;;124))) understand say attribute misfortune ill fate passenger mate open eye adjective
 (((10;;;125))) ill fate sir ask
@@ -1076,26 +1076,26 @@
 (((10;;;128))) man kind drown say pause
 (((10;;;129))) father devil look
 (((10;;;130))) stand poop roll cigarette time mizzen carry away quarter boat stave
-(((10;;;131))) be surprise landsmen able captain sail height binnacle ought know time cat priest bad cargo carry
+(((10;;;131))) surprise landsmen able captain sail height binnacle ought know time cat priest bad cargo carry
 (((10;;;132))) christian priest bad guess idolatrous pagan time bad
 (((10;;;133))) stand old religion have have father help laugh rough sailor unorthodox way proclaim orthodoxy
 (((10;;;134))) mate evidently deadly earnest proceed state case mark different point rough red finger leave hand
 (((10;;;135))) kurrachee directly come warn ye say reproachfully captain
 (((10;;;136))) buddhist lascars watch chap come aboard stomach rub nose deck
-(((10;;;137))) wouldn t ha admiral r yal navy
+(((10;;;137))) ha admiral r yal navy
 (((10;;;138))) know nigger smell mischief moment see face
 (((10;;;139))) ask presence captain answer passenger holy man
 (((10;;;140))) hear em
 (((10;;;141))) harm hawkins say captain meadow
-(((10;;;142))) don t know mate say doubtfully
+(((10;;;142))) know mate say doubtfully
 (((10;;;143))) holy christian near god holy nigger opinion near devil
 (((10;;;144))) see captain meadow go voyage read book writ wood instead o paper sit right night jabber quarter deck
-(((10;;;145))) want chart mark course vessel day didn t say captain
+(((10;;;145))) want chart mark course vessel day say captain
 (((10;;;146))) tell soon ready laugh say
-(((10;;;147))) instrument o t day noon work latitude longitude mark vessel position chart pin cabin table
+(((10;;;147))) instrument o day noon work latitude longitude mark vessel position chart pin cabin table
 (((10;;;148))) see steward pantry
-(((10;;;149))) don t prove captain remark confess strange thing
-(((10;;;150))) will tell strange thing say mate impressively
+(((10;;;149))) prove captain remark confess strange thing
+(((10;;;150))) tell strange thing say mate impressively
 (((10;;;151))) know bay cast away learn kind friend wigtownshire coast captain answer hear bay
 (((10;;;152))) mate lean forward grave face
 (((10;;;153))) bay kirkmaiden say
@@ -1168,14 +1168,14 @@
 (((11;;;35))) give lose friend
 (((11;;;36))) make arrangement burial mr west
 (((11;;;37))) strange look smile
-(((11;;;38))) win t mr west trouble little time remark friend come ashore safe find shelter hut mile coast
+(((11;;;38))) mr west trouble little time remark friend come ashore safe find shelter hut mile coast
 (((11;;;39))) lonely desire
 (((11;;;40))) start glasgow afternoon say captain shall glad come
 (((11;;;41))) england find awkward travel
 (((11;;;42))) indebted thoughtfulness ram singh answer advantage kind offer
 (((11;;;43))) nature drive intend look leave
 (((11;;;44))) like captain say shrug shoulder
-(((11;;;45))) don t think likely find interest hole place
+(((11;;;45))) think likely find interest hole place
 (((11;;;46))) possibly ram singh answer amuse smile
 (((11;;;47))) remember milton line mind place hell heaven heaven hell
 (((11;;;48))) dare spend day comfortably
@@ -1225,7 +1225,7 @@
 (((11;;;92))) strange piece flotsam jetsam throw coast remark
 (((11;;;93))) father mightily interest
 (((11;;;94))) think good say mate
-(((11;;;95))) command ship will promise carry live stock sort board
+(((11;;;95))) command ship promise carry live stock sort board
 (((11;;;96))) aboard anchor trip bid good bye
 (((11;;;97))) wagonette finish load arrive chief place driver reserve companion speedily spring
 (((11;;;98))) chorus cheer good fellow whirl away road father esther stand lawn wave hand disappear cloomber wood _en route_ wigtown railway station
@@ -1234,7 +1234,7 @@
 (((12;;;1))) hear high manner ram singh speak distinguish position assign philologist excite prevent set acquaintance
 (((12;;;2))) esther relieve glad succeed abstract boot manoeuvre bedroom excite event hour weak frame delicate nerve
 (((12;;;3))) sit open porch gloaming turn mind unexpected event occur rapidly gale wreck rescue strange character castaway sister come quietly hand
-(((12;;;4))) don t think jack say low sweet voice forget friend cloomber hasn t excitement drive fear danger head head heart say laugh
+(((12;;;4))) think jack say low sweet voice forget friend cloomber excitement drive fear danger head head heart say laugh
 (((12;;;5))) right little attention certainly distract
 (((12;;;6))) shall walk morning
 (((12;;;7))) way morrow fateful 5th october day
@@ -1245,7 +1245,7 @@
 (((12;;;12))) strange man wish stay coast buddhist say lightly
 (((12;;;13))) oh fellow continual feast day religious rite sort
 (((12;;;14))) good reason stay sure
-(((12;;;15))) don t think say esther awe strike whisper strange priest arrive way india present moment gather hear general fear way connect india indian remark thoughtful
+(((12;;;15))) think say esther awe strike whisper strange priest arrive way india present moment gather hear general fear way connect india indian remark thoughtful
 (((12;;;16))) mention answer vague impression mystery connect incident occur country
 (((12;;;17))) sure fear vanish see ram singh
 (((12;;;18))) personification wisdom benevolence
@@ -1256,7 +1256,7 @@
 (((12;;;23))) good able judge presence significance
 (((12;;;24))) right little answer go indoor
 (((12;;;25))) excite wild doing need sound night rest compose
-(((12;;;26))) will suggest friend shall judge poor fellow send business
+(((12;;;26))) suggest friend shall judge poor fellow send business
 (((12;;;27))) promise allay sister apprehension bright sunlight morning appear absurd imagine poor vegetarian castaway sinister intention advent effect tenant cloomber
 (((12;;;28))) anxious heatherstones breakfast walk hall
 (((12;;;29))) seclusion impossible learn recent event
@@ -1288,7 +1288,7 @@
 (((12;;;55))) anxious say little time see hear
 (((12;;;56))) keep expect
 (((12;;;57))) good tomorrow different man morrow eh corporal yes sir say corporal raise hand forehead military salute
-(((12;;;58))) will right bank morrow
+(((12;;;58))) right bank morrow
 (((12;;;59))) corporal little disturb mind general explain doubt come right
 (((12;;;60))) high providence hand
 (((12;;;61))) eh busy thing say
@@ -1307,15 +1307,15 @@
 (((12;;;74))) like luck say
 (((12;;;75))) year come get snug billet
 (((12;;;76))) mind lad general say rise square shoulder like man brace effort
-(((12;;;77))) will face british soldier
-(((12;;;78))) have ye remember chillianwallah run gun square sikh horse come thunder bayonet didn t flinch win t flinch
+(((12;;;77))) face british soldier
+(((12;;;78))) have ye remember chillianwallah run gun square sikh horse come thunder bayonet flinch flinch
 (((12;;;79))) feel good year
 (((12;;;80))) uncertainty kill
 (((12;;;81))) infernal jingle jangle say corporal
 (((12;;;82))) consolation
 (((12;;;83))) good bye west say general
 (((12;;;84))) good husband gabriel poor wife home
-(((12;;;85))) don t think trouble long
+(((12;;;85))) think trouble long
 (((12;;;86))) good bye god bless look general say peremptorily break piece wood communication easy sort thing go long
 (((12;;;87))) hint allusion innuendo time little plain speak
 (((12;;;88))) fear dread hindoos able father authority arrest rogue vagabond
@@ -1501,7 +1501,7 @@
 (((13;;;50))) right sit allow private feeling overcome possibility succour father man let follow
 (((13;;;51))) tell direction take
 (((13;;;52))) use young heatherstone answer bury face hand
-(((13;;;53))) don t reproach west don t know circumstance
+(((13;;;53))) reproach west know circumstance
 (((13;;;54))) reverse tremendous unknown law act blow long hang fall
 (((13;;;55))) god help heaven tell happen say excited
 (((13;;;56))) yield despair
@@ -1673,7 +1673,7 @@
 (((14;;;13))) elliott gun man cholera doubt serve
 (((14;;;14))) note capsicum cholera try hand convoy usually provide guard absurdly inefficient
 (((14;;;15))) valley ravine branch main pass alive afridis pathans keen robber religious fanatic
-(((14;;;16))) wonder don t swoop caravan
+(((14;;;16))) wonder swoop caravan
 (((14;;;17))) plunder mountain fastness interfere overtake
 (((14;;;18))) fear restrain
 (((14;;;19))) way hang mouth ravine warn gang
@@ -1707,14 +1707,14 @@
 (((14;;;47))) barclay madras cavalry gallop dispatch
 (((14;;;48))) pollock enter cabul triumphantly 16th month good lady sale rescue shakespear bring safe british camp hostage
 (((14;;;49))) _te deum laudamus _ end wretched business sack city
-(((14;;;50))) hope pollock win t squeamish truckle hysterical party home
+(((14;;;50))) hope pollock squeamish truckle hysterical party home
 (((14;;;51))) town lie ash field sow salt
 (((14;;;52))) residency palace come
 (((14;;;53))) shall burnes mcnaghten gallant fellow know countryman avenge save hard gain glory experience stick miserable valley
 (((14;;;54))) completely bar petty skirmish
 (((14;;;55))) service
 (((14;;;56))) jemidar bring hillman today say tribe mass terada ravine mile north intend attack convoy
-(((14;;;57))) t rely information sort prove truth
+(((14;;;57))) rely information sort prove truth
 (((14;;;58))) propose shoot informant prevent play double traitor report proceeding
 (((14;;;59))) elliott demur
 (((14;;;60))) make war throw chance away
@@ -1813,7 +1813,7 @@
 (((14;;;153))) man blood cry voice thunder speak excellent english place prayer meditation murder
 (((14;;;154))) desist lest wrath god fall
 (((14;;;155))) stand aside old man shout
-(((14;;;156))) meet hurt don t way
+(((14;;;156))) meet hurt way
 (((14;;;157))) hillmen take heart sepoys flinch relish new enemy
 (((14;;;158))) clearly act promptly wish complete success
 (((14;;;159))) dash forward head white artilleryman stick
@@ -1832,7 +1832,7 @@
 (((14;;;172))) wooden settle rough table sole furniture lot parchment scroll hieroglyphic
 (((14;;;173))) go learn gospel peace good superior pagan lore
 (((14;;;174))) peace
-(((14;;;175))) elliott chamberlain catch main body know wouldn t honour day rest
+(((14;;;175))) elliott chamberlain catch main body know honour day rest
 (((14;;;176))) ought step know mention _gazette_
 (((14;;;177))) lucky chance think zemaun deserve telescope give
 (((14;;;178))) shall eat half starve
@@ -2001,20 +2001,20 @@
 (((15;;;50))) canny say ken lead tae
 (((15;;;51))) ask
 (((15;;;52))) tae hole o cree answer
-(((15;;;53))) far frae be think
+(((15;;;53))) far frae think
 (((15;;;54))) hole cree great muckle hole grind gang awa doon deep naebody reach
 (((15;;;55))) folk wha say door leadin intae bottomless pit itsel
 (((15;;;56))) ask
 (((15;;;57))) cry
-(((15;;;58))) doin hole o cree have man sense
+(((15;;;58))) doin hole o cree man sense
 (((15;;;59))) know great grandfeyther ken fullarton answer
 (((15;;;60))) fou saturday nicht go bet
 (((15;;;61))) didna like tae talk aboot wouldna tell befall aye fear o
-(((15;;;62))) fullarton hole o cree will
-(((15;;;63))) ye will tak advice ye will gie mat gang hame na guid tae get oot o place
+(((15;;;62))) fullarton hole o cree
+(((15;;;63))) ye tak advice ye gie mat gang hame na guid tae get oot o place
 (((15;;;64))) shall mordaunt answer
 (((15;;;65))) let dog pick way
-(((15;;;66))) na na cry will hae dog scaret wi bogles run auld nick hare
+(((15;;;66))) na na cry hae dog scaret wi bogles run auld nick hare
 (((15;;;67))) dog shall bide wi
 (((15;;;68))) dog shall say companion eye blaze
 (((15;;;69))) time argue
@@ -2093,7 +2093,7 @@
 (((15;;;142))) item devote account life service major general heatherstone lately disappear country house wigtownshire reason fear drown
 (((15;;;143))) wonder chance human eye trace connection paragraph
 (((15;;;144))) show wife mordaunt know existence read page
-(((15;;;145))) don t know point need clear
+(((15;;;145))) know point need clear
 (((15;;;146))) intelligent reader see reason general fear dark face wander man know pursuer come visitor cause hateful bell liable sound time
 (((15;;;147))) break sleep lead wander house night lamp burn room doubt prevent imagination people darkness terror
 (((15;;;148))) lastly elaborate precaution explain result feverish desire expectation ward fate
