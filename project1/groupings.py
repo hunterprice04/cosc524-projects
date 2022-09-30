@@ -16,7 +16,8 @@ def find_groupings(data, target):
 
     return matches
 
-def count_occurences(matches, occurrences = {}):
+def count_occurences(matches, ):
+    occurrences = {}
     #break matches into words
     for match in matches:
         words = match.split()
@@ -34,33 +35,16 @@ def count_occurences(matches, occurrences = {}):
     return occurrences
 
 
-def graph_occurences(data):
-    #using matplotlib to graph the occurences of the words given in the dictionary
-    #graphing the top 20 words
+def graph_occurences(ax, data, title, n=5):
+    #getting the top n words
+    top_n = list(data.keys())[:n]
 
-    #getting the top 20 words
-    top_20 = list(data.keys())[:30]
-
-    #getting the occurences of the top 20 words
-    occurences = list(data.values())[:30]
+    #getting the occurences of the top n words
+    occurences = list(data.values())[:n]
 
     #creating the graph
-    plt.bar(top_20, occurences)
-    plt.xticks(rotation=90)
-    plt.show()
+    ax.set_title(title)
+    ax.set_ylabel('# Occurrences')
+    ax.bar(top_n, occurences)
 
 
-if __name__ == '__main__':
-
-    ##testing code
-    with open('data.txt', 'r') as f:
-        data = f.read()
-    
-    data = data.lower()
-    ###testing code
-    
-
-    occurences = find_groupings(data, 'bee')
-    dict = count_occurences(occurences)
-
-    graph_occurences(dict)
