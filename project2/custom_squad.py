@@ -68,14 +68,14 @@ def create_samples():
                                context=context,
                                question='What habit does Sir Charles of Baskerville have?',
                                answer='in the habit every night before going to bed of walking down the famous yew '
-                                      'alley of Baskerville Hall '
+                                      'alley of Baskerville Hall'
                                )
     samples = add_squad_sample(samples,
                                title="The Hound of the Baskervilles",
                                context=context,
                                question='What was Sir Charles doing the night of his murder?',
                                answer='That night he went out as usual for his nocturnal walk, in the course of which '
-                                      'he was in the habit of smoking a cigar '
+                                      'he was in the habit of smoking a cigar'
                                )
     samples = add_squad_sample(samples,
                                title="The Hound of the Baskervilles",
@@ -95,7 +95,7 @@ def create_samples():
                                question="Was there anything interesting about the victims body?",
                                answer="No signs of violence were to be discovered upon Sir Charles's person, "
                                       "and though the doctor's evidence pointed to an almost incredible facial "
-                                      "distortion "
+                                      "distortion"
                                )
     context = clean_context(os.path.join('text', 'crimescene2.txt'))
     samples = add_squad_sample(samples,
@@ -127,7 +127,7 @@ def create_samples():
                                       'and pursued the unfortunate baronet, who fled screaming down the yew alley. In '
                                       'that gloomy tunnel it must indeed have been a dreadful sight to see that huge '
                                       'black creature, with its flaming jaws and blazing eyes, bounding after its '
-                                      'victim. '
+                                      'victim.'
                                )
 
     return samples
