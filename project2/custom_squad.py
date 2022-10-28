@@ -56,9 +56,33 @@ def create_samples():
     samples = add_squad_sample(samples,
                                title="The Hound of the Baskervilles",
                                context=context,
-                               question='What is a characteristic of Sherlock Holmes?',
-                               answer='usually very late in the mornings'
+                               question='What is the guests occupation?',
+                               answer='practitioner'
                                )
+    samples = add_squad_sample(samples,
+                               title="The Hound of the Baskervilles",
+                               context=context,
+                               question='How did Sherlock Holmes see Watson?',
+                               answer='well-polished, silver-plated coffee-pot'
+                               )
+    samples = add_squad_sample(samples,
+                                 title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='What did Holmes and Watson inspect?',
+                                    answer='visitor’s stick'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question="Where was Sherlock Holmes sitting?",
+                                    answer='at the breakfast table'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question="When does Sherlock Holmes usually wake up?",
+                                    answer='very late in the mornings'
+                                    )
 
     ########################################################################
     # Crime Scene Questions
@@ -104,6 +128,30 @@ def create_samples():
                                question='How did Sir Charles die?',
                                answer='affection of the heart'
                                )
+    samples = add_squad_sample(samples,
+                                 title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='Who died?',
+                                    answer='Sir Charles'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='Was there any sign of foul play?',
+                                    answer='no reason whatever to suspect foul play'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question="Who corroborated the doctor's findings?",
+                                    answer='several friends'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question="What did the doctor say about the body?",
+                                    answer='natural causes'
+                                    )
     ########################################################################
     # Antagonist Questions
     context = clean_context(os.path.join('text', 'stapleton.txt'))
@@ -113,6 +161,31 @@ def create_samples():
                                question='What ideology doe Stapleton follow?',
                                answer='naturalist.'
                                )
+    samples = add_squad_sample(samples,
+                                 title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='How did Stapleton know Sherlock Holmes?',
+                                    answer='I have been calling on Mortimer, and he pointed you out to me'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='Who did Stapleton ask about?',
+                                    answer='Sir Henry'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question="What did Stapleton know about Sir Charles?",
+                                    answer='his heart was'
+                                            'weak'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question="What house did Stapleton live in?",
+                                    answer='Merripit House'
+                                    )
 
     ########################################################################
     # Resolution Questions
@@ -129,5 +202,28 @@ def create_samples():
                                       'black creature, with its flaming jaws and blazing eyes, bounding after its '
                                       'victim.'
                                )
-
+    samples = add_squad_sample(samples,
+                                 title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='Who did Stapleton hope would lure Sir Charles out?',
+                                    answer='his wife'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='What did Stapleton do to the hound?',
+                                    answer='treat it with his infernal paint'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question='How did the hound get to the victim?',
+                                    answer='sprang over the wicket-gate and pursued'
+                                    )
+    samples = add_squad_sample(samples,
+                                    title="The Hound of the Baskervilles",
+                                    context=context,
+                                    question="What did Stapleton do at first?",
+                                    answer=' lurked about with his hound, but without avail'
+                                    )
     return samples
