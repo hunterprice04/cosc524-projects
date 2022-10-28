@@ -6,13 +6,13 @@ import os
 def clean_context(filename):
     with open(filename, 'r', encoding="utf8") as f:
         text = f.read()
-    text = re.sub("\\n", ' ', text, re.ASCII)
-    text = re.sub("\s{2,}", ' ', text, re.ASCII)
-    text = re.sub("“|”", '"', text, re.ASCII)
-    text = re.sub("‘|’", "'", text, re.ASCII)
-    text = re.sub("\"", '\\"', text, re.ASCII)
-    text = re.sub("_", '', text, re.ASCII)
-    text = re.sub("\s{2,}", ' ', text, re.ASCII)
+    text = re.sub("\\n", r' ', text, re.ASCII)
+    text = re.sub(r"\s{2,}", r' ', text, re.ASCII)
+    text = re.sub(r"“|”", r'"', text, re.ASCII)
+    text = re.sub(r"‘|’", r"'", text, re.ASCII)
+    text = re.sub(r"\"", r'\\"', text, re.ASCII)
+    text = re.sub(r"_", r'', text, re.ASCII)
+    text = re.sub(r"\s{2,}", r' ', text, re.ASCII)
     text = text.strip()
     return text
 
@@ -69,7 +69,7 @@ def create_samples():
                                  title="The Hound of the Baskervilles",
                                     context=context,
                                     question='What did Holmes and Watson inspect?',
-                                    answer='visitor’s stick'
+                                    answer="visitor's stick"
                                     )
     samples = add_squad_sample(samples,
                                     title="The Hound of the Baskervilles",
@@ -177,8 +177,7 @@ def create_samples():
                                     title="The Hound of the Baskervilles",
                                     context=context,
                                     question="What did Stapleton know about Sir Charles?",
-                                    answer='his heart was'
-                                            'weak'
+                                    answer='his heart was weak'
                                     )
     samples = add_squad_sample(samples,
                                     title="The Hound of the Baskervilles",
