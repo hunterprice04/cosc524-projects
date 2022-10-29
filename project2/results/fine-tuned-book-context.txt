@@ -1,0 +1,276 @@
+****************************************************************************************************
+
+QUESTION #0:
+"What is the guests occupation?"
+
+GROUND TRUTH ANSWER:
+"practitioner"
+
+PREDICTED ANSWER (score=0.8862924575805664):
+"a second cab"
+
+****************************************************************************************************
+
+QUESTION #1:
+"How did Sherlock Holmes see Watson?"
+
+GROUND TRUTH ANSWER:
+"well-polished, silver-plated coffee-pot"
+
+PREDICTED ANSWER (score=0.576500654220581):
+"murder"
+
+****************************************************************************************************
+
+QUESTION #2:
+"What did Holmes and Watson inspect?"
+
+GROUND TRUTH ANSWER:
+"visitor's stick"
+
+PREDICTED ANSWER (score=0.9183873534202576):
+"the Nets"
+
+****************************************************************************************************
+
+QUESTION #3:
+"Where was Sherlock Holmes sitting?"
+
+GROUND TRUTH ANSWER:
+"at the breakfast table"
+
+PREDICTED ANSWER (score=0.8491075038909912):
+"Frankland's house"
+
+****************************************************************************************************
+
+QUESTION #4:
+"When does Sherlock Holmes usually wake up?"
+
+GROUND TRUTH ANSWER:
+"very late in the mornings"
+
+PREDICTED ANSWER (score=0.8206108212471008):
+"yesterday evening"
+
+****************************************************************************************************
+
+QUESTION #5:
+"What habit does Sir Charles of Baskerville have?"
+
+GROUND TRUTH ANSWER:
+"in the habit every night before going to bed of walking down the famous yew alley of Baskerville Hall"
+
+PREDICTED ANSWER (score=0.7042295336723328):
+"smoking a cigar"
+
+****************************************************************************************************
+
+QUESTION #6:
+"What was Sir Charles doing the night of his murder?"
+
+GROUND TRUTH ANSWER:
+"That night he went out as usual for his nocturnal walk, in the course of which he was in the habit of smoking a cigar"
+
+PREDICTED ANSWER (score=0.6095444560050964):
+"wept"
+
+****************************************************************************************************
+
+QUESTION #7:
+"How was Sir Charles's body found?"
+
+GROUND TRUTH ANSWER:
+"Charles's footmarks were easily traced down the alley."
+
+PREDICTED ANSWER (score=0.5744177103042603):
+"over the moor to our house"
+
+****************************************************************************************************
+
+QUESTION #8:
+"Did anyone hear what happened to Sir Charles?"
+
+GROUND TRUTH ANSWER:
+"heard cries but is unable to state from what direction they came"
+
+PREDICTED ANSWER (score=0.43346619606018066):
+"Twenty-four hours"
+
+****************************************************************************************************
+
+QUESTION #9:
+"Was there anything interesting about the victims body?"
+
+GROUND TRUTH ANSWER:
+"No signs of violence were to be discovered upon Sir Charles's person, and though the doctor's evidence pointed to an almost incredible facial distortion"
+
+PREDICTED ANSWER (score=0.7688685059547424):
+"Twenty-four hours"
+
+****************************************************************************************************
+
+QUESTION #10:
+"How did Sir Charles die?"
+
+GROUND TRUTH ANSWER:
+"affection of the heart"
+
+PREDICTED ANSWER (score=0.901461660861969):
+"yellow fever"
+
+****************************************************************************************************
+
+QUESTION #11:
+"Who died?"
+
+GROUND TRUTH ANSWER:
+"Sir Charles"
+
+PREDICTED ANSWER (score=0.9543296098709106):
+"Selden"
+
+****************************************************************************************************
+
+QUESTION #12:
+"Was there any sign of foul play?"
+
+GROUND TRUTH ANSWER:
+"no reason whatever to suspect foul play"
+
+PREDICTED ANSWER (score=0.5170738101005554):
+"Twenty-four hours"
+
+****************************************************************************************************
+
+QUESTION #13:
+"Who corroborated the doctor's findings?"
+
+GROUND TRUTH ANSWER:
+"several friends"
+
+PREDICTED ANSWER (score=0.8767285943031311):
+"Stapleton"
+
+****************************************************************************************************
+
+QUESTION #14:
+"What did the doctor say about the body?"
+
+GROUND TRUTH ANSWER:
+"natural causes"
+
+PREDICTED ANSWER (score=0.4805416762828827):
+"implicit obedience"
+
+****************************************************************************************************
+
+QUESTION #15:
+"What ideology does Stapleton follow?"
+
+GROUND TRUTH ANSWER:
+"naturalist."
+
+PREDICTED ANSWER (score=0.8913465738296509):
+"naturalist"
+
+****************************************************************************************************
+
+QUESTION #16:
+"How did Stapleton know Sherlock Holmes?"
+
+GROUND TRUTH ANSWER:
+"I have been calling on Mortimer, and he pointed you out to me"
+
+PREDICTED ANSWER (score=0.43686607480049133):
+"Dr. Watson"
+
+****************************************************************************************************
+
+QUESTION #17:
+"Who did Stapleton ask about?"
+
+GROUND TRUTH ANSWER:
+"Sir Henry"
+
+PREDICTED ANSWER (score=0.8686040043830872):
+"Holmes"
+
+****************************************************************************************************
+
+QUESTION #18:
+"What did Stapleton know about Sir Charles?"
+
+GROUND TRUTH ANSWER:
+"his heart was weak"
+
+PREDICTED ANSWER (score=0.7749101519584656):
+"generosity"
+
+****************************************************************************************************
+
+QUESTION #19:
+"What house did Stapleton live in?"
+
+GROUND TRUTH ANSWER:
+"Merripit House"
+
+PREDICTED ANSWER (score=0.9524179697036743):
+"Merripit House"
+
+****************************************************************************************************
+
+QUESTION #20:
+"How did Stapleton kill Sir Charles?"
+
+GROUND TRUTH ANSWER:
+"get his hound, to treat it with his infernal paint, and to bring the beast round to the gate at which he had reason to expect that he would find the old gentleman waiting. The dog, incited by its master, sprang over the wicket-gate and pursued the unfortunate baronet, who fled screaming down the yew alley. In that gloomy tunnel it must indeed have been a dreadful sight to see that huge black creature, with its flaming jaws and blazing eyes, bounding after its victim."
+
+PREDICTED ANSWER (score=0.36240899562835693):
+"his death"
+
+****************************************************************************************************
+
+QUESTION #21:
+"Who did Stapleton hope would lure Sir Charles out?"
+
+GROUND TRUTH ANSWER:
+"his wife"
+
+PREDICTED ANSWER (score=0.8981977701187134):
+"his wife"
+
+****************************************************************************************************
+
+QUESTION #22:
+"What did Stapleton do to the hound?"
+
+GROUND TRUTH ANSWER:
+"treat it with his infernal paint"
+
+PREDICTED ANSWER (score=0.8561798930168152):
+"laughed"
+
+****************************************************************************************************
+
+QUESTION #23:
+"How did the hound get to the victim?"
+
+GROUND TRUTH ANSWER:
+"sprang over the wicket-gate and pursued"
+
+PREDICTED ANSWER (score=0.49194979667663574):
+"cut out in one piece"
+
+****************************************************************************************************
+
+QUESTION #24:
+"What did Stapleton do at first?"
+
+GROUND TRUTH ANSWER:
+"lurked about with his hound, but without avail"
+
+PREDICTED ANSWER (score=0.942234456539154):
+"laughed"
+
+****************************************************************************************************
