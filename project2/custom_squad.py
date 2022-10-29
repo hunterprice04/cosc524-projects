@@ -158,7 +158,7 @@ def create_samples():
     samples = add_squad_sample(samples,
                                title="The Hound of the Baskervilles",
                                context=context,
-                               question='What ideology doe Stapleton follow?',
+                               question='What ideology does Stapleton follow?',
                                answer='naturalist.'
                                )
     samples = add_squad_sample(samples,
@@ -223,6 +223,6 @@ def create_samples():
                                     title="The Hound of the Baskervilles",
                                     context=context,
                                     question="What did Stapleton do at first?",
-                                    answer=' lurked about with his hound, but without avail'
+                                    answer='lurked about with his hound, but without avail'
                                     )
     return samples
