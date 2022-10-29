@@ -6,8 +6,8 @@ QUESTION #0:
 GROUND TRUTH ANSWER:
 "practitioner"
 
-PREDICTED ANSWER (score=4.6428795030806214e-05):
-"esteemed since those who know him give him this mark"
+PREDICTED ANSWER (score=3.951425605919212e-05):
+"Stapleton has"
 
 ****************************************************************************************************
 
@@ -17,8 +17,8 @@ QUESTION #1:
 GROUND TRUTH ANSWER:
 "well-polished, silver-plated coffee-pot"
 
-PREDICTED ANSWER (score=4.631249976227991e-05):
-"coffee-pot in front of me,\" said he"
+PREDICTED ANSWER (score=2.329632297914941e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -28,8 +28,8 @@ QUESTION #2:
 GROUND TRUTH ANSWER:
 "visitor's stick"
 
-PREDICTED ANSWER (score=4.593794801621698e-05):
-"coffee-pot in front of me,\" said he"
+PREDICTED ANSWER (score=2.3236951165017672e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -39,8 +39,8 @@ QUESTION #3:
 GROUND TRUTH ANSWER:
 "at the breakfast table"
 
-PREDICTED ANSWER (score=4.753993925987743e-05):
-"coffee-pot in front of me,\" said he"
+PREDICTED ANSWER (score=3.8206446333788335e-05):
+"Stapleton has"
 
 ****************************************************************************************************
 
@@ -50,8 +50,8 @@ QUESTION #4:
 GROUND TRUTH ANSWER:
 "very late in the mornings"
 
-PREDICTED ANSWER (score=4.54068613180425e-05):
-"\"I think,\" said I, following as far"
+PREDICTED ANSWER (score=0.00011480147077236325):
+"we know of him that"
 
 ****************************************************************************************************
 
@@ -61,8 +61,8 @@ QUESTION #5:
 GROUND TRUTH ANSWER:
 "in the habit every night before going to bed of walking down the famous yew alley of Baskerville Hall"
 
-PREDICTED ANSWER (score=1.568339575896971e-05):
-"finding the hall door still open"
+PREDICTED ANSWER (score=2.5186478524119593e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -72,8 +72,8 @@ QUESTION #6:
 GROUND TRUTH ANSWER:
 "That night he went out as usual for his nocturnal walk, in the course of which he was in the habit of smoking a cigar"
 
-PREDICTED ANSWER (score=1.5556448488496244e-05):
-"finding the hall door still open"
+PREDICTED ANSWER (score=2.5751918656169437e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -83,8 +83,8 @@ QUESTION #7:
 GROUND TRUTH ANSWER:
 "Charles's footmarks were easily traced down the alley."
 
-PREDICTED ANSWER (score=1.5548481314908713e-05):
-", finding the hall door still open"
+PREDICTED ANSWER (score=4.907210313831456e-05):
+"we know of him that"
 
 ****************************************************************************************************
 
@@ -94,8 +94,8 @@ QUESTION #8:
 GROUND TRUTH ANSWER:
 "heard cries but is unable to state from what direction they came"
 
-PREDICTED ANSWER (score=1.551678178657312e-05):
-", finding the hall door still open"
+PREDICTED ANSWER (score=4.924566383124329e-05):
+"the way?\""
 
 ****************************************************************************************************
 
@@ -105,8 +105,8 @@ QUESTION #9:
 GROUND TRUTH ANSWER:
 "No signs of violence were to be discovered upon Sir Charles's person, and though the doctor's evidence pointed to an almost incredible facial distortion"
 
-PREDICTED ANSWER (score=1.5569767128909007e-05):
-"yew alley of Baskerville"
+PREDICTED ANSWER (score=4.909017661702819e-05):
+"the way?\""
 
 ****************************************************************************************************
 
@@ -116,8 +116,8 @@ QUESTION #10:
 GROUND TRUTH ANSWER:
 "affection of the heart"
 
-PREDICTED ANSWER (score=4.396297663333826e-05):
-"superstition"
+PREDICTED ANSWER (score=3.915045454050414e-05):
+"Stapleton has"
 
 ****************************************************************************************************
 
@@ -127,8 +127,8 @@ QUESTION #11:
 GROUND TRUTH ANSWER:
 "Sir Charles"
 
-PREDICTED ANSWER (score=4.2875220970017835e-05):
-"superstition"
+PREDICTED ANSWER (score=2.3349184630205855e-05):
+"Stapleton came into the succession, how could he explain the fact that"
 
 ****************************************************************************************************
 
@@ -138,8 +138,8 @@ QUESTION #12:
 GROUND TRUTH ANSWER:
 "no reason whatever to suspect foul play"
 
-PREDICTED ANSWER (score=4.3884636397706345e-05):
-"superstition"
+PREDICTED ANSWER (score=0.00011740749323507771):
+"we know of"
 
 ****************************************************************************************************
 
@@ -149,8 +149,8 @@ QUESTION #13:
 GROUND TRUTH ANSWER:
 "several friends"
 
-PREDICTED ANSWER (score=4.439449912752025e-05):
-"superstition"
+PREDICTED ANSWER (score=2.580377258709632e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -160,8 +160,8 @@ QUESTION #14:
 GROUND TRUTH ANSWER:
 "natural causes"
 
-PREDICTED ANSWER (score=4.400066609377973e-05):
-"superstition"
+PREDICTED ANSWER (score=4.9220514483749866e-05):
+"the way?\""
 
 ****************************************************************************************************
 
@@ -171,8 +171,8 @@ QUESTION #15:
 GROUND TRUTH ANSWER:
 "naturalist."
 
-PREDICTED ANSWER (score=3.145694063277915e-05):
-"seriously. \"
+PREDICTED ANSWER (score=2.282273089804221e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -182,8 +182,8 @@ QUESTION #16:
 GROUND TRUTH ANSWER:
 "I have been calling on Mortimer, and he pointed you out to me"
 
-PREDICTED ANSWER (score=3.1959498301148415e-05):
-"seriously. \"
+PREDICTED ANSWER (score=0.00011420040391385555):
+"we know of him that"
 
 ****************************************************************************************************
 
@@ -193,8 +193,8 @@ QUESTION #17:
 GROUND TRUTH ANSWER:
 "Sir Henry"
 
-PREDICTED ANSWER (score=3.150120755890384e-05):
-"seriously. \"
+PREDICTED ANSWER (score=2.3173099179985e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -204,8 +204,8 @@ QUESTION #18:
 GROUND TRUTH ANSWER:
 "his heart was weak"
 
-PREDICTED ANSWER (score=3.178434417350218e-05):
-"yew alley. I feared"
+PREDICTED ANSWER (score=4.91186510771513e-05):
+"the way?\""
 
 ****************************************************************************************************
 
@@ -215,8 +215,8 @@ QUESTION #19:
 GROUND TRUTH ANSWER:
 "Merripit House"
 
-PREDICTED ANSWER (score=3.1630035664420575e-05):
-"seriously. \"
+PREDICTED ANSWER (score=0.0001188970563816838):
+"we know of"
 
 ****************************************************************************************************
 
@@ -226,8 +226,8 @@ QUESTION #20:
 GROUND TRUTH ANSWER:
 "get his hound, to treat it with his infernal paint, and to bring the beast round to the gate at which he had reason to expect that he would find the old gentleman waiting. The dog, incited by its master, sprang over the wicket-gate and pursued the unfortunate baronet, who fled screaming down the yew alley. In that gloomy tunnel it must indeed have been a dreadful sight to see that huge black creature, with its flaming jaws and blazing eyes, bounding after its victim."
 
-PREDICTED ANSWER (score=1.8033899323199876e-05):
-"pursued"
+PREDICTED ANSWER (score=0.00011697049922076985):
+"we know of"
 
 ****************************************************************************************************
 
@@ -237,8 +237,8 @@ QUESTION #21:
 GROUND TRUTH ANSWER:
 "his wife"
 
-PREDICTED ANSWER (score=1.709754542389419e-05):
-"pursued"
+PREDICTED ANSWER (score=2.5722692953422666e-05):
+"our minds the grim and grey impression which had been left upon both of"
 
 ****************************************************************************************************
 
@@ -248,8 +248,8 @@ QUESTION #22:
 GROUND TRUTH ANSWER:
 "treat it with his infernal paint"
 
-PREDICTED ANSWER (score=1.7809501514420845e-05):
-"pursued"
+PREDICTED ANSWER (score=4.958226054441184e-05):
+"we know of him that"
 
 ****************************************************************************************************
 
@@ -259,8 +259,8 @@ QUESTION #23:
 GROUND TRUTH ANSWER:
 "sprang over the wicket-gate and pursued"
 
-PREDICTED ANSWER (score=1.7694792404654436e-05):
-"pursued"
+PREDICTED ANSWER (score=4.9075413699029014e-05):
+"we know of him that"
 
 ****************************************************************************************************
 
@@ -270,7 +270,7 @@ QUESTION #24:
 GROUND TRUTH ANSWER:
 "lurked about with his hound, but without avail"
 
-PREDICTED ANSWER (score=1.816825351852458e-05):
-"pursued"
+PREDICTED ANSWER (score=0.00011692754924297333):
+"we know of him that"
 
 ****************************************************************************************************

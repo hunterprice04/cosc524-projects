@@ -6,13 +6,13 @@ import os
 def clean_context(filename):
     with open(filename, 'r', encoding="utf8") as f:
         text = f.read()
-    text = re.sub("\\n", r' ', text, re.ASCII)
-    text = re.sub(r"\s{2,}", r' ', text, re.ASCII)
-    text = re.sub(r"“|”", r'"', text, re.ASCII)
-    text = re.sub(r"‘|’", r"'", text, re.ASCII)
-    text = re.sub(r"\"", r'\\"', text, re.ASCII)
+    text = re.sub("\n", r' ', text)
+    text = re.sub(r"\s{2,}", r' ', text)
+    text = re.sub(r"“|”", r'"', text)
+    text = re.sub(r"‘|’", r"'", text)
+    text = re.sub(r"\"", '\\"', text)
     text = re.sub(r"_", r'', text, re.ASCII)
-    text = re.sub(r"\s{2,}", r' ', text, re.ASCII)
+    text = re.sub(r"\s{2,}", r' ', text)
     text = text.strip()
     return text
 

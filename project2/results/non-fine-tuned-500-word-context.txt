@@ -1,0 +1,276 @@
+****************************************************************************************************
+
+QUESTION #0:
+"What is the guests occupation?"
+
+GROUND TRUTH ANSWER:
+"practitioner"
+
+PREDICTED ANSWER (score=5.454727215692401e-05):
+"we have"
+
+****************************************************************************************************
+
+QUESTION #1:
+"How did Sherlock Holmes see Watson?"
+
+GROUND TRUTH ANSWER:
+"well-polished, silver-plated coffee-pot"
+
+PREDICTED ANSWER (score=5.3544616093859076e-05):
+"we have"
+
+****************************************************************************************************
+
+QUESTION #2:
+"What did Holmes and Watson inspect?"
+
+GROUND TRUTH ANSWER:
+"visitor's stick"
+
+PREDICTED ANSWER (score=5.4395040933741257e-05):
+"we have"
+
+****************************************************************************************************
+
+QUESTION #3:
+"Where was Sherlock Holmes sitting?"
+
+GROUND TRUTH ANSWER:
+"at the breakfast table"
+
+PREDICTED ANSWER (score=5.39487627975177e-05):
+"we have"
+
+****************************************************************************************************
+
+QUESTION #4:
+"When does Sherlock Holmes usually wake up?"
+
+GROUND TRUTH ANSWER:
+"very late in the mornings"
+
+PREDICTED ANSWER (score=5.230689566815272e-05):
+"we have"
+
+****************************************************************************************************
+
+QUESTION #5:
+"What habit does Sir Charles of Baskerville have?"
+
+GROUND TRUTH ANSWER:
+"in the habit every night before going to bed of walking down the famous yew alley of Baskerville Hall"
+
+PREDICTED ANSWER (score=1.8800817997544073e-05):
+"Sir Charles had declared his intention of starting next day for London, and had"
+
+****************************************************************************************************
+
+QUESTION #6:
+"What was Sir Charles doing the night of his murder?"
+
+GROUND TRUTH ANSWER:
+"That night he went out as usual for his nocturnal walk, in the course of which he was in the habit of smoking a cigar"
+
+PREDICTED ANSWER (score=1.8838371033780277e-05):
+"Sir Charles had declared his intention of starting next day for London, and had"
+
+****************************************************************************************************
+
+QUESTION #7:
+"How was Sir Charles's body found?"
+
+GROUND TRUTH ANSWER:
+"Charles's footmarks were easily traced down the alley."
+
+PREDICTED ANSWER (score=1.854438232840039e-05):
+"Sir Charles had declared his intention of starting next day for London, and had"
+
+****************************************************************************************************
+
+QUESTION #8:
+"Did anyone hear what happened to Sir Charles?"
+
+GROUND TRUTH ANSWER:
+"heard cries but is unable to state from what direction they came"
+
+PREDICTED ANSWER (score=1.820916986616794e-05):
+"Sir Charles had declared his intention of starting next day for London, and had"
+
+****************************************************************************************************
+
+QUESTION #9:
+"Was there anything interesting about the victims body?"
+
+GROUND TRUTH ANSWER:
+"No signs of violence were to be discovered upon Sir Charles's person, and though the doctor's evidence pointed to an almost incredible facial distortion"
+
+PREDICTED ANSWER (score=1.870897540356964e-05):
+"Sir Charles had declared his intention of starting next day for London, and had"
+
+****************************************************************************************************
+
+QUESTION #10:
+"How did Sir Charles die?"
+
+GROUND TRUTH ANSWER:
+"affection of the heart"
+
+PREDICTED ANSWER (score=4.126191561226733e-05):
+"There is no"
+
+****************************************************************************************************
+
+QUESTION #11:
+"Who died?"
+
+GROUND TRUTH ANSWER:
+"Sir Charles"
+
+PREDICTED ANSWER (score=4.230340709909797e-05):
+"There is no"
+
+****************************************************************************************************
+
+QUESTION #12:
+"Was there any sign of foul play?"
+
+GROUND TRUTH ANSWER:
+"no reason whatever to suspect foul play"
+
+PREDICTED ANSWER (score=4.1749746742425486e-05):
+"There is no"
+
+****************************************************************************************************
+
+QUESTION #13:
+"Who corroborated the doctor's findings?"
+
+GROUND TRUTH ANSWER:
+"several friends"
+
+PREDICTED ANSWER (score=4.091748996870592e-05):
+"There is no"
+
+****************************************************************************************************
+
+QUESTION #14:
+"What did the doctor say about the body?"
+
+GROUND TRUTH ANSWER:
+"natural causes"
+
+PREDICTED ANSWER (score=4.1090050217462704e-05):
+"There is no"
+
+****************************************************************************************************
+
+QUESTION #15:
+"What ideology does Stapleton follow?"
+
+GROUND TRUTH ANSWER:
+"naturalist."
+
+PREDICTED ANSWER (score=3.2340671168640256e-05):
+"think that it is likely.\" \""
+
+****************************************************************************************************
+
+QUESTION #16:
+"How did Stapleton know Sherlock Holmes?"
+
+GROUND TRUTH ANSWER:
+"I have been calling on Mortimer, and he pointed you out to me"
+
+PREDICTED ANSWER (score=3.194819510099478e-05):
+"Sir Henry has"
+
+****************************************************************************************************
+
+QUESTION #17:
+"Who did Stapleton ask about?"
+
+GROUND TRUTH ANSWER:
+"Sir Henry"
+
+PREDICTED ANSWER (score=3.246210690122098e-05):
+"think that it is likely.\" \""
+
+****************************************************************************************************
+
+QUESTION #18:
+"What did Stapleton know about Sir Charles?"
+
+GROUND TRUTH ANSWER:
+"his heart was weak"
+
+PREDICTED ANSWER (score=3.2152998755918816e-05):
+"Sir Henry has"
+
+****************************************************************************************************
+
+QUESTION #19:
+"What house did Stapleton live in?"
+
+GROUND TRUTH ANSWER:
+"Merripit House"
+
+PREDICTED ANSWER (score=3.190210190950893e-05):
+"think that it is likely.\" \""
+
+****************************************************************************************************
+
+QUESTION #20:
+"How did Stapleton kill Sir Charles?"
+
+GROUND TRUTH ANSWER:
+"get his hound, to treat it with his infernal paint, and to bring the beast round to the gate at which he had reason to expect that he would find the old gentleman waiting. The dog, incited by its master, sprang over the wicket-gate and pursued the unfortunate baronet, who fled screaming down the yew alley. In that gloomy tunnel it must indeed have been a dreadful sight to see that huge black creature, with its flaming jaws and blazing eyes, bounding after its victim."
+
+PREDICTED ANSWER (score=1.694730599410832e-05):
+"Stapleton was at a deadlock. \""
+
+****************************************************************************************************
+
+QUESTION #21:
+"Who did Stapleton hope would lure Sir Charles out?"
+
+GROUND TRUTH ANSWER:
+"his wife"
+
+PREDICTED ANSWER (score=1.7751581253833137e-05):
+"Stapleton lurked about"
+
+****************************************************************************************************
+
+QUESTION #22:
+"What did Stapleton do to the hound?"
+
+GROUND TRUTH ANSWER:
+"treat it with his infernal paint"
+
+PREDICTED ANSWER (score=1.694259663054254e-05):
+"Grimpen Mire"
+
+****************************************************************************************************
+
+QUESTION #23:
+"How did the hound get to the victim?"
+
+GROUND TRUTH ANSWER:
+"sprang over the wicket-gate and pursued"
+
+PREDICTED ANSWER (score=1.6862222764757462e-05):
+"Grimpen Mire"
+
+****************************************************************************************************
+
+QUESTION #24:
+"What did Stapleton do at first?"
+
+GROUND TRUTH ANSWER:
+"lurked about with his hound, but without avail"
+
+PREDICTED ANSWER (score=1.6537869669264182e-05):
+"Stapleton was at a deadlock. \""
+
+****************************************************************************************************
